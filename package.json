@@ -1,0 +1,21 @@
+{
+  "name": "legendary-classes-pf1e",
+  "version": "1.0.0",
+  "main": "legendary-classes-pf1e.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rollup": "rollup -c",
+    "unpack": "node ./tools/unpack.mjs",
+    "pack": "node ./tools/pack.mjs pack",
+    "build": "npm run pack && npm run rollup"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "rollup": "^4.20.0"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.3"
+  }
+}
