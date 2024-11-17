@@ -13,7 +13,8 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "rollup": "^4.20.0"
+    "rollup": "^4.20.0",
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "^1.0.3"

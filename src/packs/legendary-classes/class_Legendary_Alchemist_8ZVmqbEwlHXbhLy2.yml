@@ -1,0 +1,157 @@
+_id: 8ZVmqbEwlHXbhLy2
+img: systems/pf1/icons/items/potions/grand-yellow.jpg
+type: class
+name: Legendary Alchemist
+system:
+  description:
+    value: >-
+      <blockquote><p>Whether secreted away in a smoky basement laboratory or
+      gleefully experimenting in a well-respected school of magic, the alchemist
+      is often regarded as being just as unstable, unpredictable, and dangerous
+      as the concoctions he brews. While some creators of <em>alchemical
+      items</em> content themselves with sedentary lives as merchants, providing
+      <em>tindertwigs</em> and <em>smokesticks</em>, the true alchemist answers
+      a deeper calling. Rather than cast magic like a spellcaster, the alchemist
+      captures his own magic potential within liquids and extracts he creates,
+      infusing his chemicals with virulent power to grant him impressive skill
+      with poisons, explosives, and all manner of self-transformative
+      magic.</p></blockquote><p><strong>Role</strong>: The alchemist’s
+      reputation is not softened by his exuberance (some would say dangerous
+      recklessness) in perfecting his magical extracts and potion-like
+      creations, infusing these substances with magic siphoned from his aura and
+      using his own body as experimental stock. Nor is it mollified by the
+      alchemist’s almost gleeful passion for building explosive bombs and
+      discovering strange new poisons and methods for their use. These traits,
+      while making him a liability and risk for most civilized organizations and
+      institutions of higher learning, seem to fit quite well with most
+      adventuring groups.</p><h2>Class Skills</h2><p>The alchemist’s class
+      skills are Appraise (Int), Craft (any) (Int), Disable Device (Dex), Fly
+      (Dex), Heal (Wis), Knowledge (arcana) (Int), Knowledge (nature) (Int),
+      Perception (Wis), Profession (Wis), Sleight of Hand (Dex), Spellcraft
+      (Int), Survival (Wis), Use Magic Device (Cha).</p>
+  tags:
+    - alchemist
+  changes: []
+  changeFlags:
+    loseDexToAC: false
+    noMediumEncumbrance: false
+    noHeavyEncumbrance: false
+    mediumArmorFullSpeed: false
+    heavyArmorFullSpeed: false
+  contextNotes: []
+  links:
+    classAssociations:
+      - level: 1
+        uuid: Compendium.pf1.class-abilities.Item.7GNdI4zKfTcxNCk4
+      - level: 1
+        uuid: Compendium.pf1.class-abilities.Item.7gHiZBNHjwefbBLI
+      - level: 1
+        uuid: Compendium.pf1.class-abilities.Item.afQ1oDc64797Cyq8
+      - level: 1
+        uuid: Compendium.pf1.class-abilities.Item.zrTVb83VhkFnEv6G
+      - level: 1
+        uuid: Compendium.pf1.class-abilities.Item.jlvZK3xsfsDC358a
+      - level: 2
+        uuid: Compendium.pf1.class-abilities.Item.A54sLfcyoR5HGNbP
+      - level: 2
+        uuid: Compendium.pf1.class-abilities.Item.Xcim6WFtAtxJxnmA
+      - level: 2
+        uuid: Compendium.pf1.class-abilities.Item.2qcz39w9O2Qlms0Q
+      - level: 3
+        uuid: Compendium.pf1.class-abilities.Item.WIoNDjnbzdHBkLJr
+      - level: 6
+        uuid: Compendium.pf1.class-abilities.Item.FXjdFZlT0xiDr034
+      - level: 10
+        uuid: Compendium.pf1.class-abilities.Item.tflIOhX6ukxtwXLx
+      - level: 14
+        uuid: Compendium.pf1.class-abilities.Item.TeQgG1uEaWsMXBXX
+      - level: 18
+        uuid: Compendium.pf1.class-abilities.Item.G7xqb0Ka8Bm9XAZz
+      - level: 20
+        uuid: Compendium.pf1.class-abilities.Item.1s0MIxdtmMD2403h
+    supplements: []
+  tag: ''
+  armorProf:
+    value:
+      - lgt
+    custom: []
+  weaponProf:
+    value:
+      - simple
+    custom:
+      - Bombs
+  subType: base
+  level: 1
+  hd: 8
+  hp: 8
+  bab: med
+  skillsPerLevel: 4
+  savingThrows:
+    fort:
+      value: high
+    ref:
+      value: high
+    will:
+      value: low
+  wealth: 3d6 * 10
+  alignment: Any
+  classSkills:
+    acr: false
+    apr: true
+    art: false
+    blf: false
+    clm: false
+    crf: true
+    dip: false
+    dev: true
+    dis: false
+    esc: false
+    fly: true
+    han: false
+    hea: true
+    int: false
+    kar: true
+    kdu: false
+    ken: true
+    kge: false
+    khi: false
+    klo: false
+    kna: true
+    kno: false
+    kpl: false
+    kre: false
+    lin: false
+    lor: false
+    per: true
+    prf: false
+    pro: true
+    rid: false
+    sen: false
+    slt: true
+    spl: true
+    ste: true
+    sur: true
+    swm: false
+    umd: true
+  casting:
+    type: prepared
+    progression: med
+    ability: int
+    spells: alchemy
+    domain: null
+    offset: null
+    cantrips: false
+  customHD: ''
+  sources:
+    - title: Legendary Alchemists
+      pages: 2-10
+      publisher: ' Legendary Games'
+_stats:
+  systemId: pf1
+  systemVersion: '10.8'
+  coreVersion: '11.315'
+
+ownership:
+  default: 0
+_key: '!items!8ZVmqbEwlHXbhLy2'
+
