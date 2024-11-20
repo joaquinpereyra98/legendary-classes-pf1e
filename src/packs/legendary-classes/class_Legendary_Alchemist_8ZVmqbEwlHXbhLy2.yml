@@ -42,31 +42,49 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.7GNdI4zKfTcxNCk4
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.pIkws4riBI5ULJCw
+      - level: 1
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.WQl51qPfZaJXyvnn
+      - level: 1
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.N7tdZu4Wt0RUdV5E
+      - level: 1
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.Imeg51LguHS5WcF3
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.7gHiZBNHjwefbBLI
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.afQ1oDc64797Cyq8
-      - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.zrTVb83VhkFnEv6G
-      - level: 1
         uuid: Compendium.pf1.class-abilities.Item.jlvZK3xsfsDC358a
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.A54sLfcyoR5HGNbP
-      - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.Xcim6WFtAtxJxnmA
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.vwShfTd2dE7JGENe
       - level: 2
         uuid: Compendium.pf1.class-abilities.Item.2qcz39w9O2Qlms0Q
       - level: 3
+        uuid: Compendium.pf1.class-abilities.Item.afQ1oDc64797Cyq8
+      - level: 3
         uuid: Compendium.pf1.class-abilities.Item.WIoNDjnbzdHBkLJr
-      - level: 6
-        uuid: Compendium.pf1.class-abilities.Item.FXjdFZlT0xiDr034
+      - level: 3
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.5nffpqavdSaADuxq
+      - level: 4
+        uuid: Compendium.pf1.class-abilities.Item.Xcim6WFtAtxJxnmA
+      - level: 4
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.qmNLJnTowa5Sqa0h
+      - level: 5
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.yeompva58wpTqDOw
+      - level: 5
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.5IQI0PtU3cfK6dUZ
+      - level: 7
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.lpAUZAk6VNOSSEUP
+      - level: 9
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.3CNJCeDoXVAv8kbL
       - level: 10
         uuid: Compendium.pf1.class-abilities.Item.tflIOhX6ukxtwXLx
-      - level: 14
-        uuid: Compendium.pf1.class-abilities.Item.TeQgG1uEaWsMXBXX
-      - level: 18
+      - level: 11
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.KMaDy4sRIm8K9HhM
+      - level: 13
         uuid: Compendium.pf1.class-abilities.Item.G7xqb0Ka8Bm9XAZz
+      - level: 15
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.bif4V4VNiwzYiUvj
+      - level: 19
+        uuid: Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.LUNfPE0JEvgpIacR
       - level: 20
         uuid: Compendium.pf1.class-abilities.Item.1s0MIxdtmMD2403h
     supplements: []
@@ -150,8 +168,8 @@ _stats:
   systemId: pf1
   systemVersion: '10.8'
   coreVersion: '11.315'
-
 ownership:
   default: 0
+effects: []
 _key: '!items!8ZVmqbEwlHXbhLy2'
 

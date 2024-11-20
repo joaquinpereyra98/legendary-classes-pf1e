@@ -1,0 +1,11 @@
+_id: iX9j94rXNXEs3Ywc
+_key: '!items!iX9j94rXNXEs3Ywc'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Toxicologist Discipline Defense(19th)
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>All allies within 60 feet of the alchemist are immune to poison and the
+      alchemist becomes immune to acid damage</p>
+  subType: classFeat

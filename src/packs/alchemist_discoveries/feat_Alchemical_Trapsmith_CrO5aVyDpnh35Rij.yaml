@@ -1,0 +1,27 @@
+_id: CrO5aVyDpnh35Rij
+_key: '!items!CrO5aVyDpnh35Rij'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Alchemical Trapsmith
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Benefit: Starting at 2nd level, an alchemist adds 1/2 their alchemist
+      level on Perception checks made to locate traps and on Disable Device
+      checks. An alchemist can use Disable Device to disarm magic traps. As a
+      full-round action, an alchemist can make a ranged touch attack against a
+      trap using an alchemist's fire or acid, using the trap's Disable Device DC
+      as its AC. If the attack misses, the trap activates. If the attack hits,
+      the bomb deactivates the trap without setting it off. The alchemist must
+      both know the location of the trap and be able to reach the trap's trigger
+      with a ranged touch attack in order to use this ability. At 6th level, an
+      alchemist can disarm magic traps with this ability.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

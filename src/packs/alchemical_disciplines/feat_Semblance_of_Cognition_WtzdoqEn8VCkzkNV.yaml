@@ -1,0 +1,11 @@
+_id: WtzdoqEn8VCkzkNV
+_key: '!items!WtzdoqEn8VCkzkNV'
+img: icons/commodities/tech/cog-gold.webp
+name: Semblance of Cognition
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>A tinker alchemist no longer needs to spend quintessence to command their automaton as a free action. If they have Invigorating Command, they gain the bonuses from that breakthrough whenever they command their automaton</p>
+  subType: classFeat
+type: feat

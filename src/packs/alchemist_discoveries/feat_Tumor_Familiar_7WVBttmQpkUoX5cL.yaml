@@ -1,0 +1,41 @@
+_id: 7WVBttmQpkUoX5cL
+_key: '!items!7WVBttmQpkUoX5cL'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Tumor Familiar
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Benefit: The alchemist creates a Diminutive or Tiny tumor on their
+      body, usually on their back or stomach. As a standard action, the
+      alchemist can have t h e tumor detach itself from their body as a separate
+      creature vaguely resembling a kind of animal suitable for a familiar (bat,
+      cat, and so on) and move about as if it were an independent creature. The
+      tumor can reattach itself to the alchemist as a standard action. The tumor
+      has all the abilities of the animal it resembles (for example, a batlike
+      tumor can fly) and familiar abilities based on the alchemist's caster
+      level, gaining DR 5/magic at 7th level in place of speak with animals of
+      its kind and increasing that damage resistance by 5 at 13th level in place
+      of scry on familiar (these are treated as speak with animals of its kind
+      and scry on familiar for the purposes of taking a familiar archetype; if
+      speak with animals of its kind is traded but scry on familiar is not, at
+      13th level the familiar gains DR 5/magic). The tumor acts as the
+      alchemist's familiar whether attached or separated (providing a skill
+      bonus, the Alertness feat, and so on). When attached to the alchemist, the
+      tumor has fast healing 5. An alchemist's extracts and mutagens are
+      considered spells for the purposes of familiar abilities like share spells
+      and deliver touch spells. If a tumor familiar is lost or dies, it can be
+      replaced 1 week later through a specialized procedure that costs 100 gp
+      per alchemist level. The ritual takes 8 hours to complete. An alchemist
+      can take the Improved Familiar feat with their tumor familiar, treating
+      their alchemist level as their arcane spellcaster level.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

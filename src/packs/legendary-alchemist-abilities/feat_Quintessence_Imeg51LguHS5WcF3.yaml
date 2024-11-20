@@ -1,0 +1,21 @@
+_id: Imeg51LguHS5WcF3
+_key: "!items!Imeg51LguHS5WcF3"
+img: icons/magic/nature/beam-hand-leaves-green.webp
+name: Quintessence
+system:
+  abilityType: su
+  associations:
+    classes:
+      - Legendary Alchemist
+  uses: 
+    per: day
+    maxFormula: floor(@class.level / 2) + @abilities.cha.mod
+    rechargeFormula: "@item.uses.max"
+  description:
+    value: >-
+      <p>While the majority of the alchemist’s research is based upon science, to truly tap into the unknown, the alchemist needs to put a part of themselves into their research in the form of quintessence. The alchemist uses this mystic resource as a catalyst to bridge the gap between the supernatural and science, allowing them to create something more powerful than the sum of its parts. An alchemist possesses an amount of quintessence equal to their Intelligence modifier; at 2nd level and every three levels afterwards, they gain an additional point of quintessence. Some class features and discoveries will require the alchemist to spend a listed amount of quintessence. An alchemist’s quintessence pool refreshes each day, typically after they get a restful night’s sleep.</p>
+  links:
+    charges:
+      - uuid: "Compendium.legendary-classes-pf1e.legendary-alchemist-abilities.Item.qmNLJnTowa5Sqa0h"
+  subType: classFeat
+type: feat

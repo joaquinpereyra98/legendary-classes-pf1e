@@ -1,0 +1,14 @@
+_id: KMaDy4sRIm8K9HhM
+_key: '!items!KMaDy4sRIm8K9HhM'
+img: icons/weapons/thrown/bomb-fuse-black-pink.webp
+name: Empowered Bomb
+system:
+  abilityType: ex
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p> At 11th level, if the alchemist spends 1 or more quintessence applying a discovery to a bomb, the damage die of the alchemist’s bombs increases to 1d8 until the end of their round.</p>
+  subType: classFeat
+type: feat

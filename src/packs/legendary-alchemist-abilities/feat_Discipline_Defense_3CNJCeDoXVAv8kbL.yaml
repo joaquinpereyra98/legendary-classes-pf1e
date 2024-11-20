@@ -1,0 +1,13 @@
+_id: 3CNJCeDoXVAv8kbL
+_key: '!items!3CNJCeDoXVAv8kbL'
+img: icons/consumables/potions/bottle-conical-corked-yellow.webp
+name: Discipline Defense
+system:
+  abilityType: ex
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: <p>At 9th level and again at 19th level, an alchemist gains a unique defensive ability based on their chosen discipline.</p>
+  subType: classFeat
+type: feat

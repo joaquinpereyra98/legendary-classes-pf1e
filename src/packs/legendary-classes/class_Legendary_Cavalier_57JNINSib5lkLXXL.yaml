@@ -1,13 +1,14 @@
 _id: 57JNINSib5lkLXXL
-_key: '!items!57JNINSib5lkLXXL'
+_key: "!items!57JNINSib5lkLXXL"
 img: systems/pf1/icons/items/inventory/horseshoe.jpg
 name: Legendary Cavalier
 system:
   armorProf:
-    - lgt
-    - med
-    - hvy
-    - shl
+    value:
+      - lgt
+      - med
+      - hvy
+      - shl
   bab: high
   classSkills:
     art: true
@@ -46,33 +47,33 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.WNi2SBF6Z2zhBMCl
+        uuid: Compendium.pf1.class-abilities.WNi2SBF6Z2zhBMCl
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.P2XyBCDEUGOFwRAF
+        uuid: Compendium.pf1.class-abilities.P2XyBCDEUGOFwRAF
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.c3MSLdplxdRZrSxL
+        uuid: Compendium.pf1.class-abilities.c3MSLdplxdRZrSxL
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.YKyAQ2o5Yzox79B8
+        uuid: Compendium.pf1.class-abilities.YKyAQ2o5Yzox79B8
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.QGv2YjclwgkruFE6
+        uuid: Compendium.pf1.class-abilities.QGv2YjclwgkruFE6
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.nBpz562qzAntafUI
+        uuid: Compendium.pf1.class-abilities.nBpz562qzAntafUI
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.pqu1Mvo46iRpVH3I
+        uuid: Compendium.pf1.class-abilities.pqu1Mvo46iRpVH3I
       - level: 6
-        uuid: Compendium.pf1.class-abilities.Item.vfu0FW2XYF7cBUQp
+        uuid: Compendium.pf1.class-abilities.vfu0FW2XYF7cBUQp
       - level: 9
-        uuid: Compendium.pf1.class-abilities.Item.ikVwT8b9zfj701k1
+        uuid: Compendium.pf1.class-abilities.ikVwT8b9zfj701k1
       - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.fo3SQLOjFcQSmVMJ
+        uuid: Compendium.pf1.class-abilities.fo3SQLOjFcQSmVMJ
       - level: 12
-        uuid: Compendium.pf1.class-abilities.Item.jqXRcfZYvBL50z0q
+        uuid: Compendium.pf1.class-abilities.jqXRcfZYvBL50z0q
       - level: 14
-        uuid: Compendium.pf1.class-abilities.Item.1Yy6Fn3UD82uviFg
+        uuid: Compendium.pf1.class-abilities.1Yy6Fn3UD82uviFg
       - level: 17
-        uuid: Compendium.pf1.class-abilities.Item.mrJ61WiA6PuZgPTJ
+        uuid: Compendium.pf1.class-abilities.mrJ61WiA6PuZgPTJ
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.pZaZcT8gMPQGX9Ur
+        uuid: Compendium.pf1.class-abilities.pZaZcT8gMPQGX9Ur
   savingThrows:
     fort:
       value: high
@@ -83,6 +84,7 @@ system:
   tag: cavalier
   wealth: 5d6 * 10
   weaponProf:
-    - simple
-    - martial
+    value:
+      - simple
+      - martial
 type: class

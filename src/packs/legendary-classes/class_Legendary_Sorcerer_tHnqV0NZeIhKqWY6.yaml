@@ -1,124 +1,128 @@
 _id: tHnqV0NZeIhKqWY6
-_key: '!items!tHnqV0NZeIhKqWY6'
+_key: "!items!tHnqV0NZeIhKqWY6"
 name: Legendary Sorcerer
 img: icons/equipment/head/hat-tricorn-brown.webp
 system:
+  alignment: Any neutral
   armorProf:
-    - lgt
-    - Buckler
+    custom:
+      - No Metal Armor
+    value:
+      - lgt
+      - med
+      - shl
   bab: high
   classSkills:
     acr: true
     art: true
-    blf: true
     clm: true
     crf: true
-    dip: true
-    esc: true
-    int: true
-    klo: true
-    kno: true
+    fly: true
+    han: true
+    kna: true
     lor: true
     per: true
-    prf: true
     pro: true
     rid: true
-    sen: true
-    slt: true
+    ste: true
+    sur: true
     swm: true
   description:
     value: >-
-      <p>Whereas many warriors brave battle encased in suits of armor and
-      wielding large and powerful weapons, swashbucklers rely on speed, agility,
-      and panache. Swashbucklers dart in and out of the fray, wearing down
-      opponents with lunges and feints, all while foiling the powerful attacks
-      against them with a flick of the wrist and a flash of the blade. Their
-      deft parries and fatal ripostes are carnage elevated to an art form. Some
-      may be arrogant and devil-may-care, but behind this veneer lie people
-      deeply dedicated to their craft. Those of smaller races are particularly
-      driven to prove that the right mix of discipline and daring is the perfect
-      counter to size and strength, and enjoy nothing more than taking down
-      lumbering brutes and bullies.</p><p><strong>Role</strong>: Combining fancy
-      footwork with quick and precise lunges, swashbucklers dart in and out of
-      battle, harassing and thwarting their opponents. These fast and agile
-      combatants serve as protectors for spellcasters and flank mates for rogues
-      and slayers, while waiting for the opportunity to show panache and score
-      the killing blow on some lumbering hulk. Swashbucklers often face death
-      with wry humor, mocking it with jabbing wit.</p><p><strong>Parent
-      Classes</strong>: <em>Fighter</em> and <em>gunslinger</em>.</p><h2>Class
-      Skills</h2><p>The swashbuckler’s class skills are Acrobatics (Dex), Bluff
-      (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Escape Artist (Dex),
-      Intimidate (Cha), Knowledge (local) (Int), Knowledge (nobility) (Int),
-      Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense
-      Motive (Wis), <em>Sleight of Hand</em> (Dex), and Swim (Str).</p>
+      <p>Whether riding on the wind as a falcon or hiding in some fetid bog
+      waiting to strike, the shifter is a true master of the wild. Both a
+      devoted defender of druidic circles and a fierce predator, the shifter can
+      take on the forms of nature and even fuse them together with devastating
+      effect and unbridled savagery. By way of the druidic discipline of
+      <em>wild shape</em>, they become living aspects of the wild. At first,
+      they are able to assume only a minor aspect, but with time and practice
+      they can fully transform into ever more powerful forms.</p><p>The shifter
+      class offers players a way to experience a shapeshifting character that is
+      more martially inclined than a spellcasting <em>druid</em>. With each new
+      level, the shifter’s powers grow in new and surprising ways, creating a
+      character that thrives in battle, exploration, and stealth.</p><p>Shifters
+      are protectors of druidic circles and avengers of nature, yet a shifter’s
+      magic is different from that of her druidic kin. Rather than invoking
+      spells from the natural world or forging alliances with <em>animals</em>,
+      shifters focus their supernatural powers inward to gain control over their
+      own forms. Their ability to change their forms is as varied as the wonders
+      of the wilds themselves but always remains at least partially rooted in
+      the natural world. There are many paths to becoming a shifter; most are
+      trained in that role by druidic circles and have their powers unlocked via
+      rituals of initiation. Yet some stumble upon the gift naturally, as if
+      their blood bore the secrets of shifter transformation.</p><p>For those
+      leaning toward the causes of law and good, the path of the shifter is one
+      of contemplation and understanding. They become one with nature through
+      mental and physical mimicry and gain an ever deeper spiritual
+      understanding of the ebb and flow of the natural world. Those leaning
+      toward the chaotic and evil teachings of druidic philosophy find such
+      enlightenment through more violent means. These are typically quicker
+      transformations, both brutal and painful, imparting the dark lessons of
+      nature through its most catastrophic forms. Shifters who lean toward true
+      neutrality are the most diverse when it comes to their command of
+      metamorphic secrets.</p><p><strong>Role</strong>: The shifter is so
+      attuned to nature and the wild beasts of the world that she can call upon
+      those powers to mystically fortify her being. Fluid in form and function,
+      she can shape herself to overcome hardships and support those she
+      befriends or serves.</p><h2>Class Skills</h2><p>The shifter’s class skills
+      are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal
+      (Cha), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Ride
+      (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).</p>
   hd: 10
   hp: 10
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Drj7Yp0Ymke4lFZb
+        uuid: Compendium.pf1.class-abilities.ph7qA9fJX3iPuqxa
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.LPAbzynGlOwYcGx7
+        uuid: Compendium.pf1.class-abilities.fi5PsRq1XW7MStPM
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.0gO5orp5nly2nFjy
+        uuid: Compendium.pf1.class-abilities.Yr8dfM2d8JEWoYkr
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.6MPBWFapcblJlTpA
-      - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.itRpFgpHNpJnjz0p
-      - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Vvm6rtmeg1DwIEAC
+        uuid: Compendium.pf1.class-abilities.Item.7fhS2HmIivLXQxlq
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.etOoJgoeaBRenCir
+        uuid: Compendium.pf1.class-abilities.l52geoeGQcQz84AE
+      - level: 2
+        uuid: Compendium.pf1.class-abilities.r8wPs0bB3WhOLxbX
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.3ckhIMVoW97itujC
-      - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.m6QwZptZdVMTXUVH
-      - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.GpKn2Soo0Etttd3R
-      - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.paKUaUDcQTaojyhE
-      - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.H9Rq9os7iM27l8Gt
+        uuid: Compendium.pf1.class-abilities.5iXq1igb1Cq0qobT
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.qzrYai2tj5Ehg6Um
+        uuid: Compendium.pf1.class-abilities.qjpLIatoQIzmcehq
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.dfTaltqK6RlSaLVt
-      - level: 7
-        uuid: Compendium.pf1.class-abilities.Item.K9QGNUKCb2bInoF7
-      - level: 7
-        uuid: Compendium.pf1.class-abilities.Item.3jTl1jRl61KHdKbX
-      - level: 7
-        uuid: Compendium.pf1.class-abilities.Item.6tm1KaCcb1rRiyOj
-      - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.RgLayfI1UJoPqUPj
-      - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.4GS5Ub6AilRW3pU9
-      - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.CNwHl4YjXM4xl7MU
-      - level: 15
-        uuid: Compendium.pf1.class-abilities.Item.5ydAeLDERG0HWlRh
-      - level: 15
-        uuid: Compendium.pf1.class-abilities.Item.9VGg5y0w6AdeBGU9
-      - level: 15
-        uuid: Compendium.pf1.class-abilities.Item.y6pQgcivr0BpOZ66
-      - level: 19
-        uuid: Compendium.pf1.class-abilities.Item.woRgiQJbhgpQolqB
-      - level: 19
-        uuid: Compendium.pf1.class-abilities.Item.jl0kds8Gpa3G9xxr
-      - level: 19
-        uuid: Compendium.pf1.class-abilities.Item.iKU4dEZtK3EotBFj
+        uuid: Compendium.pf1.class-abilities.adslhIPLFgIaHBfh
+      - level: 6
+        uuid: Compendium.pf1.class-abilities.eM1RMYR1EUBuUVTv
+      - level: 9
+        uuid: Compendium.pf1.class-abilities.jPNCx02S3ZlIPOmL
+      - level: 14
+        uuid: Compendium.pf1.class-abilities.bXxt8L2PITMstpka
+      - level: 18
+        uuid: Compendium.pf1.class-abilities.cBwQdqQ4KmVBck3t
+      - level: 18
+        uuid: Compendium.pf1.class-abilities.5JlthJkVGEHPZypG
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.B3dtGKuSpRGfU96T
+        uuid: Compendium.pf1.class-abilities.joNziZgJl9ZOJZlF
   savingThrows:
+    fort:
+      value: high
     ref:
       value: high
   skillsPerLevel: 4
   sources:
-    - id: PZO1129
-      pages: 56-59
-  tag: swashbuckler
-  wealth: 5d6 * 10
+    - id: PZO1140
+      pages: 26-31
+  tag: shifter
+  wealth: 3d6 * 10
   weaponProf:
-    - simple
-    - martial
+    custom:
+      - Club
+      - Dagger
+      - Dart
+      - Quarterstaff
+      - Scimitar
+      - Scythe
+      - Sickle
+      - Shortspear
+      - Sling
+      - Spear
 type: class

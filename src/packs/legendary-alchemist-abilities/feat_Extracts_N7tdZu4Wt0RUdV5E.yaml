@@ -1,0 +1,30 @@
+_id: N7tdZu4Wt0RUdV5E
+_key: '!items!N7tdZu4Wt0RUdV5E'
+img: systems/pf1/icons/items/potions/magic-yellow.jpg
+name: Extracts
+system:
+  abilityType: su
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>Alchemists are not only masters of creating mundane alchemical substances such as alchemist’s fire and smokesticks, but also of fashioning magical potion-like extracts in which they can store spell effects. In effect, an alchemist prepares their spells by mixing ingredients into a number of extracts, and then “casts” their spells by drinking the extract. In many ways, extracts behave like spells in potion form, and as such their effects can be dispelled by effects like <i>detect magic</i> using the alchemist’s level as the caster level. Unlike potions, though, extracts can have powerful effects and duplicate spells that a potion normally could not.
+      </p> <p>  An alchemist can create only a certain number of extracts of each level per
+      day. Their base daily allotment of extracts is given on
+      <b>Table 2–1</b>. In addition, they receive bonus extracts per day
+      if they have a high Intelligence score, in the same way a wizard receives
+      bonus spells per day. When an alchemist mixes an extract, they infuse the
+      chemicals and reagents in the extract with magic siphoned from their own
+      magical aura. An extract, once created, remains potent for 1 day before
+      becoming inert, so an alchemist must re-prepare their extracts every day. In
+      addition, an extract can be used by any creature who possesses it. Mixing an
+      extract takes 1 minute of work—most alchemists prepare many extracts at the
+      start of the day or just before going on an adventure, but it’s not uncommon
+      for an alchemist to keep some (or even all) of their daily extract slots open
+      so that they can prepare extracts in the field as needed.</p>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.items.Item.3cF2AyPBjbB8ckon
+  subType: classFeat
+type: feat

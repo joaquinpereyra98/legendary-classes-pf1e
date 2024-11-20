@@ -1,0 +1,13 @@
+_id: WQl51qPfZaJXyvnn
+_key: '!items!WQl51qPfZaJXyvnn'
+img: icons/consumables/potions/bottle-conical-corked-yellow.webp
+name: Alchemical Discipline
+system:
+  abilityType: su
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: <p>At 1st level, an alchemist must focus on a particular path of alchemy, devoting their time and resources towards mastering it. Each discipline possesses its own unique abilities and discoveries, allowing for the alchemist to expand upon their abilities in interesting and unique ways.</p>
+  subType: classFeat
+type: feat  

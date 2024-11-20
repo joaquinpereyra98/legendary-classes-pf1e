@@ -1,0 +1,14 @@
+_id: bif4V4VNiwzYiUvj
+_key: '!items!bif4V4VNiwzYiUvj'
+img: icons/weapons/thrown/bomb-fuse-black-pink.webp
+name: Flurry Bomb
+system:
+  abilityType: ex
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>At 15th level, whenever an alchemist creates a bomb, they can create three bombs, being able to attack with all three as a part of their attack action. These extra bombs takes a -5 penalty to their attack roll, are not treated as an attack action, and the alchemist cannot apply a substance discovery to them bombs.</p>
+  subType: classFeat
+type: feat

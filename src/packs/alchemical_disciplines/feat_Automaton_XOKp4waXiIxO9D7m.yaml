@@ -1,0 +1,13 @@
+_id: XOKp4waXiIxO9D7m
+_key: '!items!XOKp4waXiIxO9D7m'
+img: icons/commodities/tech/cog-gold.webp
+name: Automaton
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>At 1st level, a tinker alchemist gains the ability to create a powerful mechanical ally called an automaton. This being’s nature—whether of fleshcraft, gears, or alchemical hydraulics—may vary depending on the alchemist that created it, and its form may mimic any creature or be entirely fantastical but it is always obvious that it is not a natural creature unless somehow disguised.</p>
+      <p>Automata are normally passive, taking only a single move action each round. If the alchemist actively commands their automaton, however, it may take a full round of actions (move, standard, and swift) that round. Commanding an automaton is a standard action that requires the alchemist to be within 100 feet of their automaton and to be able to communicate with it in some way, whether by speech, signs, or some more exotic means. By spending a point of quintessence, the alchemist may instead command it as a free action; if they do so, the command allows the automaton to take a full round of actions each round for a number of rounds equal to the alchemist’s Intelligence modifier. Only the alchemist that created it may command their automaton in this way; if another creature somehow gains control of the automaton, it can only ever take a move action each round. Even if the alchemist does not actively command their automaton, it follows its master’s wishes to the best of its abilities, and the alchemist may communicate their wishes in any way they could communicate with other creatures.</p>
+      <p>Should the automaton be destroyed, it may be repaired by the alchemist spending 100 GP worth of alchemical substances and 8 hours of work. Alternatively, the alchemist may create a completely new automaton by spending 24 hours of work and 300 GP worth of alchemical substances; any automaton they previously had becomes irreversibly non-functional. This allows the alchemist to choose new customizations and even base forms, if they so choose.</p>
+  subType: classFeat
+type: feat

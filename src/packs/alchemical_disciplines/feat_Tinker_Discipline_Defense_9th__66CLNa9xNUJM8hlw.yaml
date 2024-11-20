@@ -1,0 +1,11 @@
+_id: 66CLNa9xNUJM8hlw
+_key: '!items!66CLNa9xNUJM8hlw'
+img: icons/commodities/tech/cog-gold.webp
+name: Tinker Discipline Defense(9th)
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>The alchemist gains a 50% chance to negate critical hits and sneak
+      attacks</p>
+  subType: classFeat

@@ -1,0 +1,14 @@
+_id: 5nffpqavdSaADuxq
+_key: '!items!5nffpqavdSaADuxq'
+img: systems/pf1/icons/items/potions/minor-red.jpg
+name: Alchemical Fusion
+system:
+  abilityType: su
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>At 3rd level, a alchemist can combine two alchemical splash weapons (holy water and unholy water are treated as alchemical splash weapons for the purpose of this ability) into a single flask; doing so takes 1 minute. When thrown as a splash weapon, the mixture has the effects of both component substances and creatures are affected as if hit by both. The mixture becomes inert after 24 hour unless the alchemist spends 1 minute to separate the materials into individual containers, and only liquids may be mixed with this ability. This ability does not work on potions, elixirs, extracts, or other such materials. Mixing a substance with a similar or identical substance (such as alchemist’s fire with alchemist’s fire) doubles that item’s effect and duration. A mixture cannot be combined with another mixture, including mixtures created with other items, such as a hybridization funnel. A mixture cannot be used with the alchemy ability to increase its damage or the alchemical weapon class feature.</p>
+  subType: classFeat
+type: feat

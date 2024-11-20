@@ -1,0 +1,14 @@
+_id: 5IQI0PtU3cfK6dUZ
+_key: "!items!5IQI0PtU3cfK6dUZ"
+img: icons/consumables/potions/bottle-conical-corked-yellow.webp
+name: Discipline Breakthrough
+system:
+  abilityType: ex
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>At 5th level and every six levels afterwards, an alchemist experiences an incredible breakthrough in the field of their discovery. An alchemist gains the listed benefit for their discipline.</p>
+  subType: classFeat
+type: feat

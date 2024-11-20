@@ -1,0 +1,11 @@
+_id: 35nSe7mpTZlUBqru
+_key: '!items!35nSe7mpTZlUBqru'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Mutagenic Discipline Defense(19th)
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>The alchemist becomes immune to transmutation effects, although they
+      can chose to allow a transmutation effect affect them</p>
+  subType: classFeat

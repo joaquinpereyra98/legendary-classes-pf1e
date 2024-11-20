@@ -1,0 +1,39 @@
+_id: LNzZOcDxG8FE7q4b
+_key: '!items!LNzZOcDxG8FE7q4b'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Inhaled Extract
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Prerequisite(s) Alchemist 8th.</p>
+
+      <p>Benefit: The alchemist can store their extracts inside of atomizers,
+      rather than bottles or vials, allowing them to spray them at themselves or
+      an adjacent ally. The target is considered the imbiber, as if they had
+      drank an extract prepared with the infusion discovery. As the contents of
+      an atomizer are inhaled, the target must be able to breathe. Atomized
+      extracts are considered extracts for purposes of other abilities.</p>
+
+      <p>In addition, the alchemist can also create an inhaled version of an
+      extract that is shared among multiple creatures instead of one that is
+      imbibed. They must decide that an extract is an inhaled extract when they
+      make it. When used, the extract grants its benefit to all creatures within
+      a 10-foot spread of the extract. An inhaled extract expends one of the
+      alchemist's daily extracts as if it were an extract 1 level higher (an
+      inhaled extract of cure light wounds would be treated as a 2nd-level
+      extract when prepared, taking up one of the alchemist's 2nd- level slots).
+      This discovery can be applied only to extracts with a range of touch.
+      Special: If the alchemist has the mutagenic discipline, they can store
+      their mutagen inside of atomizers, being able to spray them in the same
+      way as they can with extracts.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

@@ -1,0 +1,9 @@
+_id: PpqqWPFZKPfGn3C7
+_key: '!items!PpqqWPFZKPfGn3C7'
+img: icons/commodities/tech/cog-gold.webp
+name: Tinker Discipline Defense(19th)
+system:
+  abilityType: ex
+  description:
+    value: <p>The alchemist becomes immune to critical hits and sneak attack</p>
+  subType: classFeat

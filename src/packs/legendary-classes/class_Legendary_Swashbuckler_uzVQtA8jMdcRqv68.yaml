@@ -1,11 +1,13 @@
 _id: uzVQtA8jMdcRqv68
-_key: '!items!uzVQtA8jMdcRqv68'
+_key: "!items!uzVQtA8jMdcRqv68"
 name: Legendary Swashbuckler
 img: icons/equipment/head/hat-tricorn-brown.webp
 system:
   armorProf:
-    - lgt
-    - Buckler
+    custom:
+      - Buckler
+    value:
+      - lgt
   bab: high
   classSkills:
     acr: true
@@ -56,11 +58,11 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Drj7Yp0Ymke4lFZb
+        uuid: Compendium.pf1.class-abilities.Drj7Yp0Ymke4lFZb
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.LPAbzynGlOwYcGx7
+        uuid: Compendium.pf1.class-abilities.LPAbzynGlOwYcGx7
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.0gO5orp5nly2nFjy
+        uuid: Compendium.pf1.class-abilities.0gO5orp5nly2nFjy
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.6MPBWFapcblJlTpA
       - level: 1
@@ -68,7 +70,7 @@ system:
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.Vvm6rtmeg1DwIEAC
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.etOoJgoeaBRenCir
+        uuid: Compendium.pf1.class-abilities.etOoJgoeaBRenCir
       - level: 3
         uuid: Compendium.pf1.class-abilities.Item.3ckhIMVoW97itujC
       - level: 3
@@ -78,11 +80,11 @@ system:
       - level: 3
         uuid: Compendium.pf1.class-abilities.Item.paKUaUDcQTaojyhE
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.H9Rq9os7iM27l8Gt
+        uuid: Compendium.pf1.class-abilities.H9Rq9os7iM27l8Gt
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.qzrYai2tj5Ehg6Um
+        uuid: Compendium.pf1.class-abilities.qzrYai2tj5Ehg6Um
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.dfTaltqK6RlSaLVt
+        uuid: Compendium.pf1.class-abilities.dfTaltqK6RlSaLVt
       - level: 7
         uuid: Compendium.pf1.class-abilities.Item.K9QGNUKCb2bInoF7
       - level: 7
@@ -108,7 +110,7 @@ system:
       - level: 19
         uuid: Compendium.pf1.class-abilities.Item.iKU4dEZtK3EotBFj
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.B3dtGKuSpRGfU96T
+        uuid: Compendium.pf1.class-abilities.B3dtGKuSpRGfU96T
   savingThrows:
     ref:
       value: high
@@ -119,6 +121,7 @@ system:
   tag: swashbuckler
   wealth: 5d6 * 10
   weaponProf:
-    - simple
-    - martial
+    value:
+      - simple
+      - martial
 type: class

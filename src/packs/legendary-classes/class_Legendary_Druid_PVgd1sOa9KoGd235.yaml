@@ -1,14 +1,16 @@
 _id: PVgd1sOa9KoGd235
-_key: '!items!PVgd1sOa9KoGd235'
+_key: "!items!PVgd1sOa9KoGd235"
 name: Legendary Druid
 img: systems/pf1/icons/spells/leaf-jade-3.jpg
 system:
   alignment: Any neutral
   armorProf:
-    - lgt
-    - med
-    - shl
-    - No Metal Armors
+    custom:
+      - No Metal Armors
+    value:
+      - lgt
+      - med
+      - shl
   bab: med
   casting:
     ability: wis
@@ -61,11 +63,11 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.wZ40bxNVn95BbLBV
+        uuid: Compendium.pf1.class-abilities.wZ40bxNVn95BbLBV
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.UJPlPj3RUKLvmKzM
+        uuid: Compendium.pf1.class-abilities.UJPlPj3RUKLvmKzM
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Yr8dfM2d8JEWoYkr
+        uuid: Compendium.pf1.class-abilities.Yr8dfM2d8JEWoYkr
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.utbMg45UlQKSuak9
       - level: 1
@@ -75,19 +77,19 @@ system:
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.RaFl9SpbAlXqhsDk
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.5iXq1igb1Cq0qobT
+        uuid: Compendium.pf1.class-abilities.5iXq1igb1Cq0qobT
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.adslhIPLFgIaHBfh
+        uuid: Compendium.pf1.class-abilities.adslhIPLFgIaHBfh
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.0j7haa7K5O1CJ3ot
+        uuid: Compendium.pf1.class-abilities.0j7haa7K5O1CJ3ot
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.sJdBOE9lwz5XAkUi
+        uuid: Compendium.pf1.class-abilities.sJdBOE9lwz5XAkUi
       - level: 9
-        uuid: Compendium.pf1.class-abilities.Item.yzmKDxR63yS5fqlc
+        uuid: Compendium.pf1.class-abilities.yzmKDxR63yS5fqlc
       - level: 13
-        uuid: Compendium.pf1.class-abilities.Item.MXj2WoyW7vLxiVYw
+        uuid: Compendium.pf1.class-abilities.MXj2WoyW7vLxiVYw
       - level: 15
-        uuid: Compendium.pf1.class-abilities.Item.5JlthJkVGEHPZypG
+        uuid: Compendium.pf1.class-abilities.5JlthJkVGEHPZypG
   savingThrows:
     fort:
       value: high
@@ -100,14 +102,15 @@ system:
   tag: druid
   wealth: 2d6 * 10
   weaponProf:
-    - Club
-    - Dagger
-    - Dart
-    - Quarterstaff
-    - Scimitar
-    - Scythe
-    - Sickle
-    - Shortspear
-    - Sling
-    - Spear
+    custom:
+      - Club
+      - Dagger
+      - Dart
+      - Quarterstaff
+      - Scimitar
+      - Scythe
+      - Sickle
+      - Shortspear
+      - Sling
+      - Spear
 type: class

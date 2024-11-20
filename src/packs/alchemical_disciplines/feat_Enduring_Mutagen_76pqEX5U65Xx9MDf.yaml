@@ -1,0 +1,11 @@
+_id: 76pqEX5U65Xx9MDf
+_key: '!items!76pqEX5U65Xx9MDf'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Enduring Mutagen
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>The mutagenic alchemist can spend 1 additional point of quintessence when creating a mutagen to cause its effects to last for 1 hour per alchemist level. In addition, the mutagenic alchemist can spend 1 minute to suppress the effects of their mutagen. While suppressed, the mutagenic alchemists can spend a full-round action to regain the benefits of their mutagen.</p>
+  subType: classFeat
+type: feat

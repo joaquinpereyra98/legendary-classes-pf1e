@@ -1,12 +1,13 @@
 _id: Yx4ptKrFgmPCVl42
-_key: '!items!Yx4ptKrFgmPCVl42'
+_key: "!items!Yx4ptKrFgmPCVl42"
 name: Legendary Ranger
 img: systems/pf1/icons/items/weapons/longbow.PNG
 system:
   armorProf:
-    - lgt
-    - med
-    - shl
+    value:
+      - lgt
+      - med
+      - shl
   bab: high
   casting:
     ability: wis
@@ -59,37 +60,37 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.XmALhWqXdN9yOmtd
+        uuid: Compendium.pf1.class-abilities.XmALhWqXdN9yOmtd
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.r8wPs0bB3WhOLxbX
+        uuid: Compendium.pf1.class-abilities.r8wPs0bB3WhOLxbX
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Yr8dfM2d8JEWoYkr
+        uuid: Compendium.pf1.class-abilities.Yr8dfM2d8JEWoYkr
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.BO7BEFHDcf6qBaYV
+        uuid: Compendium.pf1.class-abilities.BO7BEFHDcf6qBaYV
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.U2YBSx1s8cT8iDq1
+        uuid: Compendium.pf1.class-abilities.U2YBSx1s8cT8iDq1
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.E0skJEqlJOvB5CoA
+        uuid: Compendium.pf1.class-abilities.E0skJEqlJOvB5CoA
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.Bs5i98ja24ODe9WL
+        uuid: Compendium.pf1.class-abilities.Bs5i98ja24ODe9WL
       - level: 7
-        uuid: Compendium.pf1.class-abilities.Item.5iXq1igb1Cq0qobT
+        uuid: Compendium.pf1.class-abilities.5iXq1igb1Cq0qobT
       - level: 8
-        uuid: Compendium.pf1.class-abilities.Item.sk0HNTe9lKBpHQpN
+        uuid: Compendium.pf1.class-abilities.sk0HNTe9lKBpHQpN
       - level: 9
-        uuid: Compendium.pf1.class-abilities.Item.KQYCRLEdD4bGA5ak
+        uuid: Compendium.pf1.class-abilities.KQYCRLEdD4bGA5ak
       - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.5NS7Ec3WhKIkhygg
+        uuid: Compendium.pf1.class-abilities.5NS7Ec3WhKIkhygg
       - level: 12
-        uuid: Compendium.pf1.class-abilities.Item.E90iE6Ynyq1cgGXA
+        uuid: Compendium.pf1.class-abilities.E90iE6Ynyq1cgGXA
       - level: 16
-        uuid: Compendium.pf1.class-abilities.Item.Cc2eFfhJYlClCGEH
+        uuid: Compendium.pf1.class-abilities.Cc2eFfhJYlClCGEH
       - level: 17
-        uuid: Compendium.pf1.class-abilities.Item.ytotO22rp5ji6rT1
+        uuid: Compendium.pf1.class-abilities.ytotO22rp5ji6rT1
       - level: 19
-        uuid: Compendium.pf1.class-abilities.Item.oRac7XDHBN0JzuyY
+        uuid: Compendium.pf1.class-abilities.oRac7XDHBN0JzuyY
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.GAHaeOGTBeR6LJ3K
+        uuid: Compendium.pf1.class-abilities.GAHaeOGTBeR6LJ3K
   savingThrows:
     fort:
       value: high
@@ -102,6 +103,7 @@ system:
   tag: ranger
   wealth: 5d6 * 10
   weaponProf:
-    - simple
-    - martial
+    value:
+      - simple
+      - martial
 type: class

@@ -1,0 +1,25 @@
+_id: qqXzAsPeiJC4Gjjf
+_key: '!items!qqXzAsPeiJC4Gjjf'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Eternal Potion
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Prerequisite(s): Enhanced potion, alchemist 14th.</p>
+
+      <p>Benefit: If an alchemist drinks a potion that they extended through the
+      use of the enhance potion discovery, they can choose to make the effects
+      of that potion become permanent until they choose to make another potion
+      effect permanent. An alchemist can only have 1 potion affected by this
+      discovery at a time.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

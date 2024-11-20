@@ -1,0 +1,14 @@
+_id: yeompva58wpTqDOw
+_key: '!items!yeompva58wpTqDOw'
+img: icons/sundries/books/book-worn-red.webp
+name: Alchemical Study
+system:
+  abilityType: ex
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>At 5th level, an alchemist alchemist gains the skill unlock for Craft (alchemy).</p>
+  subType: classFeat
+type: feat

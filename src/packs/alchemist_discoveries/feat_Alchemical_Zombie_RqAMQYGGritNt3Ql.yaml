@@ -1,0 +1,40 @@
+_id: RqAMQYGGritNt3Ql
+_key: '!items!RqAMQYGGritNt3Ql'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Alchemical Zombie
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Prerequisite(s): Alchemist 6th.</p>
+
+      <p>Benefit: The alchemist gains the ability to animate a relatively
+      complete corpse as an alchemy-powered zombie. This process takes 1 hour
+      and costs 100 gp in alchemical reagents per HD of the corpse being
+      animated; the dead creature gains the zombie template. Zombies that are
+      created in this manner count as undead created by animate dead for the
+      purposes of determining how many undead the alchemist can control. The
+      created zombie is a creature, not a supernatural effect. The alchemist
+      also gains the Command Undead feat, although they can only use it against
+      undead they have created, spending 1 point of quintessence to use this
+      feat rather than a use of channel negative energy as well as treating
+      their alchemist level as though it was their cleric level and using their
+      Intelligence modifier rather than their Charisma modifier to determine its
+      effects and DC.</p>
+
+      <p>Special: An alchemist with this discovery can select the Command Undead
+      feat a second time; if they do, they can choose to spend quintessence or a
+      use of channel negative energy to use that feat, regardless of how the
+      undead was created. In addition, they treat their alchemist levels as
+      cleric levels to determine their uses of Channel Negative Energy and the
+      DC of the Command Undead feat.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

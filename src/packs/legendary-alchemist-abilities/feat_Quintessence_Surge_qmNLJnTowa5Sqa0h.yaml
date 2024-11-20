@@ -1,0 +1,14 @@
+_id: qmNLJnTowa5Sqa0h
+_key: '!items!qmNLJnTowa5Sqa0h'
+img: icons/magic/nature/beam-hand-leaves-green.webp
+name: Quintessence Surge
+system:
+  abilityType: su
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>At 4th level, the alchemist can spend 1 quintessence as a free action. If they do, they gain a +1 alchemical bonus on all attack rolls for 1 minute. At 8th level and every four levels afterwards, this alchemical bonus increases by 1 (to a maximum of +5 at 20th level).</p>
+  subType: classFeat
+type: feat

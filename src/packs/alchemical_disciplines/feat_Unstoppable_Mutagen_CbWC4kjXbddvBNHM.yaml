@@ -1,0 +1,11 @@
+_id: CbWC4kjXbddvBNHM
+_key: "!items!CbWC4kjXbddvBNHM"
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Unstoppable Mutagen
+system:
+  abilityType: "ex"
+  description:
+    value: |-
+      <p>Whenever a mutagenic alchemist imbibes their mutagen, they gain a number of temporary hit points equal to their class level + their Intelligence modifier for the duration of their mutagen. The alchemist can spend 1 point of quintessence to restore these temporary hit points as a free action at the beginning of their turn. In addition, their mutagen is treated as an extraordinary effect</p>
+  subType: classFeat
+type: feat

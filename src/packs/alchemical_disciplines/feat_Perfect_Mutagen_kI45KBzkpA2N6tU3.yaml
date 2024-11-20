@@ -1,0 +1,11 @@
+_id: kI45KBzkpA2N6tU3
+_key: '!items!kI45KBzkpA2N6tU3'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Perfect Mutagen
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>A mutagenic alchemist reduces the cost of their mutagen to 0 (applying enduring mutagen still requires them to spend 1 point of quintessence), although they can only have a number of mutagens active equal to their Intelligence modifier. In addition, they reduce the quintessence cost of their of all [evolution] discoveries by 1 (to a minimum of 1). While under the effects of their mutagen, if the mutagenic alchemist makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, they instead avoid the effect entirely.</p>
+  subType: classFeat
+type: feat

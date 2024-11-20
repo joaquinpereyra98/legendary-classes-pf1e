@@ -1,0 +1,13 @@
+_id: UExQxg2CdKJYRJE6
+_key: '!items!UExQxg2CdKJYRJE6'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Toxicologist Discipline Defense(9th)
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>Whenever an alchemist would be poisoned by a living creature that is
+      within their reach, the creature attempting to poison them must also make
+      a saving throw against that poison or be poisoned themselves. In addition,
+      the alchemist gains acid resist equal to 1/2 their class level</p>
+  subType: classFeat

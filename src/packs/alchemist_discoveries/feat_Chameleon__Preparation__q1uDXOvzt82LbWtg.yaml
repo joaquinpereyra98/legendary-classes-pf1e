@@ -1,0 +1,24 @@
+_id: q1uDXOvzt82LbWtg
+_key: '!items!q1uDXOvzt82LbWtg'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Chameleon [Preparation]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Quintessence Cost: 1</p>
+
+      <p>Benefit: The alchemist can spend a standard action to gain the benefits
+      of a blend spell, being able to end or re-apply it as a move action. At
+      6th level, the alchemist can move their full base speed and still benefit
+      from this discovery.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

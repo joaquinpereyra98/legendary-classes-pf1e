@@ -1,0 +1,32 @@
+_id: PCiO4m9oHlfncaMt
+_key: '!items!PCiO4m9oHlfncaMt'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Parasitic Twin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Prerequisite(s): Vestigial appendages.</p>
+
+      <p>Benefit: The alchemist's vestigial arms are part of a parasitic twin on
+      their torso, consisting of a head, a torso, and two arms (from the
+      vestigial arm discovery). Normally, the twin is mostly recessed within the
+      alchemist's body, with the visible arms acting like the vestigial
+      appendages discovery, though the alchemist can manifest or hide the twin
+      as a full round action. The twin is helpless, fully subservient to the
+      alchemist, and cannot be targeted or harmed. A number of times per day
+      equal to the alchemist's Intelligence modifier, if the alchemist succumbs
+      to a non-harmless mind affecting effect, they can reroll their saving
+      throw; success means the twin absorbs the effect and the alchemist can
+      ignore it. The alchemist can use this ability even if they have run out of
+      uses, but each use of this ability cost 1 quintessence.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

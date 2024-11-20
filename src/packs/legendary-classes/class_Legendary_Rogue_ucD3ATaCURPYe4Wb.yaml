@@ -1,10 +1,11 @@
 _id: ucD3ATaCURPYe4Wb
-_key: '!items!ucD3ATaCURPYe4Wb'
+_key: "!items!ucD3ATaCURPYe4Wb"
 name: Legendary Rogue
 img: systems/pf1/icons/items/inventory/lockpick.jpg
 system:
   armorProf:
-    - lgt
+    value:
+      - lgt
   bab: med
   classSkills:
     acr: true
@@ -67,23 +68,23 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.pEODJDoTk7uhCZY7
+        uuid: Compendium.pf1.class-abilities.pEODJDoTk7uhCZY7
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.6pjr8jMFSKqXkBKk
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.iBTrvPtn3jczInbn
+        uuid: Compendium.pf1.class-abilities.iBTrvPtn3jczInbn
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.KQYCRLEdD4bGA5ak
+        uuid: Compendium.pf1.class-abilities.KQYCRLEdD4bGA5ak
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.BoEkMviJrW0PKmhj
+        uuid: Compendium.pf1.class-abilities.BoEkMviJrW0PKmhj
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.7WaQxnVaaoL4AGr8
+        uuid: Compendium.pf1.class-abilities.7WaQxnVaaoL4AGr8
       - level: 8
-        uuid: Compendium.pf1.class-abilities.Item.ZfnHhhTFQVo0Lj4P
+        uuid: Compendium.pf1.class-abilities.ZfnHhhTFQVo0Lj4P
       - level: 10
-        uuid: Compendium.pf1.class-abilities.Item.EQ7JGo4P1XirLO46
+        uuid: Compendium.pf1.class-abilities.EQ7JGo4P1XirLO46
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.KmVwFz2ajNtvgvbp
+        uuid: Compendium.pf1.class-abilities.KmVwFz2ajNtvgvbp
   savingThrows:
     ref:
       value: high
@@ -94,10 +95,12 @@ system:
   tag: rogue
   wealth: 4d6 * 10
   weaponProf:
-    - simple
-    - Hand Crossbow
-    - Rapier
-    - Sap
-    - Shortbow
-    - Shortsword
+    custom:
+      - Hand Crossbow
+      - Rapier
+      - Sap
+      - Shortbow
+      - Shortsword
+    value:
+      - simple
 type: class

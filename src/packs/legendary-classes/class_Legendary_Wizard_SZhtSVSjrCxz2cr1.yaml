@@ -1,5 +1,5 @@
 _id: SZhtSVSjrCxz2cr1
-_key: '!items!SZhtSVSjrCxz2cr1'
+_key: "!items!SZhtSVSjrCxz2cr1"
 name: Legendary Wizard
 img: systems/pf1/icons/spells/beam-magenta-3.jpg
 system:
@@ -55,17 +55,17 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.pW1PNlDcdGl7KuEa
+        uuid: Compendium.pf1.class-abilities.pW1PNlDcdGl7KuEa
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.20JWTam2dn7jjZFV
+        uuid: Compendium.pf1.class-abilities.20JWTam2dn7jjZFV
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.BS9WDbCy2Up3QHw9
+        uuid: Compendium.pf1.class-abilities.BS9WDbCy2Up3QHw9
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.IPy4aqFYbOppaqKC
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.4wdsdOkgv4uEkS9K
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.2h3lI574tmVjOalQ
+        uuid: Compendium.pf1.class-abilities.2h3lI574tmVjOalQ
     supplements: []
   savingThrows:
     will:
@@ -77,9 +77,10 @@ system:
   tag: wizard
   wealth: 2d6 * 10
   weaponProf:
-    - Club
-    - Dagger
-    - Heavy Crossbow
-    - Light Crossbow
-    - Quarterstaff
+    custom:
+      - Club
+      - Dagger
+      - Heavy Crossbow
+      - Light Crossbow
+      - Quarterstaff
 type: class

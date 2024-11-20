@@ -1,10 +1,11 @@
 _id: pDWBKYLeGwWNVyGI
-_key: '!items!pDWBKYLeGwWNVyGI'
+_key: "!items!pDWBKYLeGwWNVyGI"
 name: Legendary Magus
 img: systems/pf1/icons/spells/enchant-magenta-3.jpg
 system:
   armorProf:
-    - lgt
+    value:
+      - lgt
   bab: med
   casting:
     ability: int
@@ -54,41 +55,41 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.mpe3JHJMINddqLWr
+        uuid: Compendium.pf1.class-abilities.mpe3JHJMINddqLWr
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.lj4yLDvoxGFHiwSk
+        uuid: Compendium.pf1.class-abilities.lj4yLDvoxGFHiwSk
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.IPy4aqFYbOppaqKC
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.P0EhxFOJJXWMBiZi
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.OsEuRDHP7jcJ2fIJ
+        uuid: Compendium.pf1.class-abilities.OsEuRDHP7jcJ2fIJ
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.HJ2vLLDYkihPxFkD
+        uuid: Compendium.pf1.class-abilities.HJ2vLLDYkihPxFkD
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.IyfoUjtyaS8lakWc
+        uuid: Compendium.pf1.class-abilities.IyfoUjtyaS8lakWc
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.gzBR0qkMdu0KkLV0
+        uuid: Compendium.pf1.class-abilities.gzBR0qkMdu0KkLV0
       - level: 7
-        uuid: Compendium.pf1.class-abilities.Item.QhHS0Qr5FxH4LtaI
+        uuid: Compendium.pf1.class-abilities.QhHS0Qr5FxH4LtaI
       - level: 7
-        uuid: Compendium.pf1.class-abilities.Item.Js83QWyHQQ4PjP0m
+        uuid: Compendium.pf1.class-abilities.Js83QWyHQQ4PjP0m
       - level: 8
-        uuid: Compendium.pf1.class-abilities.Item.G1z392b58wRybqjL
+        uuid: Compendium.pf1.class-abilities.G1z392b58wRybqjL
       - level: 10
-        uuid: Compendium.pf1.class-abilities.Item.ePNt8fgtaAxmLnHs
+        uuid: Compendium.pf1.class-abilities.ePNt8fgtaAxmLnHs
       - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.dakApiblq3ad7AZI
+        uuid: Compendium.pf1.class-abilities.dakApiblq3ad7AZI
       - level: 13
-        uuid: Compendium.pf1.class-abilities.Item.0AXAMXGLJIw7CGBd
+        uuid: Compendium.pf1.class-abilities.0AXAMXGLJIw7CGBd
       - level: 14
-        uuid: Compendium.pf1.class-abilities.Item.nWDMATASYzzAShr6
+        uuid: Compendium.pf1.class-abilities.nWDMATASYzzAShr6
       - level: 16
-        uuid: Compendium.pf1.class-abilities.Item.zLXBKnWXbZ2YKOBo
+        uuid: Compendium.pf1.class-abilities.zLXBKnWXbZ2YKOBo
       - level: 19
-        uuid: Compendium.pf1.class-abilities.Item.i64BU7HTfaRJEYFj
+        uuid: Compendium.pf1.class-abilities.i64BU7HTfaRJEYFj
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.XAMIufM24q2qAB7o
+        uuid: Compendium.pf1.class-abilities.XAMIufM24q2qAB7o
     supplements: []
   savingThrows:
     fort:
@@ -102,6 +103,7 @@ system:
   tag: magus
   wealth: 4d6 * 10
   weaponProf:
-    - simple
-    - martial
+    value:
+      - simple
+      - martial
 type: class

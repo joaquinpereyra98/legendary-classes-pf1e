@@ -1,0 +1,14 @@
+_id: LUNfPE0JEvgpIacR
+_key: '!items!LUNfPE0JEvgpIacR'
+img: icons/weapons/thrown/bomb-fuse-black-pink.webp
+name: Ultimate Bomb
+system:
+  abilityType: ex
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>At 19th level, an alchemist can spend 2 quintessence to create an ultimate bomb. An ultimate bomb deals three times the damage of a normal bomb and any saving throw the bomb may have associated with it increases by 2 (the ultimate bomb’s base damage is treated as 3d6+ three times the alchemist’s Intelligence score). The alchemist can also add a second [substance] discovery to it; if the two discoveries would deal different types of damage, this bomb deals both damage types. An ultimate bomb cannot be used with the flurry bomb class feature, but it can be used with multi bomb.</p>
+  subType: classFeat
+type: feat

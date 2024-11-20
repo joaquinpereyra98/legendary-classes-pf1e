@@ -1,0 +1,29 @@
+_id: pIkws4riBI5ULJCw
+_key: "!items!pIkws4riBI5ULJCw"
+img: systems/pf1/icons/items/potions/magic-yellow.jpg
+name: Alchemy
+system:
+  abilityType: su
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>When using Craft (alchemy) to create an alchemical item, an alchemist gains a
+      competence bonus equal to their class level on the Craft (alchemy) check. In
+      addition, an alchemist can use Craft (alchemy) to identify potions as if using
+      <i>detect magic</i>. They must hold the potion for 1 round to make such a
+      check. In addition, whenever an alchemist uses an alchemical item as a weapon
+      or otherwise, its DC is increased to 10 + 1/2 the alchemist’s level + the
+      alchemist’s Intelligence modifier (unless it would normally be higher). An
+      alchemist can draw alchemical items (such as alchemist’s fire) as a part of
+      making an attack with them, rather than requiring a move action to do so.</p>
+      <p>An alchemist can spend 1 point of quintessence as a swift action to cause an
+      alchemical item to deal an additional die of damage (an alchemist fire would
+      deal 2d6 damage, while bottled lightning would deal 2d8 damage), this effect
+      lasts until the end of the alchemist’s next turn. At 5th level and every five
+      levels afterwards, whenever the alchemist spends quintessence for this
+      ability, they increase the damage by an additional damage die, up to a maximum
+      of five additional damage dice at 20th level.</p>
+  subType: classFeat
+type: feat

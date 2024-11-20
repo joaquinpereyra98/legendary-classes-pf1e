@@ -1,14 +1,15 @@
 _id: 74t14LjtAy1eib4P
-_key: '!items!74t14LjtAy1eib4P'
+_key: "!items!74t14LjtAy1eib4P"
 name: Legendary Fighter
 img: systems/pf1/icons/skills/yellow_37.jpg
 system:
   armorProf:
-    - lgt
-    - med
-    - hvy
-    - shl
-    - twr
+    value:
+      - lgt
+      - med
+      - hvy
+      - shl
+      - twr
   bab: high
   classSkills:
     art: true
@@ -38,17 +39,17 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.CV8BsY3ciUb9TA1Y
+        uuid: Compendium.pf1.class-abilities.CV8BsY3ciUb9TA1Y
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.h0Brxw6khcjlEf1T
+        uuid: Compendium.pf1.class-abilities.h0Brxw6khcjlEf1T
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.5JFfSqLMCpbRmERa
+        uuid: Compendium.pf1.class-abilities.5JFfSqLMCpbRmERa
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.RzEzudurxQFirFoF
+        uuid: Compendium.pf1.class-abilities.RzEzudurxQFirFoF
       - level: 7
         uuid: Compendium.pf1.class-abilities.Item.iqeyCQIIVnNt0p3h
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.McXAM1BoPHZLO1n4
+        uuid: Compendium.pf1.class-abilities.McXAM1BoPHZLO1n4
   savingThrows:
     fort:
       value: high
@@ -59,6 +60,7 @@ system:
   tag: fighter
   wealth: 5d6 * 10
   weaponProf:
-    - simple
-    - martial
+    value:
+      - simple
+      - martial
 type: class

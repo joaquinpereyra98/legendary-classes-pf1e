@@ -1,0 +1,41 @@
+_id: a3NpA0t4SK6YkoHQ
+_key: '!items!a3NpA0t4SK6YkoHQ'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Explosive Jump
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Benefit: As a swift action, an alchemist can use excess chemicals from
+      their bombs to lift themselves up to 10 feet vertically, dealing splash
+      damage to all adjacent spaces to themselves. They can combine this with a
+      move action if they wish, and the character can end their movement in the
+      air. If they do, at the beginning of their next round, they must decide if
+      they will use an additional swift action to maintain their current
+      altitude or drop to the ground (the alchemist does not take falling damage
+      when using this ability). This ability cannot raise the alchemist's
+      altitude higher than the amount of height they would gain with this
+      ability. At 5th level and every five levels afterwards, they increase the
+      amount of height they gain from this ability by 10 feet.</p>
+
+      <p>Special: The alchemist can select this discovery a second time; if they
+      do, they can use this ability once per round as a free action and this
+      movement does not provoke attacks of opportunity.</p>
+
+      <p>Special: If the alchemist has the precise explosion discovery, they can
+      choose to use it with this discovery, selecting a number of spaces equal
+      to their Intelligence modifier to avoid damaging.</p>
+
+      <p>Special: An alchemist with the aquatic engineer discovery can use this
+      discovery underwater, tripling the distance they can travel and allowing
+      them to use it in any direction.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

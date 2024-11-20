@@ -1,0 +1,11 @@
+_id: wcJCD1nNn7BoHmWa
+_key: '!items!wcJCD1nNn7BoHmWa'
+img: icons/commodities/tech/cog-gold.webp
+name: Bulwark Automaton
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>As an immediate action when a tinker alchemist is targeted with a weapon or natural attack and their automaton is within twice its movement speed of the alchemist a tinker alchemist may call their automaton to their side. The attack, and any other such attacks the attacker attempts to make against the alchemist until the end of its turn, targets the automaton instead. The alchemist may use this ability after an attack is rolled, but before the result is revealed</p>
+  subType: classFeat
+type: feat

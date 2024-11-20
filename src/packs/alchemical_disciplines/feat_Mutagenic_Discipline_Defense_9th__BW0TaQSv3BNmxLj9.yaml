@@ -1,0 +1,13 @@
+_id: BW0TaQSv3BNmxLj9
+_key: '!items!BW0TaQSv3BNmxLj9'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Mutagenic Discipline Defense(9th)
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>The alchemist gains a bonus to saving throws against transmutation
+      effects equal to 1/2 their class level and gains DR overcome by adamantine
+      equal to 1/3 their class level while under the effects of their
+      mutagen</p>
+  subType: classFeat

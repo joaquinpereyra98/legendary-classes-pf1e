@@ -1,0 +1,14 @@
+_id: lpAUZAk6VNOSSEUP
+_key: '!items!lpAUZAk6VNOSSEUP'
+img: icons/weapons/thrown/bomb-fuse-black-pink.webp
+name: Multi Bomb
+system:
+  abilityType: ex
+  associations:
+    classes:
+      - Legendary Alchemist
+  description:
+    value: >-
+      <p>At 7th level, whenever an alchemist creates a bomb, they can create two bombs, being able to attack with both as a part of their attack action. This second bomb takes a -5 penalty to its attack roll, is not treated as an attack action, and the alchemist cannot apply a substance discovery to this bomb.</p>
+  subType: classFeat
+type: feat

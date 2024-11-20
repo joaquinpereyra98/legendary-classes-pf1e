@@ -37,8 +37,19 @@
         {
             "name": "Legendary Class",
             "packs": [
-                "legendary-classes",
-                "legendary-class-abilities"
+                "legendary-classes"
+            ],
+            "folders": [
+                {
+                    "name": "Alchemist Class Abilities",
+                    "sorting": "m",
+                    "color": "#941919 ",
+                    "packs": [
+                        "legendary-alchemist-abilities",
+                        "alchemist_discoveries",
+                        "alchemical_disciplines"
+                    ]
+                }
             ],
             "color": "#996300"
         }
@@ -55,9 +66,31 @@
             "system": "pf1"
         },
         {
-            "name": "legendary-class-abilities",
-            "label": "Legendary Class Abilities",
-            "path": "packs/legendary-class-abilities",
+            "name": "legendary-alchemist-abilities",
+            "label": "Legendary Alchemist Abilities",
+            "path": "packs/legendary-alchemist-abilities",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "alchemist_discoveries",
+            "label": "Alchemist Discoveries",
+            "path": "packs/alchemist_discoveries",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "alchemical_disciplines",
+            "label": "Alchemical Disciplines",
+            "path": "packs/alchemical_disciplines",
             "type": "Item",
             "ownership": {
                 "PLAYER": "OBSERVER",

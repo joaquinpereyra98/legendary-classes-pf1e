@@ -1,0 +1,24 @@
+_id: GKoI5XbB82867icL
+_key: '!items!GKoI5XbB82867icL'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Enhance Potion [Preparation]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Quintessence Cost: 2</p>
+
+      <p>Benefit: The alchemist can cause any potion they drink to function at a
+      caster level equal to their class level and the alchemist can cause any
+      potion they drink that does not have an instantaneous duration to function
+      at twice its normal duration (this does not apply to extracts).</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

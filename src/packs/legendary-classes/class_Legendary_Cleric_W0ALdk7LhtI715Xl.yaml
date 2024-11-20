@@ -1,12 +1,13 @@
 _id: W0ALdk7LhtI715Xl
-_key: '!items!W0ALdk7LhtI715Xl'
+_key: "!items!W0ALdk7LhtI715Xl"
 name: Legendary Cleric
 img: systems/pf1/icons/items/inventory/badge-cross.jpg
 system:
   armorProf:
-    - lgt
-    - med
-    - shl
+    value:
+      - lgt
+      - med
+      - shl
   bab: med
   casting:
     ability: wis
@@ -65,17 +66,17 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.kXXz1lO4i7CibHJ9
+        uuid: Compendium.pf1.class-abilities.kXXz1lO4i7CibHJ9
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.zrUJt7YpAJkf2NC6
+        uuid: Compendium.pf1.class-abilities.zrUJt7YpAJkf2NC6
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Wkv124hVPATT35bm
+        uuid: Compendium.pf1.class-abilities.Wkv124hVPATT35bm
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.kx2ZfV2wjlAZgQ6E
+        uuid: Compendium.pf1.class-abilities.kx2ZfV2wjlAZgQ6E
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.exdHrqciehozr5SD
+        uuid: Compendium.pf1.class-abilities.exdHrqciehozr5SD
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.EvrFDqZDbbFS4Avb
+        uuid: Compendium.pf1.class-abilities.EvrFDqZDbbFS4Avb
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.RaFl9SpbAlXqhsDk
   savingThrows:
@@ -90,6 +91,8 @@ system:
   tag: cleric
   wealth: 4d6 * 10
   weaponProf:
-    - simple
-    - Favored Weapon
+    custom:
+      - Favored Weapon
+    value:
+      - simple
 type: class

@@ -1,13 +1,14 @@
 _id: MTuLu1zj4qBFjyzY
-_key: '!items!MTuLu1zj4qBFjyzY'
+_key: "!items!MTuLu1zj4qBFjyzY"
 name: Legendary Samurai
 img: systems/pf1/icons/items/weapons/katana.png
 system:
   armorProf:
-    - lgt
-    - med
-    - hvy
-    - shl
+    value:
+      - lgt
+      - med
+      - hvy
+      - shl
   bab: high
   classSkills:
     art: true
@@ -49,33 +50,33 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.AOasku7u72NB0q3J
+        uuid: Compendium.pf1.class-abilities.AOasku7u72NB0q3J
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.EpDI0Qi5SDRmL4lK
+        uuid: Compendium.pf1.class-abilities.EpDI0Qi5SDRmL4lK
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Uo3yrfkyguM5wkI2
+        uuid: Compendium.pf1.class-abilities.Uo3yrfkyguM5wkI2
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.fdEn4hZJkIhJEwrQ
+        uuid: Compendium.pf1.class-abilities.fdEn4hZJkIhJEwrQ
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.SDe1qkWV2217wSao
+        uuid: Compendium.pf1.class-abilities.SDe1qkWV2217wSao
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.IA4Z4xwEeubcDqF4
+        uuid: Compendium.pf1.class-abilities.IA4Z4xwEeubcDqF4
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.QyW6ly6dN84Ev6AY
+        uuid: Compendium.pf1.class-abilities.QyW6ly6dN84Ev6AY
       - level: 6
-        uuid: Compendium.pf1.class-abilities.Item.lKnfkRSOpPjT4qRy
+        uuid: Compendium.pf1.class-abilities.lKnfkRSOpPjT4qRy
       - level: 9
-        uuid: Compendium.pf1.class-abilities.Item.5yPVt0Gip4Q1TTs4
+        uuid: Compendium.pf1.class-abilities.5yPVt0Gip4Q1TTs4
       - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.t2XEI2AKkv1CY8to
+        uuid: Compendium.pf1.class-abilities.t2XEI2AKkv1CY8to
       - level: 12
-        uuid: Compendium.pf1.class-abilities.Item.BDP3HgB0vmZ9vbQY
+        uuid: Compendium.pf1.class-abilities.BDP3HgB0vmZ9vbQY
       - level: 14
-        uuid: Compendium.pf1.class-abilities.Item.f2Xg4pkJelnVyTCH
+        uuid: Compendium.pf1.class-abilities.f2Xg4pkJelnVyTCH
       - level: 17
-        uuid: Compendium.pf1.class-abilities.Item.CZrFfvYMX3HK03lC
+        uuid: Compendium.pf1.class-abilities.CZrFfvYMX3HK03lC
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.k2CQRwlyblNHuius
+        uuid: Compendium.pf1.class-abilities.k2CQRwlyblNHuius
   savingThrows:
     fort:
       value: high
@@ -86,9 +87,11 @@ system:
   tag: samurai
   wealth: 5d6 * 10
   weaponProf:
-    - simple
-    - martial
-    - Katana
-    - Naginata
-    - Wakizashi
+    custom:
+      - Katana
+      - Naginata
+      - Wakizashi
+    value:
+      - simple
+      - martial
 type: class

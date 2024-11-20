@@ -5,9 +5,10 @@ name: Legendary Barbarian
 system:
   alignment: Any non-lawful
   armorProf:
-    - lgt
-    - med
-    - shl
+    value:
+      - lgt
+      - med
+      - shl
   bab: high
   classSkills:
     acr: true
@@ -54,27 +55,27 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.WSqWT9ZIshtC5vlV
+        uuid: Compendium.pf1.class-abilities.WSqWT9ZIshtC5vlV
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.9EX00obqhGHcrOdp
+        uuid: Compendium.pf1.class-abilities.9EX00obqhGHcrOdp
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.7WaQxnVaaoL4AGr8
+        uuid: Compendium.pf1.class-abilities.7WaQxnVaaoL4AGr8
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.HdzsFdoGauXFjU2S
+        uuid: Compendium.pf1.class-abilities.HdzsFdoGauXFjU2S
       - level: 3
         uuid: Compendium.pf1.class-abilities.Item.BoEkMviJrW0PKmhj
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.ZfnHhhTFQVo0Lj4P
+        uuid: Compendium.pf1.class-abilities.ZfnHhhTFQVo0Lj4P
       - level: 7
-        uuid: Compendium.pf1.class-abilities.Item.RENIeTVjWB7Mq6Mw
+        uuid: Compendium.pf1.class-abilities.RENIeTVjWB7Mq6Mw
       - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.IWNz5tJCnpig4UtX
+        uuid: Compendium.pf1.class-abilities.IWNz5tJCnpig4UtX
       - level: 14
-        uuid: Compendium.pf1.class-abilities.Item.Q3x319WbNkCssApD
+        uuid: Compendium.pf1.class-abilities.Q3x319WbNkCssApD
       - level: 16
-        uuid: Compendium.pf1.class-abilities.Item.aYdjgDZJCNvKpLQP
+        uuid: Compendium.pf1.class-abilities.aYdjgDZJCNvKpLQP
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.0v0NLj0tuVAu2Cla
+        uuid: Compendium.pf1.class-abilities.0v0NLj0tuVAu2Cla
   savingThrows:
     fort:
       value: high
@@ -85,6 +86,7 @@ system:
   tag: barbarian
   wealth: 3d6 * 10
   weaponProf:
-    - simple
-    - martial
+    value:
+      - simple
+      - martial
 type: class

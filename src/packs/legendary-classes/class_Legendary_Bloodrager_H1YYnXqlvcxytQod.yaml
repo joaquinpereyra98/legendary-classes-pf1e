@@ -1,12 +1,13 @@
 _id: H1YYnXqlvcxytQod
-_key: '!items!H1YYnXqlvcxytQod'
-img: systems/pf1/icons/skills/red_12.jpg
+_key: "!items!H1YYnXqlvcxytQod"
 name: Legendary Bloodrager
+img: systems/pf1/icons/skills/red_12.jpg
 system:
   armorProf:
-    - lgt
-    - med
-    - shl
+    value:
+      - lgt
+      - med
+      - shl
   bab: high
   casting:
     ability: cha
@@ -54,21 +55,21 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.Aq9rx7oWgv7A7kiV
+        uuid: Compendium.pf1.class-abilities.Aq9rx7oWgv7A7kiV
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.5op6M5xchCJNsYRt
+        uuid: Compendium.pf1.class-abilities.5op6M5xchCJNsYRt
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.9EX00obqhGHcrOdp
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.7WaQxnVaaoL4AGr8
+        uuid: Compendium.pf1.class-abilities.7WaQxnVaaoL4AGr8
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.xvBGDYUbsE4Ozean
+        uuid: Compendium.pf1.class-abilities.xvBGDYUbsE4Ozean
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.HFab4vfATqdqnlSJ
+        uuid: Compendium.pf1.class-abilities.HFab4vfATqdqnlSJ
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.vVkKDPniD09W5JgO
+        uuid: Compendium.pf1.class-abilities.vVkKDPniD09W5JgO
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.ZfnHhhTFQVo0Lj4P
+        uuid: Compendium.pf1.class-abilities.ZfnHhhTFQVo0Lj4P
       - level: 6
         uuid: Compendium.pf1.class-abilities.Item.xxD5AbgfJ5OuzVld
       - level: 7
@@ -78,13 +79,13 @@ system:
       - level: 8
         uuid: Compendium.pf1.class-abilities.Item.XfN89DtlUrwHGNrp
       - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.FsOPunvM3kGqD32i
+        uuid: Compendium.pf1.class-abilities.FsOPunvM3kGqD32i
       - level: 14
-        uuid: Compendium.pf1.class-abilities.Item.Q3x319WbNkCssApD
+        uuid: Compendium.pf1.class-abilities.Q3x319WbNkCssApD
       - level: 17
-        uuid: Compendium.pf1.class-abilities.Item.vETLfsVXQo1qG2PX
+        uuid: Compendium.pf1.class-abilities.vETLfsVXQo1qG2PX
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.NoJMNxuXDTHzPMcm
+        uuid: Compendium.pf1.class-abilities.NoJMNxuXDTHzPMcm
   savingThrows:
     fort:
       value: high
@@ -95,6 +96,7 @@ system:
   tag: bloodrager
   wealth: 3d6 * 10
   weaponProf:
-    - simple
-    - martial
+    value:
+      - simple
+      - martial
 type: class

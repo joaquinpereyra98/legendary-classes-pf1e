@@ -1,0 +1,25 @@
+_id: A1xbX520q2JTa2zl
+_key: '!items!A1xbX520q2JTa2zl'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Speed Healing [Preparation]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Quintessence Cost: 1</p>
+
+      <p>Benefit: All extracts the alchemist prepares which have the word ‘cure'
+      or ‘heal' in their name (such as cure light wounds) can be imbibed as a
+      move action rather than a standard action. In addition, a creature that
+      imbibes a ‘cure' extract created by the alchemist can treat any d8 rolled
+      as a 5 when determining how much the extract heals them.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

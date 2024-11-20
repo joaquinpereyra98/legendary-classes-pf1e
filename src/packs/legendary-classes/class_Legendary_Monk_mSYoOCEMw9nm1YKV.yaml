@@ -1,5 +1,5 @@
 _id: mSYoOCEMw9nm1YKV
-_key: '!items!mSYoOCEMw9nm1YKV'
+_key: "!items!mSYoOCEMw9nm1YKV"
 name: Legendary Monk
 img: systems/pf1/icons/items/equipment/gloves.jpg
 system:
@@ -45,51 +45,51 @@ system:
   links:
     classAssociations:
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.VjHjPja5QABBgRvR
+        uuid: Compendium.pf1.class-abilities.VjHjPja5QABBgRvR
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.JKJoHy5NveXGaZqv
+        uuid: Compendium.pf1.class-abilities.JKJoHy5NveXGaZqv
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.2ausI8g6SsmbOpgF
+        uuid: Compendium.pf1.class-abilities.2ausI8g6SsmbOpgF
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.a4SPdPuOFdmfJdHN
+        uuid: Compendium.pf1.class-abilities.a4SPdPuOFdmfJdHN
       - level: 1
-        uuid: Compendium.pf1.class-abilities.Item.4zVndIJ8NMWWzl1T
+        uuid: Compendium.pf1.class-abilities.4zVndIJ8NMWWzl1T
       - level: 2
-        uuid: Compendium.pf1.class-abilities.Item.KQYCRLEdD4bGA5ak
+        uuid: Compendium.pf1.class-abilities.KQYCRLEdD4bGA5ak
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.CK5L0YJDENqBxLqv
+        uuid: Compendium.pf1.class-abilities.CK5L0YJDENqBxLqv
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.E7enBZN7FCsoyIof
+        uuid: Compendium.pf1.class-abilities.E7enBZN7FCsoyIof
       - level: 3
-        uuid: Compendium.pf1.class-abilities.Item.8VUae7CIgCidvSfg
+        uuid: Compendium.pf1.class-abilities.8VUae7CIgCidvSfg
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.2Og23i3rRXu5QQlg
+        uuid: Compendium.pf1.class-abilities.2Og23i3rRXu5QQlg
       - level: 4
-        uuid: Compendium.pf1.class-abilities.Item.M4bXVPXouXroIt90
+        uuid: Compendium.pf1.class-abilities.M4bXVPXouXroIt90
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.WJEF9WHs27kaFYJL
+        uuid: Compendium.pf1.class-abilities.WJEF9WHs27kaFYJL
       - level: 5
-        uuid: Compendium.pf1.class-abilities.Item.82G7gl4C1AvtSHI4
+        uuid: Compendium.pf1.class-abilities.82G7gl4C1AvtSHI4
       - level: 7
         uuid: Compendium.pf1.class-abilities.Item.ZPrMO00Iz2SfrNMq
       - level: 9
-        uuid: Compendium.pf1.class-abilities.Item.Cc2eFfhJYlClCGEH
+        uuid: Compendium.pf1.class-abilities.Cc2eFfhJYlClCGEH
       - level: 11
-        uuid: Compendium.pf1.class-abilities.Item.nRffrQSKTqjeBAO5
+        uuid: Compendium.pf1.class-abilities.nRffrQSKTqjeBAO5
       - level: 12
-        uuid: Compendium.pf1.class-abilities.Item.XJtvco1XWggmr5LU
+        uuid: Compendium.pf1.class-abilities.XJtvco1XWggmr5LU
       - level: 13
-        uuid: Compendium.pf1.class-abilities.Item.bCdFkzKiVg52ufhu
+        uuid: Compendium.pf1.class-abilities.bCdFkzKiVg52ufhu
       - level: 15
-        uuid: Compendium.pf1.class-abilities.Item.n4SWyKVcdmZK4t7d
+        uuid: Compendium.pf1.class-abilities.n4SWyKVcdmZK4t7d
       - level: 17
-        uuid: Compendium.pf1.class-abilities.Item.5JlthJkVGEHPZypG
+        uuid: Compendium.pf1.class-abilities.5JlthJkVGEHPZypG
       - level: 17
-        uuid: Compendium.pf1.class-abilities.Item.NKzRm45051DUHkd5
+        uuid: Compendium.pf1.class-abilities.NKzRm45051DUHkd5
       - level: 19
-        uuid: Compendium.pf1.class-abilities.Item.dtnkUkinLVIl1b2T
+        uuid: Compendium.pf1.class-abilities.dtnkUkinLVIl1b2T
       - level: 20
-        uuid: Compendium.pf1.class-abilities.Item.NNEU7hzPSu2LTyZv
+        uuid: Compendium.pf1.class-abilities.NNEU7hzPSu2LTyZv
   savingThrows:
     fort:
       value: high
@@ -104,23 +104,24 @@ system:
   tag: monk
   wealth: 1d6 * 10
   weaponProf:
-    - Brass Knuckles
-    - Cestus
-    - Club
-    - Light Crossbow
-    - Heavy Crossbow
-    - Dagger
-    - Handaxe
-    - Javelin
-    - Kama
-    - Nunchaku
-    - Quarterstaff
-    - Sai
-    - Shortspear
-    - Shortsword
-    - Shuriken
-    - Siangham
-    - Sling
-    - Spear
-    - Temple Sword
+    custom:
+      - Brass Knuckles
+      - Cestus
+      - Club
+      - Light Crossbow
+      - Heavy Crossbow
+      - Dagger
+      - Handaxe
+      - Javelin
+      - Kama
+      - Nunchaku
+      - Quarterstaff
+      - Sai
+      - Shortspear
+      - Shortsword
+      - Shuriken
+      - Siangham
+      - Sling
+      - Spear
+      - Temple Sword
 type: class

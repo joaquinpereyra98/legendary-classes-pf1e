@@ -1,0 +1,27 @@
+_id: qU0nuv9gSo0QfCrs
+_key: '!items!qU0nuv9gSo0QfCrs'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Mummification
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Prerequisite(s): Preserved organs, alchemist 10th.</p>
+
+      <p>Benefit: After learning this discovery, the alchemist must spend a day
+      in preparation which involves doing nothing except drinking a mildly
+      poisonous alchemical tea. At the end of this preparation, they fall
+      unconscious for 24 hours, then awaken as a “living mummy.” The alchemist's
+      type does not change, but they become immune to cold, nonlethal damage,
+      paralysis, and sleep and their fortification increases by 25% (to a
+      maximum of 100%).</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+

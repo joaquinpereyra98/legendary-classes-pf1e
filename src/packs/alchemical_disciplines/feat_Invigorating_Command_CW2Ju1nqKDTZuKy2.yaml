@@ -1,0 +1,11 @@
+_id: CW2Ju1nqKDTZuKy2
+_key: '!items!CW2Ju1nqKDTZuKy2'
+img: icons/commodities/tech/cog-gold.webp
+name: Invigorating Command
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>When a tinker alchemist spends quintessence to command their automaton, they gain a +10 feet enhancement bonus to their movement speed, a +1 dodge bonus to AC, and a +1 bonus to saving throws for a number of rounds equal to the tinker alchemist’s Intelligence modifier. These bonuses increase to +20 feet and +2 at 10th level and +30 feet and +3 at 20th level.</p>
+  subType: classFeat
+type: feat

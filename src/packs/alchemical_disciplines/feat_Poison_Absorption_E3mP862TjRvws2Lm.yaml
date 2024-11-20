@@ -1,0 +1,11 @@
+_id: E3mP862TjRvws2Lm
+_key: '!items!E3mP862TjRvws2Lm'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Poison Absorption
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>A toxicologist alchemist can absorb any poison or toxin in their possession into themselves without suffering its effects; although they can only have one such poison at a time. A number of times per day equal to 1/2 their alchemist level, they can metabolize a poison or toxin inside of themselves as a move action, recovering a number of hit points equal to their class level + their Intelligence modifier. Whenever a toxicologist alchemist is exposed to a poison which is not in their possession (but not a poison effect), if they successfully save against its effects, they can absorb that poison as a free action (if the toxicologist alchemist is immune to poison, they can choose to absorb it or not). Any poison or toxin absorbed by the toxicologist alchemist disperses from their body after 8 hours of rest.</p>
+  subType: classFeat
+type: feat

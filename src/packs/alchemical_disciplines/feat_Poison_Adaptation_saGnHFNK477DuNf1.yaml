@@ -1,0 +1,11 @@
+_id: saGnHFNK477DuNf1
+_key: '!items!saGnHFNK477DuNf1'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Poison Adaptation
+system: 
+  abilityType: 'ex'
+  description:
+    value: |-
+      <p>A toxicologist alchemist can have a number of poisons or toxins absorbed into themselves equal to their Intelligence modifier. In addition, they can apply poison or toxins (including absorbed poison and toxins) to a weapon as a free action once per round; they can instead spend a swift action to do this. If they do so, the poison or toxin’s DC is increased by +2. A toxicologist alchemist can also metabolize a poison as a swift action.</p>
+  subType: classFeat
+type: feat

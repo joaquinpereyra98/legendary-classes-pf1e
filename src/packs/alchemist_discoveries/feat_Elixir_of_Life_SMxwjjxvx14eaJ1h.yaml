@@ -1,0 +1,29 @@
+_id: SMxwjjxvx14eaJ1h
+_key: '!items!SMxwjjxvx14eaJ1h'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Elixir of Life
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Prerequisite(s): Alchemist 14th.</p>
+
+      <p>Benefit: The alchemist can brew an elixir of life; This special
+      concoction costs 20,000 gp to create and takes 1 hour of work. An elixir
+      of life, when administered by the alchemist who brewed it, restores life
+      to a dead creature as per the spell true resurrection. Alternatively, the
+      alchemist himself may drink the elixir of life, after which point they are
+      immediately targeted with a true resurrection spell the next time they are
+      killed. Used in this manner, the elixir lasts indefinitely, although an
+      alchemist cannot benefit from more than one elixir of life at the same
+      time.</p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
+
