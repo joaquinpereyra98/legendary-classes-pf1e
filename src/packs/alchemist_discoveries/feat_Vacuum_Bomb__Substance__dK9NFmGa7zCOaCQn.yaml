@@ -1,0 +1,30 @@
+_id: dK9NFmGa7zCOaCQn
+_key: '!items!dK9NFmGa7zCOaCQn'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Vacuum Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: When the alchemist creates a bomb, they can choose to
+      have it be unable target a creature, instead targeting a single square and
+      only dealing splash damage. All creatures within 15 feet of that square
+      except for allies must make a successful Reflex saving throw or be pulled
+      10 feet towards the square. If two or more creatures would enter the same
+      square because of this discovery, they take damage equal to two times the
+      alchemist's Intelligence modifier and must make a successful Reflex saving
+      throw or fall prone in the space they currently occupy. </p> <p>
+      <b>Special</b>: If the explosion would target more than one square (such
+      as due to applying a [shape] discovery to it), the alchemist selects any
+      square in the bomb's blast radius as the targeted square. </p> <p>
+      <b>Special</b>: The alchemist can choose to have any bomb they create
+      explode without making noise or dealing damage. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

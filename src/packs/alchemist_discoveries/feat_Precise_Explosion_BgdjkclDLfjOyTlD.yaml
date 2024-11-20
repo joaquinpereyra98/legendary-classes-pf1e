@@ -1,0 +1,23 @@
+_id: BgdjkclDLfjOyTlD
+_key: '!items!BgdjkclDLfjOyTlD'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Precise Explosion
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Whenever the alchemist throws a bomb, they can select
+      a number of squares equal to their Intelligence modifier that are not
+      affected by the splash damage from their bombs. </p> <p><b>Special</b>:
+      The alchemist gains 1 additional quintessence.</p> <p> <b>Special</b>:
+      This discovery is treated as the Point-Blank Shot feat for the purpose of
+      meeting the prerequisites of feats. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,25 @@
+_id: 71WDSQEdzvelenVk
+_key: '!items!71WDSQEdzvelenVk'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Grease Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: When the alchemist
+      creates a bomb, they can choose to have it create a grease slick upon
+      detonation. When a grease bomb detonates, it coats an area equal to the
+      bomb's splash radius in grease (as the grease spell) for 1 round per
+      level. The DC of the Reflex save to avoid falling after a failed
+      Acrobatics check is equal to 10 + 1/2 the alchemist's level + the
+      alchemist's Intelligence modifier. A grease bomb can't affect items or
+      armor. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

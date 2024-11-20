@@ -1,0 +1,22 @@
+_id: WpgZVOjSrcjXkZoY
+_key: '!items!WpgZVOjSrcjXkZoY'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Wildcard Demolitionist
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> 3 or more [shape] or [substance]
+      discoveries.</p> <p> <i>Benefit:</i> The alchemist gains a [shape] or
+      [substance] discovery of their choice; once per day, they can choose to
+      change that discovery to a different [shape] or [substance] discovery for
+      which they qualify. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

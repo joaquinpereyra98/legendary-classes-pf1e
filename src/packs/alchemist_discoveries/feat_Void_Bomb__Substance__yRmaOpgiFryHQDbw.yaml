@@ -1,0 +1,27 @@
+_id: yRmaOpgiFryHQDbw
+_key: '!items!yRmaOpgiFryHQDbw'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Void Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 6th.</p> <p><i>Quintessence Cost:</i>
+      1</p> <p> <i>Benefit:</i> When the alchemist creates a bomb, they can
+      choose to have it create a powerful gravitic force. Void bombs deals
+      bludgeoning damage, and a creature hit by the bomb must succeed at a
+      Reflex save against the bomb's DC. If it fails, it is knocked prone and
+      all of its movement speeds are reduced to 5 feet for 1 round. If it
+      succeeds, all of its movement speeds are reduced to 5 feet for 1 round.
+      Other creatures within 5 feet of the bomb's target take no damage but must
+      succeed at a Reflex save against the bomb's DC or have all their movement
+      speeds reduced to 5 feet for 1 round. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

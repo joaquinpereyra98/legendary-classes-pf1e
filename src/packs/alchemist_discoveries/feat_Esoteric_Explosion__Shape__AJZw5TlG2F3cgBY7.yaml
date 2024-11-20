@@ -1,0 +1,31 @@
+_id: AJZw5TlG2F3cgBY7
+_key: '!items!AJZw5TlG2F3cgBY7'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Esoteric Explosion [Shape]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist can cause their bombs to splash in a
+      15-foot cone instead of a 5-foot-radius burst or that splash in a 40-foot
+      line rather than affecting a radius. If the alchemist chooses to have
+      their bombs explode in a cone, they choose the direction of the cone. If
+      the attack misses, roll an additional 1d8 to determine the direction of
+      the blast from where the bomb lands. If the alchemist has the explosive
+      bomb discovery, it instead becomes a 20-foot cone. </p> <p> If the
+      alchemist chooses to have their bombs explode in a line, the line starts
+      at the alchemist and extends away from him in the direction they choose.
+      The alchemist designates one creature in the squares affected by the line
+      to be the target of the bomb and makes their attack roll against that
+      creature; all other squares in the line take splash damage. If the
+      alchemist has the explosive bomb discovery, the line of splash damage is
+      80 feet long instead of 40 feet. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

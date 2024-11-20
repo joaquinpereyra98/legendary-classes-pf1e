@@ -1,0 +1,22 @@
+_id: 8UZIz6DoD1qn6GTo
+_key: '!items!8UZIz6DoD1qn6GTo'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Shock Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: When the alchemist creates a bomb, they can choose to
+      have it inflict electricity damage. Creatures that take a direct hit from
+      a shock bomb are dazzled for a number of rounds equal to the alchemist's
+      level and must make a successful Reflex save or be fatigued for 1 round.
+      </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

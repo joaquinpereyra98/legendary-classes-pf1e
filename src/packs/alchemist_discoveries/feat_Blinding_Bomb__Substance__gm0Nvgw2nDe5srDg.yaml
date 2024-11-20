@@ -1,0 +1,24 @@
+_id: gm0Nvgw2nDe5srDg
+_key: '!items!gm0Nvgw2nDe5srDg'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Blinding Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 8</p> <p><i>Quintessence Cost</i>:
+      2</p> <p> <i>Benefit</i>: When the alchemist creates a bomb, they can
+      choose for it to detonate very brightly. Creatures that take a direct hit
+      from a blinding bomb are blinded for a number of rounds equal to the
+      alchemist's Intelligence modifier unless they succeed at a Fortitude save.
+      Creatures in the splash area that fail their saves against the bomb are
+      dazzled for 1 minute. This is a light effect. </p> <p><br></p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

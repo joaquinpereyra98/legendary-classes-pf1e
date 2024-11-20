@@ -1,0 +1,29 @@
+_id: 36DWh9t04TwecTDw
+_key: '!items!36DWh9t04TwecTDw'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Breath Weapon Bomb [Shape]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> Instead of drawing the components of, creating, and
+      throwing a bomb, the alchemist can draw the components, drink them, mix
+      them within their body, and then expel them as a breath weapon as an
+      attack action (if the alchemist has the ability to throw multiple bombs,
+      they may use this discovery with each bomb they would be able to throw).
+      This breath weapon is a 15-foot cone or 30-foot line and has the same DC
+      as the bomb. Each creature within the cone takes damage as if it had
+      suffered a direct hit from the alchemist's bomb but succeeding at a Reflex
+      save (DC = 10 + 1/2 the alchemist's level + the alchemist's Intelligent
+      modifier) halves the damage. Drawing, drinking, and expelling breath
+      weapon bombs does not provoke attacks of opportunity. At 10th level, this
+      instead becomes a 30-foot cone or 60-foot line. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

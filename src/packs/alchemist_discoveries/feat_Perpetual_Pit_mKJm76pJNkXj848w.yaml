@@ -1,0 +1,22 @@
+_id: mKJm76pJNkXj848w
+_key: '!items!mKJm76pJNkXj848w'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Perpetual Pit
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Pit bomb, alchemist 10th.</p> <p>
+      <i>Benefit:</i> Whenever the alchemist applies the pit bomb discovery to a
+      bomb, they can spend 1 additional point of quintessence to instead create
+      an <i>acid pit</i> spell. At 14th level, it can instead create a <i>hungry
+      pit</i> spell. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

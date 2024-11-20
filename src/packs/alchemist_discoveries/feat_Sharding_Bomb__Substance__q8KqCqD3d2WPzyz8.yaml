@@ -1,0 +1,24 @@
+_id: q8KqCqD3d2WPzyz8
+_key: '!items!q8KqCqD3d2WPzyz8'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Sharding Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist's bomb deals piercing damage instead of
+      fire damage, and creatures that take a direct hit from a sharding bomb
+      must succeed at a Reflex save or take bleed damage equal to the bomb's
+      minimum damage in addition to normal damage. In addition, they can choose
+      to have it cover the ground in volatile jagged crystals in addition to its
+      normal effects. These crystals act like caltrops, evaporating into a
+      harmless gas in 1 minute. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

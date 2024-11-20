@@ -1,0 +1,23 @@
+_id: fgFKbBpMzyde9wXT
+_key: '!items!fgFKbBpMzyde9wXT'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Dispelling Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 6.</p> <p><i>Quintessence Cost</i>:
+      1</p> <p> <i>Benefit</i>: When the alchemist creates a bomb, they can
+      choose to have it <i>dispel magic</i> effects instead of deal damage.
+      Creatures that take a direct hit from a dispelling bomb are subject to a
+      targeted dispel magic spell, using the alchemist's level as the caster
+      level. This cannot be used to target a specific spell effect. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

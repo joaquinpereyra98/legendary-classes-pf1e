@@ -1,0 +1,26 @@
+_id: jECwebwqig4cJOTu
+_key: '!items!jECwebwqig4cJOTu'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Puddle Detonation [Shape]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> When the alchemist creates a bomb, they can choose to
+      have it be unable target a creature, instead targeting a single square and
+      only dealing splash damage. The bomb creates a puddle in its splash radius
+      for a number of rounds equal to the alchemist's intelligence bonus
+      (minimum 1). Each creature which starts its turn within this area takes
+      damage equal to the bomb's splash damage. A creature caught in the puddle
+      when it is first created can attempt a Reflex save for half damage. If the
+      alchemist is adjacent to this puddle, they can remove its effects from 1
+      square as a free action. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

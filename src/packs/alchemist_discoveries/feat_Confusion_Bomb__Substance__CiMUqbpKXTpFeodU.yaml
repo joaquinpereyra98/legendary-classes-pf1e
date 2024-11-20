@@ -1,0 +1,23 @@
+_id: CiMUqbpKXTpFeodU
+_key: '!items!CiMUqbpKXTpFeodU'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Confusion Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 8.</p> <p><i>Quintessence Cost</i>:
+      2</p> <p> <i>Benefit</i>: The alchemist's bombs twist the target's
+      perception of friend and foe. A creature that takes a direct hit from a
+      confusion bomb takes damage from the bomb is confused for 1 minute (the
+      confusion effect takes place after damage is dealt) unless they make a
+      successful Will save. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

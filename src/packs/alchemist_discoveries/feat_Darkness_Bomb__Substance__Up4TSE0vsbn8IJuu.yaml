@@ -1,0 +1,22 @@
+_id: Up4TSE0vsbn8IJuu
+_key: '!items!Up4TSE0vsbn8IJuu'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Darkness Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: When the alchemist
+      creates a bomb, they can choose to have it suppress light sources on the
+      target. This extinguishes non-magical light sources carried by the target
+      and dispels magical light sources for a number of rounds equal to the
+      alchemist's Intelligence modifier as <i>deeper darkness</i>. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

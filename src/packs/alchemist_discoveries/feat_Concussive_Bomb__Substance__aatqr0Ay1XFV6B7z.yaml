@@ -1,0 +1,21 @@
+_id: aatqr0Ay1XFV6B7z
+_key: '!items!aatqr0Ay1XFV6B7z'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Concussive Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 6.</p> <p> <i>Benefit</i>: When the
+      alchemist creates a bomb, they can choose to have it inflict sonic damage.
+      Creatures that take a direct hit from a concussive bomb are deafened for 1
+      minute unless they succeed at a Fortitude save. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

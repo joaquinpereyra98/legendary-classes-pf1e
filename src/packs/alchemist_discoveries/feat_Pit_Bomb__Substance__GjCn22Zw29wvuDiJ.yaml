@@ -1,0 +1,24 @@
+_id: GjCn22Zw29wvuDiJ
+_key: '!items!GjCn22Zw29wvuDiJ'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Pit Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 4th.</p> <p><i>Quintessence Cost:</i>
+      1</p> <p> <i>Benefit:</i> When the alchemist creates a bomb, they can
+      choose to have it deal no damage and making no noise, instead no longer
+      able to target a creature. A pit bomb must instead target a square, making
+      it the target of a <i>create pit</i> spell, using the alchemist's class
+      level as their caster level for the purpose of its effects. At 8th level,
+      it can instead creates a <i>spiked pit</i> spell. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

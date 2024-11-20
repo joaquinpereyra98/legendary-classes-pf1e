@@ -1,0 +1,24 @@
+_id: sxs1Obrv8VD3nx9W
+_key: '!items!sxs1Obrv8VD3nx9W'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Reanimating Explosion
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 8th, alchemical zombie discovery.</p>
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> Until the beginning
+      of the alchemist's next round, if a creature is killed by a bomb's damage
+      or effect, its corpse is immediately reanimated as an undead creature with
+      the skeleton template. Skeletons that are created in this manner count as
+      undead created by <i>animate dead</i> for the purposes of determining how
+      many undead the alchemist can control. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

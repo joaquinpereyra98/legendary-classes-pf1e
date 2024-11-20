@@ -1,0 +1,25 @@
+_id: VfxXKpxaMZDe7Mdw
+_key: '!items!VfxXKpxaMZDe7Mdw'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Silent Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: When the alchemist
+      creates a bomb, they can choose for it to silence all creatures it damages
+      as though under the effects of a <i>silence</i> spell for a number of
+      minutes equal to their Intelligence modifier unless the damaged creatures
+      make a successful Will saving throw. All spaces that would take splash
+      damage from this bomb are automatically silenced. </p> <p> <b>Special</b>:
+      The alchemist can choose to have any bomb they create explode without
+      making noise or dealing damage. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

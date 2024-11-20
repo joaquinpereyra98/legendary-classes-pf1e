@@ -1,0 +1,32 @@
+_id: WtH4lVtn4GIq84wC
+_key: '!items!WtH4lVtn4GIq84wC'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Aquatic Engineer
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist gains the ability to throw bombs
+      underwater (normally, thrown weapons cannot be used underwater), including
+      throwing from the air into the water; bombs which would normally deal fire
+      damage can function underwater, creating steam instead of fire. If the
+      bomb travels through water, the range increment is unaffected. In
+      addition, when the alchemist creates a bomb, they can choose to either
+      weight it or includes excess air as part of the action of creating the
+      bomb, granting the bomb their choice of swiftly rising or swiftly sinking
+      buoyancy which causes the bomb to travel 100 feet per round in the
+      direction of their choice and allowing them to target creatures directly
+      above or below them. If the attack misses, the bomb doesn't deal splash
+      damage, but instead continues to travel up or down until it loses potency
+      at the end of the alchemist's turn or collides against a solid object,
+      detonating as normal. During any round in which the alchemist creates a
+      bomb, they are treated as though they could breathe normally. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

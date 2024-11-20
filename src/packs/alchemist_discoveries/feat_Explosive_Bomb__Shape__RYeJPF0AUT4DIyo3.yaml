@@ -1,0 +1,22 @@
+_id: RYeJPF0AUT4DIyo3
+_key: '!items!RYeJPF0AUT4DIyo3'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Explosive Bomb [Shape]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist's bombs now have a splash radius of 10
+      feet rather than 5 feet (see Throw Splash Weapon). At 8th level, they can
+      instead increase the splash range to 20 feet. At 16th level, they can
+      instead increase the splash radius to 30 feet. </p> <p><b>Special</b>: The
+      alchemist gains 1 additional quintessence.</p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,21 @@
+_id: jXH2YQMG6F0F2UXy
+_key: '!items!jXH2YQMG6F0F2UXy'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Rotten Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: When the alchemist creates a bomb, they can infuse it
+      with rotting materials. Creatures that take a direct hit from a rotten
+      bomb are sickened for a number of rounds equal to the alchemist's
+      Intelligence modifier unless they succeed at Fortitude saves. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

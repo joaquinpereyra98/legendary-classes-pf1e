@@ -1,0 +1,25 @@
+_id: E7j284uRg1qpKM46
+_key: '!items!E7j284uRg1qpKM46'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Explosive Weapon [Shape]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Whenever the alchemist makes an attack action, they
+      can apply a bomb to their weapon or a piece of ammunition. On a successful
+      attack, it deals additional damage equal to the bomb's splash damage and
+      is treated as a direct hit for the purpose of any substance infusion
+      applied to it. If the attack is unsuccessful, the applied bomb becomes
+      inert at the end of their round. </p> <p> <b>Special</b>: The alchemist
+      can only apply [substance] discoveries which trigger on a direct hit with
+      this discovery. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

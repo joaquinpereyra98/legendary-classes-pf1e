@@ -1,0 +1,24 @@
+_id: qv3uTIYeO1DaPumN
+_key: '!items!qv3uTIYeO1DaPumN'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Incendiary Blast
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 10, smoke bomb</p> <p><i>Quintessence
+      Cost</i>: 1</p> <p> <i>Benefit</i>: Whenever the alchemist creates a smoke
+      bomb, they can choose to instead create an incendiary bomb. The effects of
+      the smoke created by an alchemist's bomb duplicate the effects of
+      <i>incendiary cloud</i> instead of <i>fog cloud</i>, filling an area equal
+      to twice the bomb's splash radius for 1 round per level (see Throw Splash
+      Weapon). </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

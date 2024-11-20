@@ -1,0 +1,20 @@
+_id: VrG6fqeToLL3nyPC
+_key: '!items!VrG6fqeToLL3nyPC'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Acid Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: When the alchemist creates a bomb, they can choose to
+      have it inflict acid damage. Creatures that take a direct hit from an acid
+      bomb take an additional 1d6 points of acid damage 1 round later. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

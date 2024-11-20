@@ -1,0 +1,22 @@
+_id: xo13hemI5RfpWRSr
+_key: '!items!xo13hemI5RfpWRSr'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Frost Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: When the alchemist
+      creates a bomb, they can choose to have it inflict cold damage. Creatures
+      that take a direct hit from a frost bomb are staggered for a number of
+      rounds equal to the alchemist's Intelligence modifier unless they succeed
+      on a Fortitude save. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

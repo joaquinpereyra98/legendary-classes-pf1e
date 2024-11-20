@@ -1,0 +1,22 @@
+_id: CEePg709BIXXExcK
+_key: '!items!CEePg709BIXXExcK'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Force Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 6</p> <p><i>Quintessence Cost</i>:
+      2</p> <p> <i>Benefit</i>: When the alchemist creates a bomb, they can
+      choose to have it inflict force damage. Creatures that take a direct hit
+      from a force bomb are knocked prone unless they succeed on a Reflex save.
+      </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

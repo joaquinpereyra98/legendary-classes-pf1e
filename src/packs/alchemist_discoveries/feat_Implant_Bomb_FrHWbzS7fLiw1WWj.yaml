@@ -1,0 +1,39 @@
+_id: FrHWbzS7fLiw1WWj
+_key: '!items!FrHWbzS7fLiw1WWj'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Implant Bomb
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Delayed detonation discovery.</p> <p>
+      <i>Benefit:</i> The alchemist can implant a bomb in a willing or helpless
+      creature (a mindless creature under their control, such as a zombie,
+      counts as willing for this purpose); this takes 1 hour. When the implanted
+      creature dies or is destroyed, the bomb detonates in the creature's square
+      as if it were a delayed bomb set by the alchemist (though they can set the
+      bomb's damage to less than your normal bomb damage). The alchemist can use
+      any [substance] discoveries on this implanted bomb but not [shape]
+      discoveries. The bomb automatically detonates 24 hours after it is
+      implanted it in the creature. </p> <p> The alchemist can spend 3 points of
+      quintessence when using this discovery, if they do, the bomb does not
+      automatically detonate after 24 hours, and only detonates if the creature
+      dies or is destroyed. The alchemist can only have a number of creatures
+      implanted with bombs equal to their Intelligence modifier at once. </p>
+      <p> Implanting a bomb is as invasive as using the Heal skill to treat
+      deadly wounds and leaves surgical scars unless the creature is healed by
+      magic or abilities such as regeneration or fast healing. Some creatures
+      (such as oozes, elementals, and creatures with the incorporeal quality)
+      cannot have bombs implanted in them. Removing an implanted bomb requires a
+      Heal check to treat deadly wounds, followed by a <i>dispel magic</i> spell
+      or Disable Device check to neutralize the bomb (DC = 11 + alchemist‘s
+      caster level). </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

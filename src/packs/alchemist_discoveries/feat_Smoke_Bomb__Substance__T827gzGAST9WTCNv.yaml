@@ -1,0 +1,23 @@
+_id: T827gzGAST9WTCNv
+_key: '!items!T827gzGAST9WTCNv'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Smoke Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: When the alchemist creates a bomb, they can choose to
+      have it create a cloud of thick smoke when it detonates. The cloud
+      functions as <i>fog cloud</i>, filling an area equal to twice the bomb's
+      splash radius for 1 round per level. </p> <p> <b>Special</b>: The
+      alchemist can choose to have any bomb they create explode without making
+      noise or dealing damage. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,22 @@
+_id: ecd6ArD44c3eew8q
+_key: '!items!ecd6ArD44c3eew8q'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Amnesia Explosion
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: If a creature damaged by this bomb is rendered
+      unconscious within 1 minute, that creature loses all memory from the last
+      hour and cannot form new memories for 8 hours. </p> <p> The lost and
+      prevented memories might return later as dreams, and can be restored with
+      a <i>restoration</i> spell. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,21 @@
+_id: uOjD7k4reegHSMD9
+_key: '!items!uOjD7k4reegHSMD9'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Healing Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: When the alchemist
+      creates a bomb, they can choose to have it heal damage instead of dealing
+      it. Creatures affected by this bomb heal an amount equal to how much
+      damage they would have taken. </p> <p><br></p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

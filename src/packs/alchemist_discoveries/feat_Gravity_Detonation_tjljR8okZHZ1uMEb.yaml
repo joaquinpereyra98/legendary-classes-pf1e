@@ -1,0 +1,26 @@
+_id: tjljR8okZHZ1uMEb
+_key: '!items!tjljR8okZHZ1uMEb'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Gravity Detonation
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Void Bomb</p> <p> <i>Benefit:</i> Whenever the
+      alchemist creates a void bomb, they can choose to instead create a gravity
+      bomb. The target takes damage as if hit by a void bomb. All other
+      creatures within 5 feet of the target are subject to a bull rush. The
+      alchemist uses their alchemist class level in place of their Combat
+      Maneuver Bonus and adds their Intelligence modifier in place of their
+      Strength or Dexterity modifier to resolve the bull rush attempts.
+      Creatures moved by a gravity bomb are pushed directly away from the
+      target's square. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

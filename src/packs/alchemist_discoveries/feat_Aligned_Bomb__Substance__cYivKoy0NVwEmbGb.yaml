@@ -1,0 +1,27 @@
+_id: cYivKoy0NVwEmbGb
+_key: '!items!cYivKoy0NVwEmbGb'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Aligned Bomb [Substance]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 4th.</p> <p><i>Quintessence Cost:</i>
+      1</p> <p> <i>Benefit:</i> When the alchemist creates a bomb, they can
+      choose to have it deal aligned divine damage, choosing an alignment upon
+      creation (this alignment cannot be one that opposes their own). Creatures
+      with an alignment that directly opposes the bomb's alignment (good/evil or
+      law/chaos) that take a direct hit from an aligned bomb must succeed at a
+      Fortitude save or be staggered on their next turn. Against creatures who
+      are neutral to the bomb's aligned axis, aligned bombs deal half damage,
+      and such targets are not affected by their staggering effect. Aligned
+      bombs have no effect on creatures that share the bomb's alignment. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

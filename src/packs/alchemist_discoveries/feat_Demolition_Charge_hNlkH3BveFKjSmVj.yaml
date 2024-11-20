@@ -1,0 +1,26 @@
+_id: hNlkH3BveFKjSmVj
+_key: '!items!hNlkH3BveFKjSmVj'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Demolition Charge
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> When the alchemist creates a bomb, they can choose to
+      have it deal damage to an object as if by a sunder combat maneuver,
+      ignoring an amount of hardness equal to their alchemist level. If the item
+      is worn or held by an opponent, the item is considered the direct target,
+      and the wearer/holder takes splash damage from the blast. If the object is
+      unattended, a demolition charge instead bypasses the object's hardness on
+      a direct hit; this bonus doesn't affect the bomb's splash damage. If the
+      bomb reduces an inanimate target to half its hit points or fewer, it blows
+      a hole 5 feet wide and 5 feet deep in the target. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

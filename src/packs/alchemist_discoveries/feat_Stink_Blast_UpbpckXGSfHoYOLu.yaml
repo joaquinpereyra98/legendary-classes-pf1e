@@ -1,0 +1,23 @@
+_id: UpbpckXGSfHoYOLu
+_key: '!items!UpbpckXGSfHoYOLu'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Stink Blast
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 6, smoke bomb</p> <p><i>Quintessence
+      Cost</i>: 1</p> <p> <i>Benefit</i>: Whenever the alchemist creates a smoke
+      bomb, they can choose to instead create a stink bomb. The effects of the
+      smoke created by an alchemist's bomb can duplicate the effects of
+      <i>stinking cloud</i> instead of <i>fog cloud</i>, filling an area equal
+      to twice the bomb's splash radius. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

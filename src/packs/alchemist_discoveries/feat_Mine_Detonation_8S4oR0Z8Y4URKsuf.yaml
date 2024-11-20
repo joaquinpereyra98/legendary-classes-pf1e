@@ -1,0 +1,33 @@
+_id: 8S4oR0Z8Y4URKsuf
+_key: '!items!8S4oR0Z8Y4URKsuf'
+img: icons/weapons/thrown/bomb-fuse-pink.webp
+name: Mine Detonation
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Delayed Detonation.</p> <p> <i>Benefit:</i> The
+      alchemist can spend 1 minute to create a trap with their bomb against a
+      solid surface, obscuring it from view. A creature who is unaware of this
+      trap must make a successful Perception check (DC 10 + the alchemist's
+      class level + their Intelligence modifier) to spot it. When a creature
+      enters a square containing this trap, it explodes, dealing normal bomb
+      damage to all creatures in its square (DC = 10 + 1/2 the alchemist's class
+      level + their Intelligence modifier; Reflex half ) and splash damage to
+      every creature adjacent to that square. This trap can be disarmed with a
+      successful Disable Device check (with a DC equal to the trap's save DC);
+      otherwise, it lasts until the next time the alchemist refreshes their
+      daily bombs. When the alchemist uses this discovery, they can designate a
+      number of allies up to their Intelligence modifier, allowing the
+      designated allies to pass safely through the trap's square without causing
+      it to detonate. If another creature triggers the trip mine while an ally
+      is nearby, the ally still takes damage as normal. </p>
+  tags:
+    - Alchemist Discovery
+    - Bomb Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
