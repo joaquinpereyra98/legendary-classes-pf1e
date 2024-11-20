@@ -1,0 +1,27 @@
+_id: gfFH0pb7nhQvN1kg
+_key: '!items!gfFH0pb7nhQvN1kg'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Liquid Mercury [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> When an alchemist
+      applies this discovery to a toxin, choose either Intelligence, Wisdom, or
+      Charisma. A creature who fails their saving throw takes a penalty to this
+      ability score equal to their Intelligence modifier instead of becoming
+      sickened. At 8th level, at the beginning of that creature's next turn,
+      they must make a Fortitude saving throw. If this saving throw is
+      unsuccessful, the creature loses that penalty and takes ability damage to
+      that score equal to the penalty they suffered from this effect. At 14th
+      level, if the creature fails the saving throw at the beginning of their
+      turn, they instead take ability drain to that ability score. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

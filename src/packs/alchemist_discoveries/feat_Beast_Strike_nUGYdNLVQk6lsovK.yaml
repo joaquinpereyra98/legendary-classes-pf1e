@@ -1,0 +1,22 @@
+_id: nUGYdNLVQk6lsovK
+_key: '!items!nUGYdNLVQk6lsovK'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Beast Strike
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Whenever the alchemist makes a melee attack with an
+      attack action and successfully hits a creature, they can spend 1
+      quintessence as a free action. If they do, the damage from that attack is
+      maximized. </p> <p><b>Special</b>: The alchemist gains 1 additional
+      quintessence.</p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,27 @@
+_id: sbcq8nci7XIUvfcf
+_key: '!items!sbcq8nci7XIUvfcf'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Winged Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 6th.</p> <p><i>Quintessence Cost</i>:
+      2</p> <p> <i>Benefit</i>: Whenever the alchemist imbibes a mutagen with
+      this discovery applied, they grow a set of wings which grants them a 60
+      foot flight speed with good maneuverability. The alchemist can spend an
+      additional 1 quintessence when applying this discovery to a mutagen to
+      grant them two wing buffet attacks. These attacks are secondary attacks
+      and deal 1d4 points of damage (1d6 if Large, 1d8 if Huge). </p> <p>
+      <b>Special</b>: If an alchemist possesses this discovery, whenever they
+      imbibe any mutagen, they can choose to grow a pair of vestigial wings,
+      granting them the ability to <i>glide</i> as per the spell. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

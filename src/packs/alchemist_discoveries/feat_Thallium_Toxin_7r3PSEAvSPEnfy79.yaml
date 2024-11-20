@@ -1,0 +1,22 @@
+_id: 7r3PSEAvSPEnfy79
+_key: '!items!7r3PSEAvSPEnfy79'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Thallium Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> When an alchemist
+      applies this discovery to a toxin, a creature who fails their saving throw
+      takes bleed damage equal the alchemist's Intelligence modifier for 1
+      minute; this bleed damage stacks with all other bleed damage, including
+      itself. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

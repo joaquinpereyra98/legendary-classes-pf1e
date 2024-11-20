@@ -1,0 +1,32 @@
+_id: vzrBjmzk6wjDcO9C
+_key: '!items!vzrBjmzk6wjDcO9C'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Spined Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: Whenever the
+      alchemist imbibes a mutagen with this discovery applied, they grow a layer
+      of razor sharp spines all over their body. Whenever the alchemist is
+      attacked with a non-reach melee attack while covered in spines, the
+      attacking creature take damage equal to the alchemist's Intelligence
+      modifier + 1/2 their alchemist level. In addition, the alchemist can fire
+      spines at those around them as though they were a ranged projectile weapon
+      with a max range increment of 60 feet. These spines deal 1d6 + the
+      alchemist's Intelligence modifier, and for every 5 class levels the
+      alchemist possesses, their damage increases by 1d6. Spines fired off by
+      this ability instantly regrow. </p> <p> <b>Special</b>: If an alchemist
+      possesses this discovery, whenever they imbibe any mutagen, they can
+      choose to grow a lesser set of spines. Whenever the alchemist is attacked
+      with a natural attack while covered in lesser spines, the attacking
+      creature takes damage equal to the alchemist's Intelligence modifier. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

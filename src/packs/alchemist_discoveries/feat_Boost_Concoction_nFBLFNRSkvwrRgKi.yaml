@@ -1,0 +1,22 @@
+_id: nFBLFNRSkvwrRgKi
+_key: '!items!nFBLFNRSkvwrRgKi'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Boost Concoction
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 6th.</p> <p> <i>Benefit:</i> Whenever
+      the alchemist imbibes a mutagen, once per round they can move 10 feet as a
+      free action (this movement provokes attacks of opportunity as normal). At
+      10th level and every four levels thereafter, they can move an additional 5
+      feet with this ability. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

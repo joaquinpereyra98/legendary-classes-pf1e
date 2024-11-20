@@ -1,0 +1,26 @@
+_id: DrNXTbUzl2ve7uOR
+_key: '!items!DrNXTbUzl2ve7uOR'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Refuge
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite</i>: Tinker discipline.</p> <p> <i>Benefit</i>: When
+      the alchemist is reduced below 0 HP while within 100 feet of their
+      automaton, they may choose to have their spirit flee their body and
+      inhabit their automaton, even if they would have been killed. Their body
+      is reduced to dust, but the automaton survives and begins creating a new
+      body for the alchemist, which is complete in 1d10+1 days. During this time
+      the alchemist may take no actions except to command the automaton and does
+      not have quintessence, and if the automaton is destroyed the alchemist
+      dies. </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

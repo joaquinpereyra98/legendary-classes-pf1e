@@ -1,0 +1,31 @@
+_id: 2tkIzKI0T4D3I5Yd
+_key: '!items!2tkIzKI0T4D3I5Yd'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Ooze Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 2</p> <p> <i>Benefit</i>: Whenever the
+      alchemist imbibes a mutagen with this discovery applied, their physical
+      form becomes soft and rubbery, like an ooze. The alchemist is treated as
+      two sizes smaller for the purpose of squeezing through tight spaces and
+      can convert an amount of damage equal to their Intelligence modifier taken
+      from any source into non-lethal damage (if the alchemist is immune to
+      non-lethal damage, this ability does not function) and gains blindsense 30
+      feet. In addition, they can choose to secrete acid as a free action (being
+      able to end this effect as a free action), causing their natural weapons
+      to deal an amount of acid damage equal to their Intelligence modifier;
+      this acid does not damage anything they wear. </p> <p> <b>Special</b>: If
+      an alchemist possesses this discovery, whenever they imbibe any mutagen,
+      they can choose to take on a vaguely oozelike appearance, gaining
+      blindsense 30 feet. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

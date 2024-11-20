@@ -1,0 +1,22 @@
+_id: plLCzsl5cyE0q1Cc
+_key: '!items!plLCzsl5cyE0q1Cc'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Aquatic Adaptation
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Whenever the alchemist imbibes a mutagen, they gain a
+      swim speed of 30 feet and can breathe underwater indefinitely. In
+      addition, the alchemist can notice other creatures by scent in a 180-foot
+      radius underwater and can detect blood in the water at ranges of up to a
+      mile. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

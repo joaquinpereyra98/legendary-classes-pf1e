@@ -1,0 +1,19 @@
+_id: 8q6pBVXNoCtPYTyN
+_key: '!items!8q6pBVXNoCtPYTyN'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Billowing Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> Benefit: Whenever the alchemist throws an inhaled toxin, rather than
+      affecting a 5-foot square, it instead affects a 10-foot square. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,25 @@
+_id: 0uO0aQa4EPGoR1N2
+_key: '!items!0uO0aQa4EPGoR1N2'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Elastic Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 2</p> <p> <i>Benefit</i>: Whenever the
+      alchemist imbibes a mutagen with this discovery applied, their natural
+      reach is increased by 5 feet. At 10th level, they can spend an additional
+      4 quintessence when applying this discovery to a mutagen to instead
+      increase their natural reach by 10 feet. </p> <p> <b>Special</b>: If an
+      alchemist possesses this discovery, whenever they imbibe any mutagen, they
+      can spend a swift action to increase their natural reach by 5 feet until
+      the end of their turn. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

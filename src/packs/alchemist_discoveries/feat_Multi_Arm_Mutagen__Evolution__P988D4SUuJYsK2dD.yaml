@@ -1,0 +1,35 @@
+_id: P988D4SUuJYsK2dD
+_key: '!items!P988D4SUuJYsK2dD'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Multi-Arm Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: Whenever the
+      alchemist imbibes a mutagen with this discovery applied, they gain an
+      additional pair of arms, complete with hands. The alchemist does not gain
+      any additional natural attacks for an additional pair of arms, but they
+      can be used to wield weapons. These limbs have their own “hand” or “ring”
+      magic item slots (though the alchemist can still only wear two rings or
+      two hand magic items at a time). </p> <p> <b>Special</b>: If an alchemist
+      possesses this discovery, whenever they imbibe any mutagen, they can
+      choose to grow a vestigial arm (this special ability does not allow the
+      alchemist to grow a third arm if used with vestigial appendage). </p> <p>
+      The arm is fully under their control and cannot be concealed except with
+      magic or bulky clothing. The arm does not give the alchemist any extra
+      attacks or actions per round, though the arm can wield a weapon and make
+      attacks as part of the alchemist's attack routine (using two-weapon
+      fighting). The arm can manipulate or hold items as well as the alchemist's
+      original arms (for example, allowing the alchemist to use one hand to
+      wield a weapon, another hand to hold a potion, and the third hand to throw
+      a bomb). </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

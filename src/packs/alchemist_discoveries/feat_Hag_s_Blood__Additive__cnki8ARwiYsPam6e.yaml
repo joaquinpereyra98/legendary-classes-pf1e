@@ -1,0 +1,24 @@
+_id: cnki8ARwiYsPam6e
+_key: '!items!cnki8ARwiYsPam6e'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Hag's Blood [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 6th.</p> <p><i>Quintessence Cost:</i>
+      2</p> <p> <i>Benefit:</i> When an alchemist applies this discovery to a
+      toxin, a creature who fails their saving throw is treated as though under
+      the effects of a <i>bestow curse</i> spell, the effect of the curse being
+      chosen upon applying this discovery to a toxin. Unlike other toxins, this
+      effect is permanent until removed. This is a supernatural curse effect.
+      </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

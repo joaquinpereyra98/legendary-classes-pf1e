@@ -1,0 +1,21 @@
+_id: JR69uSX7kfgPY0fw
+_key: '!items!JR69uSX7kfgPY0fw'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Awakened Genius
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist's constant exposure to strange chemicals
+      has expanded their mind. Their Intelligence score permanently increases by
+      4 points and they reduce the quintessence cost of class features and
+      discoveries by 1 (to a minimum of 1). </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

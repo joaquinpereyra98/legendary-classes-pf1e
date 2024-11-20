@@ -1,0 +1,24 @@
+_id: Qzn0s9OuwPs5VwHC
+_key: '!items!Qzn0s9OuwPs5VwHC'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Yohimbine Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 4th.</p> <p><i>Quintessence Cost</i>:
+      1</p> <p> <i>Benefit</i>: When an alchemist applies this discovery to a
+      toxin, a creature who fails their saving throw is shaken instead of
+      becoming sickened. If the creature is shaken at the beginning of their
+      next turn, they must make a Will saving throw. If they fail this saving
+      throw, they are instead frightened. At 10th level, if the creature fails
+      this Will saving throw, they are instead panicked. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

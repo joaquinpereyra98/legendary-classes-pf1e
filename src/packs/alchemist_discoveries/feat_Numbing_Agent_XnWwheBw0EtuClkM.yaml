@@ -1,0 +1,25 @@
+_id: XnWwheBw0EtuClkM
+_key: '!items!XnWwheBw0EtuClkM'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Numbing Agent
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: When an alchemist
+      applies this discovery to a toxin, it no longer deals damage or sickens a
+      creature. Instead, the creature gains a number of temporary hit points
+      equal to the alchemist's class level + their Intelligence modifier which
+      last for a number of minutes equal to their Intelligence modifier. At 10th
+      level, they instead gain temporary hit points equal to two times the
+      alchemist's class level + their Intelligence modifier, and last for a
+      number of hours equal to their Intelligence modifier. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

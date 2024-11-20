@@ -1,0 +1,23 @@
+_id: au92jF7dGUZ0Pu7O
+_key: '!items!au92jF7dGUZ0Pu7O'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Combine Extracts
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> When the alchemist creates an extract, they can place
+      two formulae into one extract. When the extract is consumed, both formulae
+      take effect. This extract has a level two levels higher than the
+      highest-level formulae placed in the extract (if the alchemist combined a
+      <i>cure light wounds</i> and <i>invisibility</i> spell, it would require a
+      4th-level extract slot). </p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,22 @@
+_id: APx1fdRYI5Tvl1w4
+_key: '!items!APx1fdRYI5Tvl1w4'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Quintessential Infusion
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Quintessence surge class feature.</p> <p>
+      <i>Benefit:</i> Whenever the alchemist imbibes a mutagen, they are treated
+      as though they had spent 1 quintessence to active their quintessence surge
+      class feature. </p> <p><i>Special:</i> The alchemist gains 1 additional
+      quintessence.</p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

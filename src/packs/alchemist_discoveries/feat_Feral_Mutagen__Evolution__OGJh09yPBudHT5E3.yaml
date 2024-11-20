@@ -1,0 +1,29 @@
+_id: OGJh09yPBudHT5E3
+_key: '!items!OGJh09yPBudHT5E3'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Feral Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: Whenever the
+      alchemist imbibes a mutagen with this discovery applied, they gain two
+      claw attacks on a pair of hands of their choice. These are primary attacks
+      and are made using the alchemist's full base attack bonus. The claw
+      attacks deal 1d6 points of damage (1d4 if the alchemist is Small). While
+      the mutagen is in effect, the alchemist gains a +2 competence bonus on
+      Intimidate skill checks. In addition, the alchemist gains a burrow speed
+      of 20 feet. For every 3 class levels the alchemist possesses, their
+      competence bonus on Intimidate checks increases by +2 and their burrow
+      speed increases by 5 feet. </p> <p> <b>Special</b>: If an alchemist
+      possesses this discovery, whenever they imbibe any mutagen, they gain a
+      burrow speed of 10 feet. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

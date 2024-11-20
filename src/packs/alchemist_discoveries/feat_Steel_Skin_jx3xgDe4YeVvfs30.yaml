@@ -1,0 +1,17 @@
+_id: jx3xgDe4YeVvfs30
+_key: '!items!jx3xgDe4YeVvfs30'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Steel Skin
+system:
+  abilityType: na
+  description:
+    value: '<p><i>Benefit</i>: The alchemist gains DR 10/-.</p>'
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

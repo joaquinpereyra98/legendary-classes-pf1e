@@ -1,0 +1,23 @@
+_id: 2ACMcso580jpKDeO
+_key: '!items!2ACMcso580jpKDeO'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Psychosomatic Toxins
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Whenever an alchemist creates a toxin, they can choose
+      for it to require a successful Will saving throw instead of a successful
+      Fortitude saving throw (this applies to all saving throws the discovery
+      mentions). Toxins with this discovery applied to them are mind-affecting
+      effects. </p> <p><b>Special</b>: The alchemist gains 1 additional
+      quintessence.</p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

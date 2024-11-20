@@ -1,0 +1,22 @@
+_id: NffdlmTbehlzuqOV
+_key: '!items!NffdlmTbehlzuqOV'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Second-Hand Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> Whenever a creature fails a saving throw against an
+      ingested toxin the alchemist created, for the next 24 hours, the next
+      creature to come into physical contact with who failed that saving throw
+      is treated as though they were exposed to that toxin, despite it being
+      ingested. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

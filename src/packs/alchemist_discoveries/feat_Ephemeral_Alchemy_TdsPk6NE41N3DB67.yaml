@@ -1,0 +1,25 @@
+_id: TdsPk6NE41N3DB67
+_key: '!items!TdsPk6NE41N3DB67'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Ephemeral Alchemy
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> The alchemist can
+      create an image in a space adjacent to them as a move action, as <i>silent
+      image</i>, using their alchemist level as the spell's caster level. The
+      image they create remains for a number of minutes equal to their alchemist
+      level. They can dismiss this image as a free action. At 6th level, the
+      image can also produce minor sounds, as <i>minor image</i>. At 10th level,
+      the image can also produces sound, smell, and heat, as <i>major image</i>.
+      </p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

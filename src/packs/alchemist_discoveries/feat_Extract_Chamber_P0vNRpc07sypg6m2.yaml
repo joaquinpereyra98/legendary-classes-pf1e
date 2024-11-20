@@ -1,0 +1,24 @@
+_id: P0vNRpc07sypg6m2
+_key: '!items!P0vNRpc07sypg6m2'
+img: icons/commodities/tech/cog-gold.webp
+name: Extract Chamber
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: When the alchemist prepares an extract they may choose
+      to infuse it into their automaton. (The automaton must be present while
+      the alchemist prepares the extract.) The alchemist cannot use this extract
+      or give it to another creature to use, but as long as their automaton is
+      within 100 feet they may cause their automaton to be affected by it as a
+      standard action. Extracts infused into an automaton expire after one day
+      as normal. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

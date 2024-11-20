@@ -1,0 +1,22 @@
+_id: tadF44wM9zsCv38u
+_key: '!items!tadF44wM9zsCv38u'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Permanent Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Toxicologist discipline.</p> <p><i>Quintessence
+      Cost</i>: 2</p> <p> <i>Benefit</i>: When applying a discovery to a toxin,
+      an alchemist can also apply this discovery. The DC of that toxin increases
+      by 5, and the effects of it are permanent unless removed by a
+      <i>miracle</i> or <i>wish</i> spell. </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

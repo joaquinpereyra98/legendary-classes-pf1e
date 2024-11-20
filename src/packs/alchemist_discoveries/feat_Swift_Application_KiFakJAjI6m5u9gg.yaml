@@ -1,0 +1,20 @@
+_id: KiFakJAjI6m5u9gg
+_key: '!items!KiFakJAjI6m5u9gg'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Swift Application
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist can apply toxin to a weapon as a swift
+      action; if they can already do so, they can apply it as a free action once
+      per round. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

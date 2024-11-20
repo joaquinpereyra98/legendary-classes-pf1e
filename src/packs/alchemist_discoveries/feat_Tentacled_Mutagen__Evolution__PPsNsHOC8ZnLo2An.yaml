@@ -1,0 +1,27 @@
+_id: PPsNsHOC8ZnLo2An
+_key: '!items!PPsNsHOC8ZnLo2An'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Tentacled Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 2</p> <p> <i>Benefit</i>: Whenever the
+      alchemist imbibes a mutagen with this discovery applied, they grow a pair
+      of tentacles from their body. These tentacles are primary natural attacks
+      which deal 1d4 bludgeoning damage (1d3 for small alchemist) but are unable
+      to hold or manipulate objects. </p> <p> <b>Special</b>: If an alchemist
+      possesses this discovery, whenever they imbibe any mutagen, they can
+      choose to grow a single small tentacle (an alchemist cannot grow more than
+      2 tentacles due to this discovery) from their body. This tentacle is a
+      secondary natural attack which deals 1d3 bludgeoning damage (1d2 for small
+      alchemists). </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

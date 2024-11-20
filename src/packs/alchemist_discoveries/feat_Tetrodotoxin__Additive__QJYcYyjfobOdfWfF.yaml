@@ -1,0 +1,31 @@
+_id: QJYcYyjfobOdfWfF
+_key: '!items!QJYcYyjfobOdfWfF'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Tetrodotoxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> When an alchemist applies this discovery to a toxin,
+      any creature affected by that toxin can choose to enter a state of fake
+      death rather than being sickened and taking damage, appearing to be dead
+      (if an unwilling target is affected, this toxin has no effect). This
+      effect makes them appear to be dead to all methods of detection including
+      magic. The creature cannot see, but is otherwise aware of their
+      surroundings, and can spend 1 full-round action to rouse themselves back
+      to life. This toxin lasts for 24 hours, after which the creature is
+      automatically brought back to life. At 10th level, this toxin instead
+      lasts for 1 week. </p> <p> <i>Special:</i> An alchemist with this
+      discovery gains a +4 alchemical bonus to saving throws against death
+      effects and can use the effect of this discovery without applying it to a
+      poison as an immediate reaction as long as they have been dealt damage
+      within 1 round and have this toxin on their person. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

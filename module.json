@@ -43,7 +43,7 @@
                 {
                     "name": "Alchemist Class Abilities",
                     "sorting": "m",
-                    "color": "#941919 ",
+                    "color": "#fadd00",
                     "packs": [
                         "legendary-alchemist-abilities",
                         "alchemist_discoveries",

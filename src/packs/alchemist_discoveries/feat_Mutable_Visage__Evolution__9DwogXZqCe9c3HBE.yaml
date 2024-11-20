@@ -1,0 +1,24 @@
+_id: 9DwogXZqCe9c3HBE
+_key: '!items!9DwogXZqCe9c3HBE'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Mutable Visage [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> Whenever the
+      alchemist imbibes a mutagen with this discovery applied, they are treated
+      as though under the effects of an <i>alter self</i> spell, although their
+      abilities scores are not altered by this ability. The alchemist can spend
+      1 additional quintessence when applying this discovery to a mutagen to
+      allow themselves to alter their appearance at will as a standard action.
+      </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

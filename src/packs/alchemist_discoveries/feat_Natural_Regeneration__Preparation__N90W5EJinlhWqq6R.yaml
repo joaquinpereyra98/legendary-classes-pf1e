@@ -1,0 +1,29 @@
+_id: N90W5EJinlhWqq6R
+_key: '!items!N90W5EJinlhWqq6R'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Natural Regeneration [Preparation]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> As a free action
+      once per round, the alchemist can heal 5 hit points as if they had the
+      fast healing ability. They can heal 5 hit points per day in this manner
+      for each alchemist level they possess. If the alchemist falls unconscious
+      because of hit point damage and still has healing available from this
+      ability, the ability activates automatically each round until they are
+      conscious again or the ability is depleted for the day. While the
+      alchemist has any hit points recoverable to them from this ability, they
+      cannot die from hit point loss. At 8th level, whenever the alchemist heals
+      from this ability, they are also treated as though under the effects of a
+      <i>regenerate</i> spell, targeting any missing body parts or such that
+      they have. </p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

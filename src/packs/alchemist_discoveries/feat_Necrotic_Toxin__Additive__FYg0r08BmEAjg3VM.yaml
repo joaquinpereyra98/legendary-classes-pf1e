@@ -1,0 +1,23 @@
+_id: FYg0r08BmEAjg3VM
+_key: '!items!FYg0r08BmEAjg3VM'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Necrotic Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 12th.</p> <p><i>Quintessence
+      Cost:</i> 2</p> <p> <i>Benefit:</i> When an alchemist applies this
+      discovery to a toxin, a creature who fails their saving throw gains 2
+      negative levels instead of becoming sickened; these negative levels last
+      are permanent. At 18th level, the amount of negative levels gained from
+      this increases by 2. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

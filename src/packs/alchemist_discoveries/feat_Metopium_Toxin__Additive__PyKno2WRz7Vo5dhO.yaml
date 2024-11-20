@@ -1,0 +1,22 @@
+_id: PyKno2WRz7Vo5dhO
+_key: '!items!PyKno2WRz7Vo5dhO'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Metopium Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 4th</p> <p><i>Quintessence Cost</i>:
+      1</p> <p> When an alchemist applies this discovery to a toxin, a creature
+      who fails their saving throw treats all creatures as though they have
+      concealment instead of becoming sickened. At 8th level, the creature is
+      instead blinded. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

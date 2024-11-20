@@ -1,0 +1,20 @@
+_id: VXpFAFxUpMxeS5oT
+_key: '!items!VXpFAFxUpMxeS5oT'
+img: icons/commodities/tech/cog-gold.webp
+name: Extra Customization
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Choose a customization of a level (minor, major,
+      fantastical) it has access to. The alchemist's automaton gains that
+      customization. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

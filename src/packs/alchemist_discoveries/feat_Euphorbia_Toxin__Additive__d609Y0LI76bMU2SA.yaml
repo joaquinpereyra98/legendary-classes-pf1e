@@ -1,0 +1,28 @@
+_id: d609Y0LI76bMU2SA
+_key: '!items!d609Y0LI76bMU2SA'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Euphorbia Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 2</p> <p> <i>Benefit</i>: When an alchemist
+      applies this discovery to a toxin, a creature who fails their saving throw
+      is <i>fatigued</i> instead of becoming <i>sickened</i>. If the creature is
+      fatigued at the beginning of their next turn, they must make a Fortitude
+      saving throw. If they fail this saving throw, they are instead
+      <i>staggered</i> for 1 minute. At 10th level, if the creature fails this
+      saving throw, they instead lose consciousness and fall asleep for a number
+      of hours equal to the alchemist's Intelligence modifier. Slapping or
+      wounding awakens an affected creature, but normal noise does not.
+      Awakening a creature is a standard action (an application of the aid
+      another action). </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

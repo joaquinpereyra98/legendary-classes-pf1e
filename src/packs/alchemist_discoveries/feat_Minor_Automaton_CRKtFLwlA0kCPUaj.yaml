@@ -1,0 +1,28 @@
+_id: CRKtFLwlA0kCPUaj
+_key: '!items!CRKtFLwlA0kCPUaj'
+img: icons/commodities/tech/cog-gold.webp
+name: Minor Automaton
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: The alchemist can
+      create a minor automaton with 10 minutes of work. This functions as unseen
+      servant, with the following modifications. It is not invisible and is
+      treated as a tiny object. Like an automaton, it may have almost any
+      appearance its creator wishes. It may be attacked and has 4 HP. It has any
+      movement modes the alchemist's automaton does, but its speed is never more
+      than 15 feet It falls apart and ceases to function if it goes more than
+      100 feet away from the alchemist. The alchemist may have a single minor
+      automaton at a time, plus an additional minor automaton at 6th, 12th, and
+      18th level. If the alchemist creates any minor automata beyond this limit,
+      the oldest automaton falls apart and ceases to function. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

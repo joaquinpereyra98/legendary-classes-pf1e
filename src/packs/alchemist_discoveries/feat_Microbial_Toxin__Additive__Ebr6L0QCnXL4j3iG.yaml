@@ -1,0 +1,25 @@
+_id: Ebr6L0QCnXL4j3iG
+_key: '!items!Ebr6L0QCnXL4j3iG'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Microbial Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 6th.</p> <p><i>Quintessence Cost:</i>
+      1</p> <p> <i>Benefit:</i> When an alchemist applies this discovery to a
+      toxin, a creature who fails their saving throw contracts one of the
+      following diseases: blinding sickness, bubonic plague, cackle fever, filth
+      fever, leprosy, mindfire, red ache, shakes, or slimy doom. The disease is
+      contracted immediately (the onset period does not apply). Use the
+      disease's listed frequency and the toxin's DC to determine further
+      effects. For more information see Diseases. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

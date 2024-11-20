@@ -1,0 +1,22 @@
+_id: hgDCxTeZcHziuXyK
+_key: '!items!hgDCxTeZcHziuXyK'
+img: icons/commodities/tech/cog-gold.webp
+name: Mechanical Mind
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist gains a +2 competence bonus to saving
+      throws against mind-affecting effects. This increases by +2 at 5th level
+      and every 4 levels thereafter. If they fail a saving throw against a
+      mind-affecting effect, they may reroll their saving throw as an immediate
+      action, but are confused until the end of their next turn. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

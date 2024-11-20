@@ -1,0 +1,31 @@
+_id: Ec2rR2qqRTpC0blG
+_key: '!items!Ec2rR2qqRTpC0blG'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Alchemical Lich
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Mummification.</p> <p> <i>Benefit:</i> The
+      alchemist gains the lich template, ignoring its requirements, and uses
+      their Intelligence modifier in place of their Charisma to determine their
+      hit points as well as the saving throws of any ability gained from this
+      template. Unlike a normal lich, an alchemical lich does not need to be
+      evil, being able to be any alignment they desire. An alchemical lich is
+      treated as a living creature for the purposes of any extract they create
+      whenever it would benefit them. The can also cause their melee touch
+      attack to deal damage equal to their bombs, as well as apply any discovery
+      they possess to it as long as it would not change the area of the bomb
+      (although they must still pay any quintessence cost associated with it);
+      they cannot use this ability when using their touch attack to heal a
+      creature. Upon selecting this discovery, the alchemist automatically gains
+      a phylactery. </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

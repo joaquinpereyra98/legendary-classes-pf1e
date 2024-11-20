@@ -1,0 +1,24 @@
+_id: H5UDRfeMJANgPufY
+_key: '!items!H5UDRfeMJANgPufY'
+img: icons/commodities/tech/cog-gold.webp
+name: Mechanical Alchemy
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 8th.</p> <p><i>Quintessence Cost:</i>
+      1</p> <p> <i>Benefit:</i> As a full-round action, the alchemist can create
+      a non-magical object in a space adjacent to them as <i>minor creation</i>,
+      using their alchemist level as the spell's caster level. At 12th level,
+      they can instead create objects as <i>major creation</i>. </p> <h3> <span
+      class="mw-headline" id="Toxicologist_Discoveries_2">Toxicologist
+      Discoveries</span> </h3>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

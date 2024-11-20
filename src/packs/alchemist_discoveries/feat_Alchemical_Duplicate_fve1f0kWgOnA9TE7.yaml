@@ -1,0 +1,29 @@
+_id: fve1f0kWgOnA9TE7
+_key: '!items!fve1f0kWgOnA9TE7'
+img: icons/commodities/tech/cog-gold.webp
+name: Alchemical Duplicate
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 6th.</p> <p> <i>Benefit:</i> The
+      alchemist gains the ability to create a duplicate body for themselves out
+      of iron and metal; creating a duplicate costs 500 gp in alchemical
+      materials and requires 1 day to create. The duplicate is a perfect
+      recreation of the alchemist's original body. As a full-round action, the
+      alchemist can shift their consciousness from their current body to any one
+      of their available duplicates, which must be on the same plane as the
+      alchemist. While in the duplicate, the alchemist retains all abilities not
+      related to their body (such as natural attacks). If killed in a duplicate,
+      the alchemist transfers to their own body automatically; if killed in
+      their own body, they are dead. Unused duplicates (including their
+      abandoned original body) appear to be lifeless corpses. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

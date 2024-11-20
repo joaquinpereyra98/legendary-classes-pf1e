@@ -1,0 +1,21 @@
+_id: 9OgTq7FLcPL9lp1l
+_key: '!items!9OgTq7FLcPL9lp1l'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Wildcard Toxicologist
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> 3 or more additive discoveries.</p> <p>
+      <i>Benefit:</i> The alchemist gains an [additive] discovery of their
+      choice; once per day, they can choose to change that discovery to another
+      [additive] discovery for which they qualify. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

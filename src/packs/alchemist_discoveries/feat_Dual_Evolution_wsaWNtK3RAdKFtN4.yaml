@@ -1,0 +1,22 @@
+_id: wsaWNtK3RAdKFtN4
+_key: '!items!wsaWNtK3RAdKFtN4'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Dual Evolution
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 6th, 2 or more [evolution]
+      discoveries.</p> <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>:
+      The alchemist can apply two different [Evolution] discoveries to the same
+      mutagen. The alchemist must pay any quintessence cost for the discoveries
+      as well as the cost of this discovery when doing so. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

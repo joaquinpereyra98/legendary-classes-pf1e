@@ -1,0 +1,22 @@
+_id: 2sQY9UgIcDZx6XYU
+_key: '!items!2sQY9UgIcDZx6XYU'
+img: icons/commodities/tech/cog-gold.webp
+name: Grow Homunculus
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 8</p> <p> <i>Benefit</i>: The
+      alchemist gains a homunculus familiar, as the arcane bond wizard class
+      feature, and can add new abilities for half the normal price and without
+      making a Heal check. This does not allow you to have two familiars
+      (including a tumor familiar) or a familiar and a bonded item. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,27 @@
+_id: zlFbNBbyqJWROWCk
+_key: '!items!zlFbNBbyqJWROWCk'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Delayed Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: The alchemist can
+      choose to have their toxin not take immediate effect and are always aware
+      if a creature has made a successful saving throw against their toxin. When
+      a creature has failed a saving throw against the alchemist's toxin, they
+      can choose for it to lay dormant in their system for a number of hours
+      equal to their Intelligence modifier. At 10th level, the alchemist can
+      instead choose for it to lay dormant for a number of days equal to their
+      Intelligence modifier and can select a specific triggering action which
+      will activate it (such as speaking to a specific individual, bringing up a
+      specific topic, or casting a specific spell). </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

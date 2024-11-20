@@ -1,0 +1,32 @@
+_id: MK6HNmlnJj3CHaLz
+_key: '!items!MK6HNmlnJj3CHaLz'
+img: icons/commodities/tech/cog-gold.webp
+name: Mortar
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Prerequisite(s)</i>: Alchemist 8th, at least one substance
+      discovery, automaton with retort customization or minor customize self
+      (retort) </p> <p><i>Quintessence Cost</i>: Special; see below</p> <p>
+      <i>Benefit</i>: When the alchemist's automaton uses its retort ability,
+      they can spend 1 point of quintessence as a free action, even if it isn't
+      their turn, to infuse its projectile with alchemical substances similar to
+      their bombs. It may apply the effect of one substance discovery to the
+      attack. The retort still does the same amount of damage as normal, but the
+      damage type may change and it may have additional effects. If the
+      substance discovery has a quintessence cost, the alchemist must pay that
+      in addition to the cost of this ability. If the alchemist has the minor
+      customize self (retort) discovery, they can apply this to their own
+      retorts with the same effect. </p> <p> <b>Special</b>: If you or your
+      automaton have the barrage discovery, you may apply this to the first
+      attack you make when you use it, just as if using it with retort. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

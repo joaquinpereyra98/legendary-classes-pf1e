@@ -1,0 +1,67 @@
+_id: 9yAIT4gvbzbRvkK0
+_key: '!items!9yAIT4gvbzbRvkK0'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Second Soul Unleashed
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Parasitic twin discovery, alchemist 10th.</p>
+      <p> <i>Benefit:</i> Whenever the alchemist imbibes a mutagen, they can
+      choose to allow their parasitic twin to take control of their body and
+      reduces the action needed to imbibe their mutagen by 1 step (from standard
+      to move or from move to swift). Doing so reduces the quintessence cost of
+      any discovery they apply to their mutagen by 1 (to a minimum of 0) except
+      for dual evolution, as the parasitic twin uses its own secret reserves of
+      quintessence to power the transformation. While under the effects of their
+      mutagen, while in combat, the alchemist must roll 1d100; on a roll of 20
+      or higher, they are in full control of their actions and may act normally.
+      On a roll of 19 or lower, the parasitic twin decides their actions (as
+      decided by the GM); the parasitic twin is partial to violence and melee
+      attacks and will never use consumables or items with limited charges
+      during actions in which it is dominant. Outside of combat, the parasitic
+      twin will be generally agreeable and curious, although it can be quick to
+      anger. While dominant, the parasitic twin is treated as a unique creature
+      rather than being treated as the alchemist for the purpose of effects
+      which would target a specific creature. </p> <p> After 10 minutes, the
+      alchemist can spend 1 quintessence as a full-round action to suppress the
+      parasitic twin, forcing its consciousness to become dormant again. All
+      mind affecting effects currently active at that time are instantly ended,
+      and the alchemist can force their parasitic twin to become dormant even if
+      the parasitic twin is not in control of its actions, such as due to being
+      dominated or confused. </p> <table class="article-table"> <caption>
+      <b>Parasitic Twin Outside Of Combat</b> </caption> <tbody> <tr> <td> While
+      the theme of the discovery is the parasitic twin being its own creature,
+      it is suggested that the GM allow the player to play out this character
+      themselves, giving them a unique chance to roleplay as a different
+      character in a way. Allow the player to develop this parasitic twin
+      however they wish, letting it engage the world with its limited
+      understanding. It could be a great opportunity for a player to develop a
+      unique relationship with their parasitic twin, changing it from a simple
+      class feature into a robust facet of their character which is every bit as
+      important as a familiar, mount, or other such creature. <p> While a
+      parasitic twin and its host may be the best of friends, this should not
+      remove the d100 roll each round of combat. Treat this as the parasitic
+      twin asserting its own autonomy in a body it so rarely is allowed to
+      control. </p> <p> <br> While the GM should step in if they feel the player
+      is abusing this discovery, this should be a last resort. Allow the player
+      as much freedom as possible to customize this parasitic twin, and consider
+      the following sources of inspiration for the origin of the parasitic twin:
+      </p> <ul> <li>A sibling who was lost in the womb</li> <li>The spirit of a
+      companion who was lost in combat</li> <li>A departed loved one</li> <li>A
+      version of the character from another dimension</li> <li>A party member
+      who died</li> <li>A repressed concept of who the character wants to
+      be</li> </ul> <p> These are only suggestions, there are many different
+      ways to customize a parasitic twin, so feel free to explore this concept
+      to enrich your roleplaying experience. Consider even giving a way for the
+      parasitic twin to free itself from its host's body! </p> </td> </tr>
+      </tbody> </table>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

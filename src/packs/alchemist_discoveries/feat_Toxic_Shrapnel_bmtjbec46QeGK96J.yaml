@@ -1,0 +1,24 @@
+_id: bmtjbec46QeGK96J
+_key: '!items!bmtjbec46QeGK96J'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Toxic Shrapnel
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 4th, bomb class feature.</p>
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: Whenever the
+      alchemist creates a bomb, they can apply a toxin to it. If the bomb lands
+      a direct hit against a creature, that creature is exposed to the toxin and
+      forced to make a saving throw against it. All creatures who take splash
+      damage from this bomb must also make a saving throw against it, but gain a
+      +4 bonus to their saving throws. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

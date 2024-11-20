@@ -1,0 +1,20 @@
+_id: lDk5uJTfrmAZwYei
+_key: '!items!lDk5uJTfrmAZwYei'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Evolutionary Adaptation
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> The alchemist is always treated as though they have
+      imbibed a mutagen for the special effect of [Evolution] discoveries. </p>
+      <p><i>Special:</i> The alchemist gains 1 additional quintessence.</p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

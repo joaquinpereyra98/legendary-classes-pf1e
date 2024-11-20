@@ -1,0 +1,23 @@
+_id: o4Q41xFfzrauszuZ
+_key: '!items!o4Q41xFfzrauszuZ'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Illuminated Eyes
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> Whenever the alchemist imbibes a mutagen, they gain
+      the see in darkness ability as well as being treated as though under the
+      effects of a <i>see invisibility</i> spell. At 10th level, the alchemist
+      can spend 2 points of quintessence while under the effects of their
+      mutagen to gain the effects of a <i>true seeing</i> spell for a number of
+      minutes equal to their alchemist level. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

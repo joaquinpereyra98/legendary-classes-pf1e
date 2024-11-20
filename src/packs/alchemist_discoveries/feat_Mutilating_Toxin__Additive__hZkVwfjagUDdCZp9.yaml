@@ -1,0 +1,24 @@
+_id: hZkVwfjagUDdCZp9
+_key: '!items!hZkVwfjagUDdCZp9'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Mutilating Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 8th.</p> <p> <i>Benefit</i>: The
+      damage dealt by the alchemist's toxin cannot be healed by magic but only
+      through natural healing. </p> <p> (<i>Editor's Note:</i> Mutilating Toxin
+      originally had "Destructive Toxin" as a prerequisite. Destructive Toxin
+      was removed during development when the toxin of the toxicologist was
+      changed to innately deal damage. Thus, I have removed the non-existent
+      prerequisite.) </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

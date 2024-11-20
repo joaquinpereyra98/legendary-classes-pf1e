@@ -1,0 +1,26 @@
+_id: rIKGlxPMU8YL4gTM
+_key: '!items!rIKGlxPMU8YL4gTM'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Philosopher's Stone
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist learns how to create a philosopher's
+      stone, and can do so once per month at no cost. Creating a philosopher's
+      stone takes 1 day of work. Creating this stone cures the alchemist of
+      aging, and from this point forward they take no penalty to no physical
+      ability scores from advanced age. If the alchemist is already taking such
+      penalties, they are removed at this time, and the alchemist can revert
+      themselves back to their appearance as a young adult. In addition, the
+      alchemist is immune to death effects, diseases, poisons, and no longer
+      requiring food, water, or air. </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

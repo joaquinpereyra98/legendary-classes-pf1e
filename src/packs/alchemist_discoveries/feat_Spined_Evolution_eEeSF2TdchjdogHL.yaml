@@ -1,0 +1,28 @@
+_id: eEeSF2TdchjdogHL
+_key: '!items!eEeSF2TdchjdogHL'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Spined Evolution
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Spined mutagen, Alchemist 6th.</p>
+      <p><i>Quintessence Cost:</i> 2</p> <p> <i>Benefit:</i> Whenever an
+      alchemist with the spined mutagen discovery imbibes a mutagen with that
+      discovery applied, their spines grow more dangerous. The alchemist now
+      gains the Improved Unarmed Strike feat, although their unarmed strikes
+      deal both piercing and bludgeoning damage, and once per round as a free
+      action when the alchemist successfully attacks a feature with their
+      unarmed strike, they can choose to break the spines off in a creature. A
+      creature who has spines broken off into it takes damage equal to the
+      alchemist's Intelligence modifier at the beginning of each of their
+      rounds, requiring a move action to remove a spine. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

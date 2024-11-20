@@ -1,0 +1,30 @@
+_id: yW8rEbfMrDvP4WJh
+_key: '!items!yW8rEbfMrDvP4WJh'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Preserved Revivification
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> As a full-round
+      action, an alchemist can expend a 1st-level extract they have prepared to
+      create a creature, as <i>summon monster I</i>, using their level as the
+      spell's caster level. The extract is expended as if the alchemist had
+      consumed it. The alchemist can expend a higher-level extract when using
+      this ability to create a creature using a <i>summon monster</i> spell of a
+      level equal to the level of extract expended. For example, if the
+      alchemist expends a 4th- level extract, they can create a creature as if
+      using <i>summon monster IV</i>. At 6th level and every six levels
+      afterwards, they can spend an additional point of quintessence to increase
+      the level of the summoned monster by 1 (an 18th level alchemist could
+      spend 4 points of quintessence and expend a 6th-level extract to create a
+      creature as though using <i>summon monster IX</i>). </p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

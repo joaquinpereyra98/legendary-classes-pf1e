@@ -1,0 +1,20 @@
+_id: 6k0ZnlL1EglwrEGT
+_key: '!items!6k0ZnlL1EglwrEGT'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Elemental Avatar
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> The alchemist selects 1 type of energy (acid, cold,
+      electric, or fire); whenever they would receive damage of this energy
+      type, they instead heal an amount of hit points equal to that damage. </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

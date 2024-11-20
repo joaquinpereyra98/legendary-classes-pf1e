@@ -1,0 +1,27 @@
+_id: 7UgvYJfJaEi8q71v
+_key: '!items!7UgvYJfJaEi8q71v'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Regenerative Touch
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Natural regeneration, Alchemist 6th.</p> <p>
+      <i>Benefit:</i> As a move or swift action, the alchemist may touch a
+      creature and apply 1 round's effect of their natural regeneration
+      discovery to that creature; this counts toward their spontaneous healing
+      limit for the day. At 10th level, this can be done as a free action once
+      per round and is not limited to 1 round's worth of their natural
+      regeneration discovery's limit, instead being able to heal up to 20 hit
+      points per use (this removal of limitation also applies for how much the
+      alchemist can heal from their natural regeneration discovery each round).
+      </p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

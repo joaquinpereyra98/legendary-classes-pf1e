@@ -1,0 +1,28 @@
+_id: Bo7bvMDaUaIa4NW0
+_key: '!items!Bo7bvMDaUaIa4NW0'
+img: systems/pf1/icons/items/potions/unique-3.jpg
+name: Uplifted Companion
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Prerequisite(s):</i> A familiar (including a tumor familiar),
+      animal companion, or other bonded creature with an intelligence score,
+      Alchemist 6th. </p> <p> <i>Benefit:</i> The alchemist's familiar, animal
+      companion, or other bonded creature with an Intelligence score has its
+      Intelligence increased by 8. This does not apply to familiars that do not
+      use the normal familiar Intelligence score, such as many familiars
+      selected with the Improved Familiar feat. This may grant it additional
+      skill points as normal for increases to Intelligence and allow it to
+      select different feats. </p> <p> <i>Special:</i> An alchemist may select
+      this discovery multiple times, each time choosing a different familiar,
+      animal companion, or other bonded creature. </p>
+  tags:
+    - Alchemist Discovery
+    - General Discovery
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

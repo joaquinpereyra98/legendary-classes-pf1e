@@ -1,0 +1,20 @@
+_id: e31prbFzMCbjTLsV
+_key: '!items!e31prbFzMCbjTLsV'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Speed Mutagen
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 6th.</p> <p><i>Quintessence Cost</i>:
+      1</p> <p><i>Benefit</i>: The alchemist can imbibe their mutagen as a move
+      action.</p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

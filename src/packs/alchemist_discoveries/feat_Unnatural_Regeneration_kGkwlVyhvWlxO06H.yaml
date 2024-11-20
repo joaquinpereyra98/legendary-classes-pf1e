@@ -1,0 +1,20 @@
+_id: kGkwlVyhvWlxO06H
+_key: '!items!kGkwlVyhvWlxO06H'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Unnatural Regeneration
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> The alchemist gains regeneration 5, selecting an
+      energy type to negate their regeneration (acid, cold, electric, or fire).
+      </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

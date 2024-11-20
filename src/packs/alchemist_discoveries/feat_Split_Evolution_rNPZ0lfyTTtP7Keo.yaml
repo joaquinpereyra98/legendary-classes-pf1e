@@ -1,0 +1,39 @@
+_id: rNPZ0lfyTTtP7Keo
+_key: '!items!rNPZ0lfyTTtP7Keo'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Split Evolution
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Ooze mutagen, alchemist 8th.</p> <p>
+      <i>Benefit</i>: Whenever the alchemist takes slashing or piercing damage
+      while under the effect of the ooze mutagen discovery, they can choose to
+      split themselves into two different halves; these two halves are perfect
+      copies of the alchemist, splitting the alchemist's remaining hit points
+      between the two. The copies use the same statistics, share the same
+      resources, and have identical equipment (except artifacts, which only one
+      copy has). Similarly, if one of the copies expends a charge or daily use
+      from a magic item that a copy has, the charge or daily use is expended
+      from both copies. If one copy drops or gives away an item, the duplicate
+      item disappears from the other copy as well. The two copies act
+      independently, although they can only use a full round action worth of
+      actions between them (one move action, one standard action, one swift
+      action or any combination of the listed actions). </p> <p> At the end of
+      the alchemist's next turn, they select one of the copies, which is treated
+      as the alchemist's true body; the other copy dissolves into a puddle of
+      sludge and dissipates. If one of the copies is destroyed before this
+      happens, the remaining copy immediately becomes the alchemist, and the
+      alchemist gains 1 permanent negative level. If both copies are destroyed
+      simultaneously (such as from a <i>fireball</i>), both copies collapse into
+      formless goo and the alchemist can only be restored to life via
+      <i>resurrection</i> or similarly powerful magic. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

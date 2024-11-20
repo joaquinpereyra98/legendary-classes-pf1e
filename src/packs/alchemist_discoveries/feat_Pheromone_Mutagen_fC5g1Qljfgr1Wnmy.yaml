@@ -1,0 +1,30 @@
+_id: fC5g1Qljfgr1Wnmy
+_key: '!items!fC5g1Qljfgr1Wnmy'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Pheromone Mutagen
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost:</i> 1</p> <p> <i>Benefit:</i> Whenever the
+      alchemist imbibes a mutagen with this discovery applied, they gain a +5
+      circumstance on all Bluff, Diplomacy, and Sense Motive checks on living
+      creatures within 60 feet. As long as the alchemist is within 30 feet of a
+      creature, they can target that creature with their pheromones, treating
+      them as the target of a <i>charm person</i> spell; the DC of this
+      discovery is 10 + 1/2 the alchemist's class level + their Intelligence
+      modifier. A creature can only be targeted by this discovery once per day
+      but is unaware they were targeted even if they successfully save against
+      this discovery. At 10th level, the alchemist can spend 1 point of
+      quintessence while targeting a creature, instead treating them as the
+      target of a <i>charm monster</i> spell, although it retains the same
+      duration as <i>charm person</i>. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

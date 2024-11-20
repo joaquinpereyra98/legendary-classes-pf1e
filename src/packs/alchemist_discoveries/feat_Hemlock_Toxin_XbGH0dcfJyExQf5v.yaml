@@ -1,0 +1,26 @@
+_id: XbGH0dcfJyExQf5v
+_key: '!items!XbGH0dcfJyExQf5v'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Hemlock Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 10th.</p> <p><i>Quintessence
+      Cost</i>: 2</p> <p> <i>Benefit</i>: When an alchemist applies this
+      discovery to a toxin, a creature who fails their saving throw is treated
+      as though they had just failed a Constitution check while suffocating,
+      reducing their hit points to 0. At the beginning of each of that
+      creature's turns, as long as they are under the effects of the toxin, they
+      must make a successful saving throw; each failed saving throw is treated
+      as a failed Constitution check, causing the creature to be reduced to -1
+      hit points and suffocating respectively. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

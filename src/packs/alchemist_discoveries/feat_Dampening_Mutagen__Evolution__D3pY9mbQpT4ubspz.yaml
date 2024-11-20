@@ -1,0 +1,32 @@
+_id: D3pY9mbQpT4ubspz
+_key: '!items!D3pY9mbQpT4ubspz'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Dampening Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 6th.</p> <p><i>Quintessence Cost:</i>
+      1</p> <p> <i>Benefit:</i> Whenever the alchemist imbibes a mutagen with
+      this discovery applied, they gain a circumstance bonus to Stealth checks
+      equal to their class level, masking both their visual and auditory
+      presence. In addition, blindsense, blindsight, and tremorsense do not
+      automatically detect them, requiring a Perception check to discern their
+      location. The alchemist can spend an additional 2 quintessence to become
+      invisible for the duration of their mutagen, although attacking a creature
+      or any effect which would end the effect of the <i>invisibility</i> spell
+      ends their invisibility, but not the duration of their mutagen. </p> <p>
+      <i>Special:</i> If an alchemist possesses this discovery, whenever they
+      imbibe any mutagen, they gain a circumstance bonus to Stealth checks equal
+      to 1/2 their class level. In addition, blindsense and tremorsense do not
+      automatically detect them, requiring a Perception check to discern their
+      location. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

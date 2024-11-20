@@ -1,0 +1,21 @@
+_id: 58kJnKLX1ufHQaLv
+_key: '!items!58kJnKLX1ufHQaLv'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Wildcard Mutant
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> 3 or more [evolution] discoveries.</p> <p>
+      <i>Benefit:</i> The alchemist gains an [evolution discovery] of their
+      choice; once per day, they can choose to change that discovery to a
+      different [evolution] discovery for which they qualify. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

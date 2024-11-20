@@ -1,0 +1,24 @@
+_id: CgvQXPGuDrS8fd6Y
+_key: '!items!CgvQXPGuDrS8fd6Y'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Hyoscyamine Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> When an alchemist applies this discovery to a toxin, a
+      creature who fails their saving throw is unable to create new memories for
+      the next 8 hours in addition to any other effects of discoveries applied
+      to the toxin. All events which occur within that time will be forgotten by
+      them, unable to be recovered through natural means. In addition, all Bluff
+      checks made about the forgotten time gain a +6 circumstance bonus due to
+      the creature's hazy recollection. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

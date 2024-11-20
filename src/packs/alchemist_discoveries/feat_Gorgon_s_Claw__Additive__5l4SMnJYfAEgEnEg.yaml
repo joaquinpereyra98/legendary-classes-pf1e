@@ -1,0 +1,23 @@
+_id: 5l4SMnJYfAEgEnEg
+_key: '!items!5l4SMnJYfAEgEnEg'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Gorgon's Claw [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s):</i> Alchemist 10th.</p> <p><i>Quintessence
+      Cost:</i> 3</p> <p> <i>Benefit:</i> When an alchemist applies this
+      discovery to a toxin, a creature who fails their saving throw is shaken
+      instead of becoming sickened. At the beginning of each of that creature's
+      turns, as long as they are under the effects of the toxin, they must make
+      a successful saving throw or become permanently petrified. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

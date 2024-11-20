@@ -1,0 +1,21 @@
+_id: t3vhDBxmLuKky8Eb
+_key: '!items!t3vhDBxmLuKky8Eb'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Muscarine Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite</i>: Alchemist 6th.</p> <p><i>Quintessence Cost</i>:
+      2</p> <p> <i>Benefit</i>: When an alchemist applies this discovery to a
+      toxin, a creature who fails their saving throw is <i>confused</i> instead
+      of becoming sickened. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

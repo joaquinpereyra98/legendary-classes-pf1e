@@ -1,0 +1,27 @@
+_id: dZOQFXemHW3MsIWQ
+_key: '!items!dZOQFXemHW3MsIWQ'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Leg Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p>Quintessence Cost: 1</p> <p> Benefit: Whenever the alchemist imbibes a
+      mutagen with this discovery applied, they gain a pair of talon attacks on
+      their legs. These are secondary attacks and are made using the alchemist's
+      full base attack bonus. The talon attacks deal 1d4 points of damage (1d3
+      if the alchemist is Small). In addition, the alchemist gains a climb speed
+      of 30 feet which does not require their hands to use and their base land
+      speed is increased by 10 feet. For every 4 class levels the alchemist
+      possesses, their base land speed and climb speed increase by 10 feet. </p>
+      <p> <b>Special</b>: If an alchemist possesses this discovery, whenever
+      they imbibe any mutagen, they gain a climb speed of 15 feet. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

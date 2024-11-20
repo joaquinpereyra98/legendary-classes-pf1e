@@ -1,0 +1,25 @@
+_id: OMRxqSGyUyGv7oPE
+_key: '!items!OMRxqSGyUyGv7oPE'
+img: icons/commodities/tech/cog-gold.webp
+name: Customize Self (Minor)
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Choose a minor customization. The alchemist gains its
+      benefit, but not any increase to armor bonus or ability scores it would
+      grant an automaton. </p> <p> <b>Special</b>: If the customization you
+      choose refers to or modifies the automaton's slam attack and you do not
+      have one, you may instead treat your unarmed strike as if it were a slam
+      for the purposes of that customization. This does not give you the ability
+      to make unarmed strikes as if armed. You may select this discovery more
+      than once, choosing a different minor customization each time. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

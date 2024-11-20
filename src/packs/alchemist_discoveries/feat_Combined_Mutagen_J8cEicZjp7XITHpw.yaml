@@ -1,0 +1,24 @@
+_id: J8cEicZjp7XITHpw
+_key: '!items!J8cEicZjp7XITHpw'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Combined Mutagen
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Alchemist 8th.</p> <p><i>Quintessence Cost</i>:
+      1</p> <p> <i>Benefit</i>: Whenever the alchemist creates this mutagen,
+      they can apply a 1st-level extract to it, imbibing both at the same time.
+      At 12th level, they can instead apply a 2nd-level extract to it. At 16th
+      level, they can apply a 3rd-level extract to it. At 20th level, they can
+      apply a 4th-level extract to it. </p> <p><b>Special</b>: This cannot be
+      used with the speed mutagen discovery.</p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

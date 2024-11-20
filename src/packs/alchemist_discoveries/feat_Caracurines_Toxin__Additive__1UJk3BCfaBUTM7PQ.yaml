@@ -1,0 +1,29 @@
+_id: 1UJk3BCfaBUTM7PQ
+_key: '!items!1UJk3BCfaBUTM7PQ'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Caracurines Toxin [Additive]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Quintessence Cost</i>: 1</p> <p> <i>Benefit</i>: When an alchemist
+      applies this discovery to a toxin, a creature who fails their saving throw
+      has either 1 arm, 1 leg, or 1 wing paralyzed instead of becoming sickened.
+      </p> <p> A creature with a paralyzed arm cannot use that arm to wield a
+      weapon, hold a shield, hold any items, manipulate items, or use natural
+      attacks associated with that limb (such as claws or slam attacks) </p> <p>
+      A creature with a paralyzed leg has their base land speed reduced to 5
+      feet (unless it would normally be lower), cannot run, takes a -5 penalty
+      to all athletics checks, and cannot use natural attacks associated with
+      that limb (such as claw or talon attacks) </p> <p> A creature with a
+      paralyzed wing cannot use that wing to fly or make natural attacks
+      associated with that limb (such as wing buffets) </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,23 @@
+_id: BPlU1Ys7NHHfX1tI
+_key: '!items!BPlU1Ys7NHHfX1tI'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Specialized Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Select one creature type; the alchemist's toxins
+      ignore any immunity that creature type may possess to poison effects. At
+      4th level and every four levels afterwards, they can select an additional
+      creature type. They can instead choose to select the same creature type a
+      second time, causing those creatures to take a -2 penalty to saving throws
+      against the alchemist's toxins. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

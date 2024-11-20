@@ -1,0 +1,24 @@
+_id: M1F1pc9RQvS2Ob4C
+_key: '!items!M1F1pc9RQvS2Ob4C'
+img: icons/commodities/tech/cog-gold.webp
+name: Exude Toxin
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Prerequisite</i>: Alchemist 8, toxicologist discipline, automaton
+      with exude substance customization. </p> <p> <i>Benefit</i>: The alchemist
+      may infuse a toxin into their automaton in place of an alchemical
+      substance. Doing so consumes a toxin, but the toxin counts against the
+      total number of toxins the alchemist may possess at one time until the
+      automaton uses it. The automaton may then apply the toxin to its slam
+      attack as a move action. </p>
+  tags:
+    - Alchemist Discovery
+    - Tinker Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

@@ -1,0 +1,21 @@
+_id: HakHD3acktvkAddH
+_key: '!items!HakHD3acktvkAddH'
+img: icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp
+name: Nick of the Blade
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit:</i> Whenever the alchemist makes a melee attack with a
+      contact toxin applied to their weapon, if they miss a creature's armor
+      class by 5 or less, they can choose to expose that creature to their toxin
+      as though their attack had been successful. </p>
+  tags:
+    - Alchemist Discovery
+    - Toxicologist Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

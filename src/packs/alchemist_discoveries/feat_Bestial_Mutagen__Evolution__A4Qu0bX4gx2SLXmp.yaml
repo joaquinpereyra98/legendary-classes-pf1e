@@ -1,0 +1,31 @@
+_id: A4Qu0bX4gx2SLXmp
+_key: '!items!A4Qu0bX4gx2SLXmp'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Bestial Mutagen [Evolution]
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: Whenever the alchemist imbibes a mutagen with this
+      discovery applied, they gain either a gore or bite attack (chosen when
+      they apply this discovery to the mutagen). This is a primary natural
+      attack that deals 1d8 damage (piercing for gore attacks and piercing,
+      bludgeoning, and slashing for bite attacks). </p> <p> <b>Special</b>: If
+      an alchemist possesses this discovery, whenever they imbibe any mutagen,
+      they gain the scent special quality, allowing them to detect opponents
+      within 30 feet by sense of smell. If the opponent is upwind, the range
+      increases to 60 feet; if downwind, it drops to 15 feet. Strong scents can
+      be detected at twice the normal range. Scent does not allow the alchemist
+      to precisely locate the creature, only to detect its presence. It can
+      detect the direction with a move action. The alchemist can pinpoint the
+      creature's location if it is within 5 feet and can use scent to track
+      creatures. </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

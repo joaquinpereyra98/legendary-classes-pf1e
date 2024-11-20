@@ -1,0 +1,27 @@
+_id: 9tPzLHEvtwOYdIUi
+_key: '!items!9tPzLHEvtwOYdIUi'
+img: systems/pf1/icons/items/potions/unique-7.jpg
+name: Elemental Mutagen
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p> <i>Benefit</i>: The alchemist chooses an element (air, earth, fire, or
+      water) whenever they create a mutagen. Whenever the alchemist imbibes a
+      mutagen with this discovery applied, they gain resistance 5 to the
+      associated energy type and a +2 competence bonus on an associated skill
+      check. For every four class levels the alchemist possesses, this
+      resistance is increased by 5 and the competence bonus is increased by 3;
+      the alchemist also gains the skill unlock for the associated skill. The
+      elements and their associated energies and skills are air (electricity,
+      Fly), earth (acid, Climb), fire (fire, Acrobatics), and water (cold,
+      Swim). </p>
+  tags:
+    - Alchemist Discovery
+    - Mutagenic Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat

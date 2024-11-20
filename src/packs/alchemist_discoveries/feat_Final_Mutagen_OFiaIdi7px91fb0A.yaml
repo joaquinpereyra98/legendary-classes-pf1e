@@ -1,0 +1,21 @@
+_id: OFiaIdi7px91fb0A
+_key: '!items!OFiaIdi7px91fb0A'
+img: systems/pf1/icons/skills/violet_08.jpg
+name: Final Mutagen
+system:
+  abilityType: na
+  description:
+    value: >-
+      <p><i>Prerequisite(s)</i>: Mutagenic discipline.</p> <p><i>Quintessence
+      Cost</i>: 2</p> <p> <i>Benefit</i>: The alchemist's mutagen now grants a
+      +8 natural armor bonus and a +8 alchemical bonus to Strength, Dexterity,
+      and Constitution. </p>
+  tags:
+    - Alchemist Discovery
+    - Grand Discoveries
+  subType: classFeat
+  associations:
+    classes:
+      - Alchemist
+      - Legendary Alchemist
+type: feat
