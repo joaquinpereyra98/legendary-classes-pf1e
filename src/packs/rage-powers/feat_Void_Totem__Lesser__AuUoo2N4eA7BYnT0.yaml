@@ -1,0 +1,21 @@
+_id: AuUoo2N4eA7BYnT0
+_key: '!items!AuUoo2N4eA7BYnT0'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Void Totem [Lesser]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> : A protective shield of warped gravity appears around the barbarian.
+      This field deflects incoming arrows, rays, and other ranged attacks. Each
+      ranged attack directed at the barbarian for which the attacker must make
+      an attack roll has a 20% miss chance (similar to the effects of
+      concealment). Other attacks that simply work at a distance are not
+      affected. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

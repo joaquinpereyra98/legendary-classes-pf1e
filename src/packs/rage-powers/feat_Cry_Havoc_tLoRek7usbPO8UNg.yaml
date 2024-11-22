@@ -1,0 +1,21 @@
+_id: tLoRek7usbPO8UNg
+_key: '!items!tLoRek7usbPO8UNg'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Cry Havoc
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When the barbarian uses her battlecry rage power, affected creatures
+      using the charge action gain a +10-foot enhancement bonus to their speed
+      by 10 feet and deal double the normal battlecry damage bonus if they hit
+      with an attack at the end of a charge. </p> <p> A barbarian must have the
+      battlecry rage power and be at least 6th level to select this rage power.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

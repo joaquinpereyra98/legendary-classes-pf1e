@@ -1,0 +1,17 @@
+_id: 1SLQ3EqkkOaWjVJv
+_key: '!items!1SLQ3EqkkOaWjVJv'
+img: systems/pf1/icons/feats/extra-rage.jpg
+name: Rage Forms
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>At 1st level, a barbarian selects one of the following   rage forms.
+      She selects an additional rage form at 5th, 10th, 15th, and 20th   levels.
+      Whenever she rages, she enters into one of her selected rage forms. A  
+      barbarian cannot change rage forms while in a rage. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+type: feat

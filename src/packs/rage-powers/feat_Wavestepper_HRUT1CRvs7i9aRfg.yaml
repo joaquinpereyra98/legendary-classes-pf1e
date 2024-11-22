@@ -1,0 +1,19 @@
+_id: HRUT1CRvs7i9aRfg
+_key: '!items!HRUT1CRvs7i9aRfg'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Wavestepper
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian can move across the surface of water or other liquid
+      surfaces as if using <i>water walk</i>. However, she must reach a solid
+      surface by the end of her turn or she begins sinking normally. </p> <p>The
+      barbarian must be at least 6th level to select this rage power.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

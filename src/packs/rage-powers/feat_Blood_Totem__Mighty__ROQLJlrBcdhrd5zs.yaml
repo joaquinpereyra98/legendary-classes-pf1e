@@ -1,0 +1,21 @@
+_id: ROQLJlrBcdhrd5zs
+_key: '!items!ROQLJlrBcdhrd5zs'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Blood Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian rends the wounds of bleeding targets. When the barbarian
+      deals melee damage to a creature that took bleed damage on its last turn,
+      the creature takes 1d6 bleed damage each round on their turn. This bleed
+      damage stacks with any other bleed damage currently affecting the
+      creature. </p> <p> A barbarian must have the bleed totem [Greater] rage
+      power and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,35 @@
+_id: xINXqVOZfK7BXSI1
+_key: '!items!xINXqVOZfK7BXSI1'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Limb Ripper
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When a target fails its saving throw against the barbarian’s crippling
+      blow rage power, the barbarian can attempt to tear off one of the target’s
+      limbs (including arms, legs, wings, tail, or tentacles) with a sunder
+      combat maneuver against the target’s CMD. If the sunder combat maneuver
+      succeeds, one of the target’s limbs chosen by the barbarian is broken. Any
+      attacks made using that limb take a –2 penalty on attack and damage rolls.
+      A broken limb used for locomotion decreases the target’s speed by half and
+      the creature cannot run or charge. Only legs or tail can be targeted with
+      this rage power if the target is more than one size category larger than
+      the barbarian; however, arms or wings can be targeted if the barbarian
+      readies an action to use this ability when attacked by such appendages. A
+      broken limb can be healed with regenerate, heal, or succeeding on Heal
+      checks to provide long-term care on at least three consecutive days. In
+      addition, if the barbarian exceeds the target DC by 10 or more, the target
+      must make a Fortitude save (DC 10 + 1/2 the barbarian’s level + her
+      Strength modifier). If this save fails, the limb is not merely broken but
+      severed entirely. The target can no longer use the limb and takes 1d6
+      bleed damage per round. A severed limb can be restored with regenerate.
+      </p> <p> A barbarian must have the crippling blow rage power and be at
+      least 12th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

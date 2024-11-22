@@ -1,0 +1,22 @@
+_id: MC3WhqzZX5V74wgD
+_key: '!items!MC3WhqzZX5V74wgD'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Beastlord Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> By spending four rounds of rage as swift action, the barbarian can
+      summon animals as if casting summon nature’s allies VII. She uses her
+      barbarian level as her druid level. The summoned creatures disappear when
+      the rage ends, when the spell’s duration ends naturally, or if the
+      barbarian summons additional creatures using any beastlord totem. </p> <p>
+      The barbarian must have the beastlord totem [Greater] rage power and be
+      14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,22 @@
+_id: oVgXIAIX1WqPlzGQ
+_key: '!items!oVgXIAIX1WqPlzGQ'
+img: icons/sundries/flags/banner-symbol-axe-red.webp
+name: Brand of the Old Ways
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>A barbarian who takes this brand instantly forgets all written forms of
+      language. As long as the barbarian is branded, she cannot read or write.
+      </p> <p><b>Benefit:</b> A barbarian with this brand increases her maximum
+      daily rounds   of rage by 1 round of rage for every 4 barbarian levels.
+      </p> <p>   <b>Special:</b> When a barbarian gains a level, she may choose
+      to remove this   brand from her body. If she does, she can never gain it
+      again. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Brands
+type: feat

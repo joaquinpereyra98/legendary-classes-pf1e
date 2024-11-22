@@ -1,0 +1,22 @@
+_id: 2QEma00WdE5UNHD6
+_key: '!items!2QEma00WdE5UNHD6'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Great Leadership
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> The barbarian can inspire one or more allies to greater prowess in
+      combat. This functions like the inspire greatness bardic performance,
+      using her barbarian level in place of her bard level, and requires the
+      barbarian to spend one round of rage each round to maintain the effect, in
+      addition to maintaining the barbarian’s own rage. </p> <p> A barbarian
+      must have the battlecry rage power and be at least 10th level to select
+      this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

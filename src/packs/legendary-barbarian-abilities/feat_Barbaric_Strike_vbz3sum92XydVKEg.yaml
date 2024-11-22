@@ -1,0 +1,18 @@
+_id: vbz3sum92XydVKEg
+_key: '!items!vbz3sum92XydVKEg'
+img: systems/pf1/icons/spells/enchant-red-3.jpg
+name: Barbaric Strike
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>At 20th level, whenever the barbarian scores a critical hit on a
+      target, the barbarian may spend 1 round of rage to rend her target's flesh
+      apart in a barbaric strike. The target must make a Fortitude save or die.
+      The DC of this save is equal to 10 + 1/2 the barbarian's level + the
+      barbarian's Strength modifier.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+type: feat

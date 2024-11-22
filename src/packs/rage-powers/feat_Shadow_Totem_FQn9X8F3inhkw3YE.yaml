@@ -1,0 +1,19 @@
+_id: FQn9X8F3inhkw3YE
+_key: '!items!FQn9X8F3inhkw3YE'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Shadow Totem
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When the barbarian emits darkness using her shadow totem [Lesser]
+      ability, the light level is lowered by two steps and she radiates darkness
+      in a 60-foot radius. </p> <p> The barbarian must have the shadow totem
+      [Lesser] rage power and be 6th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

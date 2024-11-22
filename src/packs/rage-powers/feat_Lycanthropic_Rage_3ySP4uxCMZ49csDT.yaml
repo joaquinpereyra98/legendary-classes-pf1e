@@ -1,0 +1,22 @@
+_id: 3ySP4uxCMZ49csDT
+_key: '!items!3ySP4uxCMZ49csDT'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Lycanthropic Rage
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> While using her animal rage form or bestial rage form, the barbarian
+      is immune to lycanthropy and gains DR/silver equal to half her barbarian
+      level, and her natural weapons and unarmed strikes are treated as silver
+      for the purpose of overcoming damage reduction. She does not actually
+      become a lycanthrope or inflict lycanthropy. </p> <p> A barbarian must
+      have the animal rage form or bestial rage form and be at least 10th level
+      to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

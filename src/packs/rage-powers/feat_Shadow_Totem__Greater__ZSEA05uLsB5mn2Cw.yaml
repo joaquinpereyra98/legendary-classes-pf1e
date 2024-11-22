@@ -1,0 +1,19 @@
+_id: ZSEA05uLsB5mn2Cw
+_key: '!items!ZSEA05uLsB5mn2Cw'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Shadow Totem [Greater]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> By spending one round of rage as a move action, the barbarian can
+      teleport from one dim or dark location to another dim or dark location
+      within 60 feet. </p> <p> The barbarian must have the shadow totem rage
+      power and be 10th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

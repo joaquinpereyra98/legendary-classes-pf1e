@@ -1,0 +1,20 @@
+_id: vywHZh9Om4iUA4fB
+_key: '!items!vywHZh9Om4iUA4fB'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Sky Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> While under the open sky, the barbarian is encircled by a hurricane of
+      winds. Arrows and bolts directed at the barbarians are deflected upward
+      and miss, while any other normal ranged weapon passing through the wall
+      has a 30% miss chance. </p> <p> A barbarian must have the sky totem
+      [Greater] rage power and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

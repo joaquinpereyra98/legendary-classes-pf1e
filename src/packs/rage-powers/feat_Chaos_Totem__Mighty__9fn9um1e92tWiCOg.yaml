@@ -1,0 +1,20 @@
+_id: 9fn9um1e92tWiCOg
+_key: '!items!9fn9um1e92tWiCOg'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Chaos Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian’s body shifts and twists in unnatural ways. When a
+      critical hit or sneak attack is scored on the wearer, there is a 50%
+      chance that the critical hit or sneak attack is negated and damage is
+      instead rolled normally. </p> <p> A barbarian must have the chaos totem
+      [Greater] rage power and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

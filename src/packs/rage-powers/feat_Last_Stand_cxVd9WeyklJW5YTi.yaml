@@ -1,0 +1,23 @@
+_id: cxVd9WeyklJW5YTi
+_key: '!items!cxVd9WeyklJW5YTi'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Last Stand
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending one round of rage, a barbarian can use a move action to
+      grant all allies within 10 feet the Diehard feat and immunity to fear for
+      a number of rounds equal to the barbarian’s Charisma modifier (minimum 1).
+      In addition, any ally affected by this ability reduced to 0 or fewer hit
+      points automatically stabilizes and also gains temporary hit points equal
+      to the barbarian’s class level. These temporary hit points dissipate after
+      1 minute if not expended. </p> <p> A barbarian must have the battlecry
+      rage power and be at least 12th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

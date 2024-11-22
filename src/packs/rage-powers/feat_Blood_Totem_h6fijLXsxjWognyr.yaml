@@ -1,0 +1,19 @@
+_id: h6fijLXsxjWognyr
+_key: '!items!h6fijLXsxjWognyr'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Blood Totem
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian is immune to bleed damage. Any ongoing bleed effects are
+      cured when the barbarian enters rage. </p> <p> A barbarian must have the
+      bleed totem [Lesser] rage power and be 6th level to select this rage
+      power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

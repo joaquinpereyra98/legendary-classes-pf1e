@@ -1,0 +1,18 @@
+_id: XKzOOW7eXSFJn0yZ
+_key: '!items!XKzOOW7eXSFJn0yZ'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Bestial Speech
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian retains the power of speech and can speak with animals
+      of the form she assumes with her bestial rage form. </p> <p>A barbarian
+      must have the bestial rage form to select this rage power.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

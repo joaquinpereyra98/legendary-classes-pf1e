@@ -1,0 +1,34 @@
+_id: GylUnzMaxWZMCCQk
+_key: '!items!GylUnzMaxWZMCCQk'
+img: systems/pf1/icons/feats/extra-rage.jpg
+name: Terrifying Rage
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> While in a rage, a barbarian gains a +3 bonus on melee damage rolls.
+      She gains a bonus on Intimidate checks equal to her level. </p> <p>
+      <i>Greater Terrifying Rage (Ex):</i> At 11th level, a barbarian gains a +4
+      bonus on melee damage rolls. She gains a bonus on Intimidate checks equal
+      to her level. </p> <p> <i>Mighty Terrifying Rage (Ex):</i> At 20th level,
+      a barbarian gains a +5 bonus on melee damage rolls. She gains a bonus on
+      Intimidate checks equal to her level. </p> <h2> <span
+      id="Vicious_Rage_.28Su.29"></span><span class="mw-headline"
+      id="Vicious_Rage_(Su)">Vicious Rage (Su)</span> </h2> <p> When in a rage,
+      a barbarian gains a +3 bonus to attack rolls. When a barbarian in a rage
+      strikes an opponent with an attack, disruptive energy arcs between her and
+      her target. This energy deals an extra 2d6 points of damage to the
+      opponent and 1d6 points of damage to the barbarian. </p> <p> <i>Greater
+      Vicious Rage (Su):</i> At 11th level, a barbarian gains a +4 bonus to
+      attack rolls. Her disruptive energy deals 4d6 points of damage to the
+      opponent and 2d6 points of damage to the barbarian. </p> <p> <i>Mighty
+      Vicious Rage (Su):</i> At 20th level, a barbarian gains a +5 bonus to
+      attack rolls. Her disruptive energy deals 6d6 points of damage to the
+      opponent and 3d6 points of damage to the barbarian. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Form
+type: feat

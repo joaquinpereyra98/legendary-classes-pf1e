@@ -1,0 +1,21 @@
+_id: lMZFWA65wd4qUaa8
+_key: '!items!lMZFWA65wd4qUaa8'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Sky Totem [Greater]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> While under the open sky, the barbarian’s lightning strikes are
+      accompanied by roars of thunder. Subjects hit by the barbarian’s lightning
+      strikes are also dealt 2d6 sonic damage and must make a Fortitude save (DC
+      10 + 1/2 the barbarian’s level + the barbarian’s Constitution modifier) or
+      be deafened permanently. </p> <p> The barbarian must have the sky totem
+      rage power and be 10th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,25 @@
+_id: DCaVUujasN4taqr5
+_key: '!items!DCaVUujasN4taqr5'
+img: systems/pf1/icons/feats/extra-rage.jpg
+name: Vicious Rage
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When in a rage, a barbarian gains a +3 bonus to attack rolls. When a
+      barbarian in a rage strikes an opponent with an attack, disruptive energy
+      arcs between her and her target. This energy deals an extra 2d6 points of
+      damage to the opponent and 1d6 points of damage to the barbarian. </p> <p>
+      <i>Greater Vicious Rage (Su):</i> At 11th level, a barbarian gains a +4
+      bonus to attack rolls. Her disruptive energy deals 4d6 points of damage to
+      the opponent and 2d6 points of damage to the barbarian. </p> <p> <i>Mighty
+      Vicious Rage (Su):</i> At 20th level, a barbarian gains a +5 bonus to
+      attack rolls. Her disruptive energy deals 6d6 points of damage to the
+      opponent and 3d6 points of damage to the barbarian. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Form
+type: feat

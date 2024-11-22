@@ -1,0 +1,40 @@
+_id: 3E9UH20uFzlyBBe3
+_key: '!items!3E9UH20uFzlyBBe3'
+img: systems/pf1/icons/feats/extra-rage.jpg
+name: Rage
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>A barbarian can call upon inner reserves of strength andferocity,
+      granting her additional combat prowess. At 1st level, a barbariancan rage
+      for a number of rounds per day equal to 4 + her Constitutionmodifier. For
+      each level after 1st she possesses, the barbarian can rage for 1additional
+      round per day. Temporary increases to Constitution, such as thatgained
+      from <i>bear's endurance</i>, do not increase the total number ofrounds
+      that a barbarian can rage per day. A barbarian can enter a rage as afree
+      action. The total number of rounds of rage per day is renewed afterresting
+      for 8 hours, although these hours need not be consecutive.</p><p>While in
+      a rage, a barbarian gains the benefits of her rage form and a +4bonus on
+      Will saves against fear effects but takes a –2 penalty to her ArmorClass.
+      She also gains 2 temporary hit points per Hit Die. At 11th level
+      thisincreases to 3 temporary hit points per level, and at 20th level
+      thisincreases to 4 temporary hit points per level. These temporary hit
+      points arelost first when a character takes damage, disappear when the
+      rage ends, andare not replenished if the barbarian enters a rage again
+      within 1 minute ofher previous rage.</p><p>While in a rage, a barbarian
+      cannot use any Charisma-, Dexterity-, orIntelligence-based skill (except
+      Acrobatics, Fly, Intimidate, and Ride) or anyability that requires
+      patience or concentration (such as spellcasting).</p><p>A barbarian can
+      end her rage as a free action and is fatigued for 1 minuteafter a rage
+      ends. A barbarian can't enter a new rage while fatigued orexhausted but
+      can otherwise enter a rage multiple times per day. If abarbarian falls
+      unconscious, her rage immediately ends.</p><p>Spells, feats, and abilities
+      which grant extra rounds of rage only grant thelegendary barbarian half as
+      many rounds of rage as normal (minimum 1). TheExtra Rage feat grants three
+      rounds of rage instead of six.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+type: feat

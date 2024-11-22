@@ -1,0 +1,17 @@
+_id: UkLzgfNQgi4Tnc1W
+_key: '!items!UkLzgfNQgi4Tnc1W'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Arcane Totem [Lesser]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian can detect the presence, location, and strength of all
+      magical auras within 60 feet as if using <i>detect magic.</i> </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,23 @@
+_id: Osegqlc2Ih7WxeJt
+_key: '!items!Osegqlc2Ih7WxeJt'
+img: icons/sundries/flags/banner-symbol-axe-red.webp
+name: Brand of Destruction
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>Nothing in this world is beyond destruction. The barbarian seeks out
+      thedemolition of all things. If her rage ends without sundering an item
+      ordestroying a crafted object with at least 20 hp, then she breaks this
+      brand.</p><p><b>Benefit:</b> A barbarian with this brand increases her
+      maximum daily roundsof rage by 1 round of rage per 3 barbarian
+      levels.</p><p><b>Redemption:</b> The barbarian must sunder and destroy a
+      magical item (worthat least 1,000 gp x her barbarian level) that she would
+      otherwise be able touse.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Brands
+type: feat

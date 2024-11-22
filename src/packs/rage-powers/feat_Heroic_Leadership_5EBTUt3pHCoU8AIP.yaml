@@ -1,0 +1,19 @@
+_id: 5EBTUt3pHCoU8AIP
+_key: '!items!5EBTUt3pHCoU8AIP'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Heroic Leadership
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> This rage power functions as the great leadership rage power but
+      duplicates the effects of the inspire heroics bardic performance. </p> <p>
+      A barbarian must have the great leadership rage power and be at least 16th
+      level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

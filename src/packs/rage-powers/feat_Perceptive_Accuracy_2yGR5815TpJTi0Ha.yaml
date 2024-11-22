@@ -1,0 +1,19 @@
+_id: 2yGR5815TpJTi0Ha
+_key: '!items!2yGR5815TpJTi0Ha'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Perceptive Accuracy
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> While in the accurate stance, the barbarian ignores miss chance due to
+      concealment or total concealment, and any AC bonus due to cover that is
+      less than total cover. </p> <p> A barbarian must have the accurate stance
+      rage power and be at least 10th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

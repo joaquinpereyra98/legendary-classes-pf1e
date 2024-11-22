@@ -1,0 +1,20 @@
+_id: y0zW58JYHCmgryzc
+_key: '!items!y0zW58JYHCmgryzc'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Arcane Totem [Greater]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When entering a rage, the barbarian can choose one of the following
+      spells and apply its effects to herself for the duration of the rage:
+      displacement or haste. This is in addition to arcane totem, and otherwise
+      works as arcane totem. </p> <p> The barbarian must have the arcane totem
+      rage power and be 10th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

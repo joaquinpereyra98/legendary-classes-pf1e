@@ -1,0 +1,26 @@
+_id: VmEm3h7M8yXTtCXn
+_key: '!items!VmEm3h7M8yXTtCXn'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Hack Loose
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When the barbarian strikes a creature in melee that is grappling
+      another creature (including a creature that has swallowed a target whole),
+      the grappled or swallowed creature can attempt a grapple combat maneuver
+      check as an immediate action to break free. The barbarian’s attack must
+      deal at least 5 points of damage from a single attack to a Medium or
+      smaller creature, plus an additional 5 points for every size larger than
+      Medium, in order to allow a grappled creature to break free. The trapped
+      creature gains a +1 bonus on this check for every 5 additional points of
+      damage beyond this threshold. The barbarian can use this rage power to
+      grant herself the opportunity to break free from a creature grappling her.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

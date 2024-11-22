@@ -1,0 +1,54 @@
+_id: EY7ZhtVBfBeDRz00
+_key: '!items!EY7ZhtVBfBeDRz00'
+img: systems/pf1/icons/feats/extra-rage.jpg
+name: Invincible Rage
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> While in a rage, a barbarian gains damage reduction and resist against
+      all energy attacks equal to half her barbarian level (minimum 1). This
+      damage reduction and energy resistance stack with other damage reduction
+      or energy resistance gained from class abilities or rage powers. She also
+      gains a +3 bonus on all Fortitude and Reflex Saves. </p> <p> <i>Greater
+      Invincible Rage (Ex):</i> At 11th level, a barbarian’s bonus to Fortitude
+      and Reflex Saves increases to +4. </p> <p> <i>Mighty Invincible Rage
+      (Ex):</i> At 20th level, a barbarian’s bonus to Fortitude and Reflex Saves
+      increases to +5. </p> <h2> <span id="Reckless_Rage_.28Ex.29"></span><span
+      class="mw-headline" id="Reckless_Rage_(Ex)">Reckless Rage (Ex)</span>
+      </h2> <p> While in a rage, a barbarian gains a +3 bonus on melee attack
+      rolls, melee damage rolls, thrown weapon damage rolls, and Will saving
+      throws. </p> <p> <i>Greater Reckless Rage (Ex):</i> At 11th level, a
+      barbarian’s bonus on melee attack rolls, melee damage rolls, thrown weapon
+      damage rolls, and Will saves while raging increases to +4. </p> <p>
+      <i>Mighty Reckless Rage (Ex):</i> At 20th level, a barbarian’s bonus on
+      melee attack rolls, melee damage rolls, thrown weapon damage rolls, and
+      Will saves while raging increases to +5. </p> <h2> <span
+      id="Terrifying_Rage_.28Ex.29"></span><span class="mw-headline"
+      id="Terrifying_Rage_(Ex)">Terrifying Rage (Ex)</span> </h2> <p> While in a
+      rage, a barbarian gains a +3 bonus on melee damage rolls. She gains a
+      bonus on Intimidate checks equal to her level. </p> <p> <i>Greater
+      Terrifying Rage (Ex):</i> At 11th level, a barbarian gains a +4 bonus on
+      melee damage rolls. She gains a bonus on Intimidate checks equal to her
+      level. </p> <p> <i>Mighty Terrifying Rage (Ex):</i> At 20th level, a
+      barbarian gains a +5 bonus on melee damage rolls. She gains a bonus on
+      Intimidate checks equal to her level. </p> <h2> <span
+      id="Vicious_Rage_.28Su.29"></span><span class="mw-headline"
+      id="Vicious_Rage_(Su)">Vicious Rage (Su)</span> </h2> <p> When in a rage,
+      a barbarian gains a +3 bonus to attack rolls. When a barbarian in a rage
+      strikes an opponent with an attack, disruptive energy arcs between her and
+      her target. This energy deals an extra 2d6 points of damage to the
+      opponent and 1d6 points of damage to the barbarian. </p> <p> <i>Greater
+      Vicious Rage (Su):</i> At 11th level, a barbarian gains a +4 bonus to
+      attack rolls. Her disruptive energy deals 4d6 points of damage to the
+      opponent and 2d6 points of damage to the barbarian. </p> <p> <i>Mighty
+      Vicious Rage (Su):</i> At 20th level, a barbarian gains a +5 bonus to
+      attack rolls. Her disruptive energy deals 6d6 points of damage to the
+      opponent and 3d6 points of damage to the barbarian. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Form
+type: feat

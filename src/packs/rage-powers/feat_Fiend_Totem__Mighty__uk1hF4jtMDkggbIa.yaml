@@ -1,0 +1,23 @@
+_id: uk1hF4jtMDkggbIa
+_key: '!items!uk1hF4jtMDkggbIa'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Fiend Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian gains the ability to smite good. By spending two rounds
+      of rage as a swift action, the barbarian chooses one target within sight
+      to smite. If this target is good, the barbarian adds her Charisma bonus
+      (if any) to attack rolls and gains a damage bonus equal to her HD against
+      that foe. This effect persists until the barbarian hits the creature with
+      an attack or the barbarian’s rage ends. </p> <p> A barbarian must have the
+      fiend totem [Greater] rage power and be 14th level to select this rage
+      power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

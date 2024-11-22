@@ -1,0 +1,19 @@
+_id: JrgtfaBQjgSEZy6h
+_key: '!items!JrgtfaBQjgSEZy6h'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Void Totem [Greater]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian can exploit the thinness in reality to reach her
+      enemies. By spending 1 round of rage, the barbarian can teleport up to 30
+      feet as a move action. </p> <p> The barbarian must have the void totem
+      rage power and be 10th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

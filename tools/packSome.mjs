@@ -1,6 +1,16 @@
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
 import { promises as fs } from "fs";
 
+const somePack = [
+  //"legendary-classes",
+  "legendary-alchemist-abilities",
+  "alchemist_discoveries",
+  "alchemical_disciplines",
+  "legendary-barbarian-abilities",
+  "rage-forms",
+  "rage-powers",
+];
+
 const MODULE_ID = process.cwd();
 const yaml = true;
 
@@ -8,7 +18,7 @@ const packs = await fs.readdir("./src/packs");
 let fileTotal = 0;
 
 for (const pack of packs) {
-  if (pack === ".gitattributes") continue;
+  if (pack === ".gitattributes" || !somePack.includes(pack)) continue;
 
   const packPath = `${MODULE_ID}/src/packs/${pack}`;
 

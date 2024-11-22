@@ -1,0 +1,25 @@
+_id: JH5NU6MeHzLk1eHW
+_key: '!items!JH5NU6MeHzLk1eHW'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Head Ripper
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When using her limb ripper rage power, the barbarian can attempt to
+      tear off the head of the target instead of one of its limbs. If the sunder
+      combat maneuver succeeds, any bite or gore attack made by the target is
+      considered broken, suffering a –2 penalty to attack and damage rolls. If
+      the sunder combat maneuver check exceeds the DC by 10 or more and the
+      target fails its Fortitude save, its head is severed from its body. Most
+      creatures are killed instantly. Creatures with multiple heads lose the use
+      of the severed head and suffer bleed damage as normal for the limb ripper
+      rage power. </p> <p> A barbarian must be at least 16th level and have the
+      limb ripper rage power to select this rage power </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

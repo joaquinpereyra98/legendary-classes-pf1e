@@ -1,0 +1,25 @@
+_id: jYdqqutedCIDcF5V
+_key: '!items!jYdqqutedCIDcF5V'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Dragon Totem Presence
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian takes on the appearance of a terrifying dragon. The
+      barbarian may emit a roar as part of an attack or charge which affects all
+      opponents within 30 feet. An opponent can resist the effects with a
+      successful Will save (DC 10 + 1/2 the barbarian’s level + the barbarian’s
+      Charisma modifier). An opponent that succeeds on the saving throw is
+      immune to that same creature’s frightful presence for 24 hours. On a
+      failed save, the opponent is shaken for 2d6 rounds, or panicked for 2d6
+      rounds if it has 4 Hit Dice or fewer. This is a mind-affecting fear
+      effect. </p> <p> A barbarian must have the dragon totem wings rage power
+      and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

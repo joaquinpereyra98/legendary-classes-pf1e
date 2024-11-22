@@ -1,0 +1,19 @@
+_id: qNeIpFAHb7YPSpAh
+_key: '!items!qNeIpFAHb7YPSpAh'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Mighty Swing
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending three rounds of rage, the barbarian automatically confirms
+      a critical hit. This power is used as an immediate action once a critical
+      threat has been determined. </p> <p>A barbarian must be at least 12th
+      level to select this rage power.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,24 @@
+_id: wI5tEKOUWMnsqDpi
+_key: '!items!wI5tEKOUWMnsqDpi'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Bloody Bludgeon
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When severing an opponent’s limb with her limb ripper rage power, the
+      barbarian can use the severed limb as an improvised weapon (of the same
+      size as the creature whose limb it was) for the remainder of her current
+      rage. She takes no attack roll penalties for using an improvised weapon or
+      a weapon of the wrong size, and she gains a morale bonus to attack and
+      damage rolls equal to one quarter her barbarian level. This bonus is
+      doubled against the creature whose limb it was. </p> <p> A barbarian must
+      have the limb ripper rage power and be at least 16th level to select this
+      rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,20 @@
+_id: GRwVScs36MiFODxs
+_key: '!items!GRwVScs36MiFODxs'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Hive Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian is surrounded by a swarm of wasps and flies. This aura
+      deals 1d6 points of piercing damage to any enemy that begins its turn
+      adjacent to the barbarian. Enemies adjacent to the barbarian are sickened.
+      This is a poison effect. </p> <p> A barbarian must have the hive totem
+      toxicity rage power and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

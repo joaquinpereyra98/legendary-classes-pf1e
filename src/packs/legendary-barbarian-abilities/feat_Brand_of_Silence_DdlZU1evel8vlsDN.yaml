@@ -1,0 +1,22 @@
+_id: DdlZU1evel8vlsDN
+_key: '!items!DdlZU1evel8vlsDN'
+img: icons/sundries/flags/banner-symbol-axe-red.webp
+name: Brand of Silence
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> Violence solves all problems. Words are for the weak. If a barbarian
+      speaks or otherwise communicates while in a rage, then she breaks this
+      brand. Wordlessly intimidating enemies or roaring in anger does not break
+      this brand. </p> <p> <b>Benefit:</b> A barbarian with this brand increases
+      her maximum daily rounds of rage by 1 round of rage for every 3 barbarian
+      levels. </p> <p> <b>Redemption:</b> The barbarian must go one week without
+      speaking or communicating in any way. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Brands
+type: feat

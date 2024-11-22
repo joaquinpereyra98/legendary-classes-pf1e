@@ -1,0 +1,20 @@
+_id: NusQodMzG4nfBUAu
+_key: '!items!NusQodMzG4nfBUAu'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Void Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Wriggling black tentacles sprout from the ground around the barbarian
+      and grasp at the barbarian’s enemies. Enemies treat all squares within 5
+      feet of the barbarian as difficult terrain. </p> <p> The barbarian must
+      have the void totem [Greater] rage power and be 14th level to select this
+      rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

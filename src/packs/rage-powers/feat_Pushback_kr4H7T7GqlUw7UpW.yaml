@@ -1,0 +1,21 @@
+_id: kr4H7T7GqlUw7UpW
+_key: '!items!kr4H7T7GqlUw7UpW'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Pushback
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When a creature attempts a bull rush, drag, grapple, overrun,
+      reposition, or trip combat maneuver against the barbarian and fails the
+      check, she can attempt a bull rush combat maneuver against that creature
+      as an immediate action or by spending an attack of opportunity. A
+      barbarian must have the knockback rage power to select this rage power.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

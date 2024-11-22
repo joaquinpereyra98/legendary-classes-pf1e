@@ -1,0 +1,31 @@
+_id: MLdI1ZzzedEjGD5T
+_key: '!items!MLdI1ZzzedEjGD5T'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Legendary Spell Sunder
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending one round of rage, the barbarian can attempt to sunder an
+      ongoing spell effect by succeeding at a combat maneuver check. For any
+      effect other than one on a creature, the barbarian must make her combat
+      maneuver check against a CMD of 15 plus the effect’s caster level. To
+      sunder an effect on a creature, the barbarian must succeed at a normal
+      sunder combat maneuver against the creature’s CMD + 10. If successful, the
+      effect is dispelled. </p> <p> A barbarian must have the witch hunter rage
+      power to select this rage power. </p> <p> <b>Legendary Bloody Fist
+      (Ex):</b> By spending one round of rage, the barbarian may attempt to
+      punch through an opponent’s flesh and rip out one of its vital organs.
+      When the barbarian confirms a critical hit against an opponent with a
+      natural attack or unarmed strike, the opponent must succeed at a Fortitude
+      save (DC = 10 + 1/2 the barbarian’s class level + the barbarian’s Strength
+      modifier) or take 1d4 points of Constitution damage as one of its vital
+      organs is ripped free from its body. A barbarian must be at least 12th
+      level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

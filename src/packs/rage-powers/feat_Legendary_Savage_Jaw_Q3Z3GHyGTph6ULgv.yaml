@@ -1,0 +1,19 @@
+_id: Q3Z3GHyGTph6ULgv
+_key: '!items!Q3Z3GHyGTph6ULgv'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Legendary Savage Jaw
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending one round of rage, the barbarian can gain the grab ability
+      with her bite attack until the start of her next turn. </p> <p> A
+      barbarian must have a bite attack while raging to select this rage power.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

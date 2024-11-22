@@ -1,0 +1,20 @@
+_id: 8poQ7mjhN67yvmPD
+_key: '!items!8poQ7mjhN67yvmPD'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Legendary Raging Flier
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending one round of rage, the barbarian can fly up to her base
+      speed as a move action. If she uses the charge action, she can use this
+      flight as part of her movement during the charge. </p> <p> A barbarian
+      must be at least 6th level and have the raging leaper rage power to select
+      this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

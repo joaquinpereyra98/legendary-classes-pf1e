@@ -1,0 +1,22 @@
+_id: QlDhuIMjtyUDEOQ5
+_key: '!items!QlDhuIMjtyUDEOQ5'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Void Totem
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian’s weapons can tear open reality itself. When the
+      barbarian confirms a critical hit on an enemy, the enemy momentarily sees
+      the full truth of the dark tapestry between stars. It must make a
+      Willpower save (DC = 10 + 1/2 the barbarian’s class level + the
+      barbarian’s Strength modifier) or become confused for one round. </p> <p>
+      The barbarian must have the void totem [Lesser] rage power and be 6th
+      level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

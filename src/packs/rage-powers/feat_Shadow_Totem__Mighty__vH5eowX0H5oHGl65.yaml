@@ -1,0 +1,19 @@
+_id: vH5eowX0H5oHGl65
+_key: '!items!vH5eowX0H5oHGl65'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Shadow Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian saps the life from enemies using the power of the shadow
+      realm. When the barbarian scores a critical hit, the target takes 2
+      Strength damage. </p> <p> The barbarian must have the shadow totem rage
+      [Greater] power and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

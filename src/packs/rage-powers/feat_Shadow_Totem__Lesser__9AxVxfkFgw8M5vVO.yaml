@@ -1,0 +1,18 @@
+_id: 9AxVxfkFgw8M5vVO
+_key: '!items!9AxVxfkFgw8M5vVO'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Shadow Totem [Lesser]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> While in a rage, the light level within 30 feet of the barbarian
+      decreases by one step. </p> <p>The barbarian may activate or deactivate
+      this ability as a swift action.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,28 @@
+_id: W9c1rEMAnyMU6Epg
+_key: '!items!W9c1rEMAnyMU6Epg'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Ghost Hunter
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian can sense the presence of incorporeal undead as though
+      she had the scent ability—even if the undead is within a solid object or
+      behind a solid barrier—and can track incorporeal undead by scent using the
+      Survival skill, with a bonus on such checks equal to her barbarian level.
+      She adds half her barbarian level on Perception checks made against
+      incorporeal undead creatures, and when she readies an action to attack an
+      incorporeal creature she can move up to one-half her speed as part of that
+      readied action. This movement does not provoke attacks of opportunity from
+      incorporeal undead creatures, though it does from other creatures. If she
+      does not move as part of the readied action, she instead can make her
+      readied attack with a +1 competence bonus on attack and damage rolls for
+      every 4 barbarian levels. </p> <p> A barbarian must have the ghost rager
+      rage power and be at least 8th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

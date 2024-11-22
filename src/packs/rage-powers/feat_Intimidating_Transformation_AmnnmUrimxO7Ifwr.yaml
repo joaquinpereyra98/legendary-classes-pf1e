@@ -1,0 +1,19 @@
+_id: AmnnmUrimxO7Ifwr
+_key: '!items!AmnnmUrimxO7Ifwr'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Intimidating Transformation
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When entering into a rage, a barbarian may roar or brandish her
+      weapons. As a free action as part of entering the rage, she may make an
+      Intimidate check to demoralize all foes within 30 feet who can see or hear
+      her display. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

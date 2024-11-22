@@ -1,0 +1,20 @@
+_id: lEyOzvczza45gEPd
+_key: '!items!lEyOzvczza45gEPd'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Crippling Blow
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When the barbarian hits with an attack, she can spend two rounds of
+      rage to deal 1 point of ability damage to the target’s Strength or
+      Dexterity score. This damage increases by 1 point for every 4 levels the
+      barbarian has. </p> <p>A barbarian must be at least 8th level to select
+      this rage power.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

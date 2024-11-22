@@ -1,0 +1,21 @@
+_id: C4Wy2y73XYKiaCnQ
+_key: '!items!C4Wy2y73XYKiaCnQ'
+img: icons/sundries/flags/banner-symbol-axe-red.webp
+name: Brand of Pain
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> Life is pain. The barbarian understands that better than most. If the
+      barbarian is at her maximum hit points when her rage ends, then she breaks
+      this brand. </p> <p> <b>Benefit:</b> A barbarian with this brand increases
+      her maximum daily rounds of rage by 1 round of rage for every 4 barbarian
+      levels. </p> <p> <b>Redemption:</b> The barbarian must spend 24 hours with
+      fewer than 5 hit points remaining. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Brands
+type: feat

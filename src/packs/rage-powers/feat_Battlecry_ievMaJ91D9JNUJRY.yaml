@@ -1,0 +1,20 @@
+_id: ievMaJ91D9JNUJRY
+_key: '!items!ievMaJ91D9JNUJRY'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Battlecry
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending one round of rage, the barbarian can unleash an inspiring
+      battlecry as a swift action. Allies within 60 feet of the barbarian gain a
+      +1 morale bonus on melee damage rolls for a number of rounds equal to the
+      barbarian’s Constitution modifier. This bonus increases by +1 for every 6
+      levels the barbarian has attained. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

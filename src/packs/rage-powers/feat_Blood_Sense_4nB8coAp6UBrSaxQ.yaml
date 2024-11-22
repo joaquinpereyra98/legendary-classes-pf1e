@@ -1,0 +1,21 @@
+_id: 4nB8coAp6UBrSaxQ
+_key: '!items!4nB8coAp6UBrSaxQ'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Blood Sense
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> The barbarian’s bloodlust allows him to perceive some enemies with
+      perfect accuracy. The barbarian ignores the concealment, total
+      concealment, and invisibility of enemies below full health who have blood
+      (typically all creatures besides constructs, oozes, plants, and
+      incorporeal creatures). </p> <p>A barbarian must be at least 6th level to
+      select this rage power.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

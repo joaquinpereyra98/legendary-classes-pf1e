@@ -1,0 +1,23 @@
+_id: dc1Ek4utYA5Y9e4q
+_key: '!items!dc1Ek4utYA5Y9e4q'
+img: icons/sundries/flags/banner-symbol-axe-red.webp
+name: Brand of Exhaustion
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>The branded barbarian holds nothing back in her rage. A barbarian who
+      takesthis brand is exhausted instead of fatigued for 1 minute upon exiting
+      rage. Ifshe has the tireless rage ability, she is instead fatigued for 1
+      minute uponexiting rage.</p><p><b>Benefit:</b> A barbarian with this brand
+      increases her maximum daily roundsof rage by 1 round of rage for every 3
+      barbarian levels.</p><p><b>Special:</b> When a barbarian gains a level,
+      she may choose to remove thisbrand from her body. If she does, she can
+      never gain it again.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Brands
+type: feat

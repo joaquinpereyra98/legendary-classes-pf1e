@@ -1,0 +1,21 @@
+_id: jLIVb3sWePCwbaIr
+_key: '!items!jLIVb3sWePCwbaIr'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Arcane Totem
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When entering a rage, the barbarian can choose one of the following
+      spells and apply its effects to herself for the duration of the rage:
+      <i>blur</i>, <i>protection from arrows</i>, <i>resist energy</i> (choose
+      one energy type), or <i>spider climb</i>. </p> <p> The barbarian must have
+      the arcane totem [Lesser] rage power and be 6th level to select this rage
+      power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

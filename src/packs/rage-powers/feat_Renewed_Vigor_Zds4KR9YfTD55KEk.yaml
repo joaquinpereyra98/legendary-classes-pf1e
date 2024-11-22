@@ -1,0 +1,27 @@
+_id: Zds4KR9YfTD55KEk
+_key: '!items!Zds4KR9YfTD55KEk'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Renewed Vigor
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending two rounds of rage as a standard action, the barbarian
+      heals 1d8 points of damage + her Constitution modifier. For every 4 levels
+      the barbarian has beyond 4th, the amount healed increases by 1d8 (to a
+      maximum of 5d8 at 20th level). </p> <p>The barbarian must be at least 4th
+      level to select this rage power.</p> <p> <b>Anarchic Fist (Su):</b> The
+      barbarian’s unarmed strike and any natural weapons are considered magic
+      weapons for the purpose of overcoming damage reduction, with the anarchic
+      property (dealing 2d6 points of additional damage to lawful creatures).
+      Melee weapons she wields are similarly treated as magical and deal 1d6
+      points of additional damage to lawful creatures. </p> <p> A barbarian must
+      have the greater chaos totem power and be at least 16th level to select
+      this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

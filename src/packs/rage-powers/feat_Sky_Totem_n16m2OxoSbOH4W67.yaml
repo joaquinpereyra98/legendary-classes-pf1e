@@ -1,0 +1,20 @@
+_id: n16m2OxoSbOH4W67
+_key: '!items!n16m2OxoSbOH4W67'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Sky Totem
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> While under the open sky, the barbarian calls down lightning with her
+      mighties strikes. When the barbarian confirms a critical hit, a bolt of
+      lightning strikes the target from the heavens, dealing an additional 2d6
+      electricity damage. </p> <p> The barbarian must have the sky totem
+      [Lesser] rage power and be 6th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

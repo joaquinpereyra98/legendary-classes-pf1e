@@ -1,0 +1,30 @@
+_id: B5SVX9xcpwNePezZ
+_key: '!items!B5SVX9xcpwNePezZ'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Ringing Blow
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> When the barbarian hits with an attack, she can spend two rounds of
+      rage to deal 1 point of ability damage to the target’s Charisma,
+      Intelligence, or Wisdom score. This damage increases by 1 point for every
+      4 levels the barbarian has. </p> <p>A barbarian must be at least 8th level
+      to select this rage power.</p> <p> <b>Savagery (Ex):</b> When the
+      barbarian confirm a critical hit, the duration of her current rage is
+      increased by 1 round after she stop spending rounds of rage to continue
+      it. This is increased by 1 additional round when wielding a weapon with a
+      x3 critical multiplier, or by 2 rounds if using a weapon with a x4
+      critical multiplier. These extra rounds of rage stack with each other. The
+      barbarian may choose to end her rage before these additional rounds of
+      rage are expended, but any extra rounds unused when she ends her rage are
+      wasted. She does not gain additional rounds of rage for critical hits
+      against creatures whose Hit Dice are less than one-half her own. </p> <p>A
+      barbarian must be at least 4th level to select this rage power.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

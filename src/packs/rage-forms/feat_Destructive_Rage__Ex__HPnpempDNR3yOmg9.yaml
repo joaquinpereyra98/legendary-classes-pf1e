@@ -1,0 +1,113 @@
+_id: HPnpempDNR3yOmg9
+_key: '!items!HPnpempDNR3yOmg9'
+img: systems/pf1/icons/feats/extra-rage.jpg
+name: Destructive Rage
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> While in a rage, a barbarian gains a +3 bonus on melee damage rolls,
+      thrown weapon damage rolls, and sunder combat maneuvers. She ignores 5
+      points of a target’s damage resistance and object hardness. </p> <p>
+      <i>Greater Destructive Rage (Ex):</i> At 11th level, a barbarian’s bonus
+      on melee damage rolls, thrown weapon damage rolls, and sunder combat
+      maneuvers while raging increases to +4. She ignores 10 points of a
+      target’s damage resistance and object hardness. </p> <p> <i>Mighty
+      Destructive Rage (Ex):</i> At 20th level, a barbarian’s bonus on melee
+      damage rolls, thrown weapon damage rolls, and sunder combat maneuvers
+      while raging increases to +5. She ignores 20 points of a target’s damage
+      resistance and object hardness. </p> <h2> <span
+      id="Dueling_Rage_.28Ex.29"></span><span class="mw-headline"
+      id="Dueling_Rage_(Ex)">Dueling Rage (Ex)</span> </h2> <p> When a barbarian
+      enters a rage, she chooses one target within sight to challenge. While in
+      a rage, she gains a +3 bonus on attack rolls and damage rolls against the
+      target of her challenge. The barbarian does not take the –2 penalty to her
+      Armor Class for being in rage against attacks made by the target of her
+      challenge. If the target of the challenge is killed, the barbarian exits
+      her rage. The challenge ends when the barbarian exits the rage. </p> <p>
+      <i>Greater Dueling Rage (Ex):</i> At 11th level, a barbarian’s bonus on
+      attack rolls and damage rolls against the target of her challenge
+      increases to +4. </p> <p> <i>Mighty Dueling Rage (Ex):</i> At 20th level,
+      a barbarian’s bonus on attack rolls and damage rolls against the target of
+      her challenge increases to +5. </p> <h2> <span
+      id="Elemental_Rage_.28Su.29"></span><span class="mw-headline"
+      id="Elemental_Rage_(Su)">Elemental Rage (Su)</span> </h2> <p> When a
+      barbarian enters a rage, she chooses an energy type (acid, cold,
+      electricity, or fire). While in a rage, she gains an elemental aura of the
+      chosen energy type. Creatures within five feet of the barbarian at start
+      of her turn take 1d6 points of energy damage of the selected type. The
+      barbarian’s attacks deal an additional 1d6 points of energy damage of the
+      selected type. </p> <p> <i>Greater Elemental Rage (Su):</i> At 11th level,
+      a barbarian’s elemental aura deals 2d6 points of energy damage. </p> <p>
+      <i>Mighty Elemental Rage (Su):</i> At 20th level, a barbarian’s elemental
+      aura deals 4d6 points of energy damage. </p> <h2> <span
+      id="Enlarging_Rage_.28Su.29"></span><span class="mw-headline"
+      id="Enlarging_Rage_(Su)">Enlarging Rage (Su)</span> </h2> <p> While in a
+      rage, a barbarian’s size increases by one size category. The barbarian
+      gains a +2 size bonus to Strength, a –2 size penalty to Dexterity (to a
+      minimum of 1), and a –1 penalty on attack rolls and AC due to her
+      increased size. A Medium humanoid barbarian whose size increases to Large
+      has a space of 10 feet and a natural reach of 10 feet. All equipment worn
+      or carried by the barbarian is similarly enlarged by the spell. Enlarging
+      rage is a supernatural ability which otherwise acts like <i>enlarge
+      person</i>. Unlike most rage forms, entering an enlarging rage is a
+      standard action. </p> <p> <i>Greater Enlarging Rage (Su):</i> At 11th
+      level, a barbarian’s size increases by two size categories while raging.
+      The barbarian gains a +4 size bonus to Strength, and takes a –4 size
+      penalty to Dexterity and a –2 penalty on attack rolls and to AC because of
+      its increased size. A Medium humanoid barbarian whose size increases to
+      Huge has a space of 15 feet and a natural reach of 10 feet. </p> <p>
+      <i>Mighty Enlarging Rage (Su):</i> At 20th level, a barbarian’s size
+      increases by three size categories while raging. The barbarian gains a +6
+      size bonus to Strength, and takes a –6 size penalty to Dexterity and a –4
+      penalty on attack rolls and to AC because of its increased size. A Medium
+      humanoid barbarian whose size increases to Gargantuan has a space of 20
+      feet and a natural reach of 15 feet. </p> <h2> <span
+      id="Invincible_Rage_.28Ex.29"></span><span class="mw-headline"
+      id="Invincible_Rage_(Ex)">Invincible Rage (Ex)</span> </h2> <p> While in a
+      rage, a barbarian gains damage reduction and resist against all energy
+      attacks equal to half her barbarian level (minimum 1). This damage
+      reduction and energy resistance stack with other damage reduction or
+      energy resistance gained from class abilities or rage powers. She also
+      gains a +3 bonus on all Fortitude and Reflex Saves. </p> <p> <i>Greater
+      Invincible Rage (Ex):</i> At 11th level, a barbarian’s bonus to Fortitude
+      and Reflex Saves increases to +4. </p> <p> <i>Mighty Invincible Rage
+      (Ex):</i> At 20th level, a barbarian’s bonus to Fortitude and Reflex Saves
+      increases to +5. </p> <h2> <span id="Reckless_Rage_.28Ex.29"></span><span
+      class="mw-headline" id="Reckless_Rage_(Ex)">Reckless Rage (Ex)</span>
+      </h2> <p> While in a rage, a barbarian gains a +3 bonus on melee attack
+      rolls, melee damage rolls, thrown weapon damage rolls, and Will saving
+      throws. </p> <p> <i>Greater Reckless Rage (Ex):</i> At 11th level, a
+      barbarian’s bonus on melee attack rolls, melee damage rolls, thrown weapon
+      damage rolls, and Will saves while raging increases to +4. </p> <p>
+      <i>Mighty Reckless Rage (Ex):</i> At 20th level, a barbarian’s bonus on
+      melee attack rolls, melee damage rolls, thrown weapon damage rolls, and
+      Will saves while raging increases to +5. </p> <h2> <span
+      id="Terrifying_Rage_.28Ex.29"></span><span class="mw-headline"
+      id="Terrifying_Rage_(Ex)">Terrifying Rage (Ex)</span> </h2> <p> While in a
+      rage, a barbarian gains a +3 bonus on melee damage rolls. She gains a
+      bonus on Intimidate checks equal to her level. </p> <p> <i>Greater
+      Terrifying Rage (Ex):</i> At 11th level, a barbarian gains a +4 bonus on
+      melee damage rolls. She gains a bonus on Intimidate checks equal to her
+      level. </p> <p> <i>Mighty Terrifying Rage (Ex):</i> At 20th level, a
+      barbarian gains a +5 bonus on melee damage rolls. She gains a bonus on
+      Intimidate checks equal to her level. </p> <h2> <span
+      id="Vicious_Rage_.28Su.29"></span><span class="mw-headline"
+      id="Vicious_Rage_(Su)">Vicious Rage (Su)</span> </h2> <p> When in a rage,
+      a barbarian gains a +3 bonus to attack rolls. When a barbarian in a rage
+      strikes an opponent with an attack, disruptive energy arcs between her and
+      her target. This energy deals an extra 2d6 points of damage to the
+      opponent and 1d6 points of damage to the barbarian. </p> <p> <i>Greater
+      Vicious Rage (Su):</i> At 11th level, a barbarian gains a +4 bonus to
+      attack rolls. Her disruptive energy deals 4d6 points of damage to the
+      opponent and 2d6 points of damage to the barbarian. </p> <p> <i>Mighty
+      Vicious Rage (Su):</i> At 20th level, a barbarian gains a +5 bonus to
+      attack rolls. Her disruptive energy deals 6d6 points of damage to the
+      opponent and 3d6 points of damage to the barbarian. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Form
+type: feat

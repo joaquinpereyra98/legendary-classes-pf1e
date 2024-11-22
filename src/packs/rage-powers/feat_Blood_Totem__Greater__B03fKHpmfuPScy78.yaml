@@ -1,0 +1,21 @@
+_id: B03fKHpmfuPScy78
+_key: '!items!B03fKHpmfuPScy78'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Blood Totem [Greater]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The barbarian can smell blood and is drawn to it. The barbarian gains
+      scent when detecting creatures that took bleed damage on their last turn.
+      The barbarian gains a +2 bonus on attack rolls when attacking creatures
+      who took bleed damage on their last turn. </p> <p> A barbarian must have
+      the bleed totem rage power and be 10th level to select this rage power.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

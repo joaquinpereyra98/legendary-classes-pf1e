@@ -1,0 +1,23 @@
+_id: plAwWz9j2eNgyJX6
+_key: '!items!plAwWz9j2eNgyJX6'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Dragon Totem Breath
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> By spending two rounds of rage, the barbarian expels a breath weapon
+      as a standard action, inflicting damage of the same type as her totem
+      dragon. This breath takes the shape of a 30-foot cone (gold, green, red,
+      silver, white) or 60-foot line (black, blue, brass, bronze, copper) and
+      deals 1d6 points of damage per barbarian level. A Reflex save (DC 10 + 1/2
+      the barbarian’s level + her Constitution modifier) halves this damage.
+      </p> <p> A barbarian must have the dragon totem wings rage power and be at
+      least 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,21 @@
+_id: HbEC3Isb9FTy89u1
+_key: '!items!HbEC3Isb9FTy89u1'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: World Serpent Banishment [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Whenever a barbarian confirms a critical strike against an outsider or
+      aberration, the barbarian may spend 1 round of rage to subject the
+      creature to a <i>banishment</i>, using her barbarian level as the caster
+      level (DC = 10 + ½ barbarian’s level + barbarian’s Constitution modifier).
+      </p> <p> A barbarian must have the world serpent totem unity rage power
+      and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

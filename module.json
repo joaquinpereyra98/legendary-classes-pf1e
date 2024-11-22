@@ -43,11 +43,21 @@
                 {
                     "name": "Alchemist Class Abilities",
                     "sorting": "m",
-                    "color": "#fadd00",
+                    "color": "#bda700",
                     "packs": [
                         "legendary-alchemist-abilities",
                         "alchemist_discoveries",
                         "alchemical_disciplines"
+                    ]
+                },
+                {
+                    "name": "Barbarian Class Abilities",
+                    "sorting": "m",
+                    "color": "#fc2003",
+                    "packs": [
+                        "legendary-barbarian-abilities",
+                        "rage-forms",
+                        "rage-powers"
                     ]
                 }
             ],
@@ -91,6 +101,39 @@
             "name": "alchemical_disciplines",
             "label": "Alchemical Disciplines",
             "path": "packs/alchemical_disciplines",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "legendary-barbarian-abilities",
+            "label": "Legendary Barbarian Abilities",
+            "path": "packs/legendary-barbarian-abilities",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "rage-forms",
+            "label": "Rage Forms",
+            "path": "packs/rage-forms",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "rage-powers",
+            "label": "Rage Powers",
+            "path": "packs/rage-powers",
             "type": "Item",
             "ownership": {
                 "PLAYER": "OBSERVER",

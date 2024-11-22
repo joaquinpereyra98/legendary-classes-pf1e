@@ -1,0 +1,23 @@
+_id: Ol9PaaVv21ec2Z0K
+_key: '!items!Ol9PaaVv21ec2Z0K'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Legendary Bloody Fist
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> By spending one round of rage, the barbarian may attempt to punch
+      through an opponent’s flesh and rip out one of its vital organs. When the
+      barbarian confirms a critical hit against an opponent with a natural
+      attack or unarmed strike, the opponent must succeed at a Fortitude save
+      (DC = 10 + 1/2 the barbarian’s class level + the barbarian’s Strength
+      modifier) or take 1d4 points of Constitution damage as one of its vital
+      organs is ripped free from its body. A barbarian must be at least 12th
+      level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

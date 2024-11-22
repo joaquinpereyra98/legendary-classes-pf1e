@@ -1,0 +1,22 @@
+_id: UI5kAojwOM9wigvn
+_key: '!items!UI5kAojwOM9wigvn'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Spirit Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> While raging, the barbarian is encircled by a hurricane of spirits.
+      Living enemies adjacent to the barbarian at the start of her turn take 2d8
+      points of negative energy damage. In addition, the spirit wisps can now
+      attack foes that are up to 15 feet away from the barbarian and the slam
+      attack deals 2d6 points of negative energy damage. </p> <p> A barbarian
+      must have the spirit totem [Greater] rage power and be 14th level to
+      select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

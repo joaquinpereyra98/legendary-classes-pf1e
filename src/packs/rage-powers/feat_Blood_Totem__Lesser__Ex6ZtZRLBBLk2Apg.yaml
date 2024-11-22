@@ -1,0 +1,20 @@
+_id: Ex6ZtZRLBBLk2Apg
+_key: '!items!Ex6ZtZRLBBLk2Apg'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Blood Totem [Lesser]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Whenever the barbarian scores a critical hit with a slashing or
+      piercing weapon, her opponent takes 1d6 points of bleed damage each round
+      on her turn, in addition to the damage dealt by the critical hit. This
+      bleed damage can be stopped by a DC 15 Heal skill check or through any
+      magical healing. The effects of this rage power stack. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

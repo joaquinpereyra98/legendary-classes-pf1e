@@ -1,0 +1,22 @@
+_id: nHnq6pSKkcGvBUCD
+_key: '!items!nHnq6pSKkcGvBUCD'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Arcane Totem [Mighty]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Anytime a harmless spell of 3rd level or lower is cast within 30 feet
+      of the barbarian, she may choose to immediately gain the benefit of that
+      spell as if it had also targeted her. She may only gain this benefit if
+      she is aware of the spell being cast. The intended target still gains the
+      effect of the spell. The duration of the effect on the barbarian ends when
+      her rage ends. </p> <p> The barbarian must have the arcane totem rage
+      [Greater] power and be 14th level to select this rage power. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat

@@ -1,0 +1,22 @@
+_id: lk9gORQnWENtoEOh
+_key: '!items!lk9gORQnWENtoEOh'
+img: icons/sundries/flags/banner-symbol-axe-red.webp
+name: Brand of Slaughter
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> The barbarian must seek out death as a means to resolve conflict. If
+      her rage ends before she has killed a creature with a HD at least half her
+      own (minimum 1), then she breaks this brand. </p> <p> <b>Benefit:</b> A
+      barbarian with this brand increases her maximum daily rounds of rage by 1
+      round of rage per barbarian level. </p> <p> <b>Redemption:</b> The
+      barbarian must slay a surrendered, helpless enemy of her own race and
+      alignment. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Barbarian Brands
+type: feat

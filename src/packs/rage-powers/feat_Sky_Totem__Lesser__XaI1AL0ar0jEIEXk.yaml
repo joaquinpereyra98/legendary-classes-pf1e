@@ -1,0 +1,18 @@
+_id: XaI1AL0ar0jEIEXk
+_key: '!items!XaI1AL0ar0jEIEXk'
+img: systems/pf1/icons/feats/deafening-critical.jpg
+name: Sky Totem [Lesser]
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> While under the open sky, the barbarian is propelled forward by wind.
+      She gains a 20-foot enhancement bonus to her speed when charging or taking
+      a run action. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Barbarian
+  tags:
+    - Rage Power
+type: feat
