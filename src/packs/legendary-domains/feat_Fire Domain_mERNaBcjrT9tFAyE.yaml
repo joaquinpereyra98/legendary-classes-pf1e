@@ -1,0 +1,27 @@
+_id: mERNaBcjrT9tFAyE
+_key: '!items!mERNaBcjrT9tFAyE'
+img: systems/pf1/icons/skills/fire_10.jpg
+name: Fire Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You can call forth fire, command
+      creatures of the inferno, and your flesh does not
+      burn.</p><p><strong>Subdomains:</strong> Arson, Ash, Smoke</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ZUYyZDr3jFAwmE2O]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.0Cm2FaHDdDts5JB4]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.tNdNzaftzNbLvcLW]</p>
+          <h3>Doctrine of Incineration</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.8XMk8VL07A53Gsbu]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Xsz1Z9rUM2WGCPEx]</p>
+          <h3>Doctrine of Purification</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Un7gisVszM3O42En]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.g3Xf6fBRSGEtwH3e]</p><h3>Domain Spells</h3><ul><li>1st—burning hands</li><li>2nd—flaming sphere</li><li>3rd—fireball</li><li>4th—wall of fire</li><li>5th—fire snake</li><li>6th—chains of fire</li><li>7th—firebrand</li><li>8th—wall of lava</li><li>9th—meteor swarm</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.V57hEfKt1MroRI91
+  subType: classFeat
+  tags:
+    - Fire Domain
+    - Legendary Domain
+type: feat

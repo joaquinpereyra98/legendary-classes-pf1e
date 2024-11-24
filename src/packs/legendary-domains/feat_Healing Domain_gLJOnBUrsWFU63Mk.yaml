@@ -1,0 +1,27 @@
+_id: gLJOnBUrsWFU63Mk
+_key: '!items!gLJOnBUrsWFU63Mk'
+img: systems/pf1/icons/spells/light-blue-2.jpg
+name: Healing Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> Your touch staves off pain and death,
+      and your healing magic is particularly vital and
+      potent.</p><p><strong>Subdomains:</strong> Medicine, Restoration,
+      Resurrection</p><h3>Domain Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.V1pr4LgVkwGObrAq]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.OzZDTwhdkguCtCYq]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.RtE46LJ5GJOSHpfS]</p>
+          <h3>Doctrine of Restoration</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KmwMsN4JUBdS2Wka]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.yq4IIrNqKBAfFNqS]</p>
+          <h3>Doctrine of Recovery</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EIsnw57XEAPsk04P]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.6D0f9d0QyeBE2AHS]</p><h3>Domain Spells</h3><ul><li>1st—cure light wounds</li><li>2nd—lesser restoration</li><li>3rd—remove disease</li><li>4th—restoration</li><li>5th—breath of life</li><li>6th—heal</li><li>7th—greater restoration</li><li>8th—mass cure critical wounds</li><li>9th—mass heal</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.8iWGEKKdoKTHsDy5
+  subType: classFeat
+  tags:
+    - Healing Domain
+    - Legendary Domain
+type: feat

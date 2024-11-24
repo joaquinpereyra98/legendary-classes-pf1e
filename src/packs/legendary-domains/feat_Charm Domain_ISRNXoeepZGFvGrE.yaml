@@ -1,0 +1,30 @@
+_id: ISRNXoeepZGFvGrE
+_key: '!items!ISRNXoeepZGFvGrE'
+img: systems/pf1/icons/skills/light_07.jpg
+name: Charm Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You can baffle and befuddle foes with
+      a touch or a smile, and your beauty and grace are
+      divine.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.BnDWyEkl77V3FjCw]{Captivation},
+      @UUID[Compendium.pf1.class-abilities.Item.OdjyOoQ39ZHogGUH]{Love},
+      @UUID[Compendium.pf1.class-abilities.Item.M18QnM8Xd0mUvSuR]{Lust}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.kYGfBgjO5b5Za15M]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Y9dgnJLgXxSpGZK4]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.031PKwsWZtQ88Iez]</p>
+          <h3>Doctrine of Friendship</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bsyPDLELL8kSphaQ]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.3d1Wlv0yIUbuU18z]</p>
+          <h3>Doctrine of Enthrallment</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.m8ST42nO9AkEWatt]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.8snZVHaZJ1Ms3mTL]</p><h3>Domain Spells</h3><ul><li>1st—charm person</li><li>2nd—hideous laughter</li><li>3rd—suggestion</li><li>4th—charm monster</li><li>5th—dominate person</li><li>6th—mass suggestion</li><li>7th—</li><li>8th—</li><li>9th—dominate monster</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.Jle1tYl0Fr251J97
+  subType: classFeat
+  tags:
+    - Charm Domain
+    - Legendary Domain
+type: feat

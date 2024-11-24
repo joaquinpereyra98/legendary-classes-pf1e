@@ -68,6 +68,10 @@ system:
       - level: 1
         uuid: Compendium.pf1.class-abilities.kXXz1lO4i7CibHJ9
       - level: 1
+        uuid: Compendium.legendary-classes-pf1e.legendary-cleric-abilities.Item.qlU7pX1F5J1Uce1z
+      - level: 1
+        uuid: Compendium.legendary-classes-pf1e.legendary-cleric-abilities.Item.FArCCfsqnSmAiohg
+      - level: 1
         uuid: Compendium.pf1.class-abilities.zrUJt7YpAJkf2NC6
       - level: 1
         uuid: Compendium.pf1.class-abilities.Wkv124hVPATT35bm
@@ -79,6 +83,10 @@ system:
         uuid: Compendium.pf1.class-abilities.EvrFDqZDbbFS4Avb
       - level: 1
         uuid: Compendium.pf1.class-abilities.Item.RaFl9SpbAlXqhsDk
+      - level: 5
+        uuid: Compendium.legendary-classes-pf1e.legendary-cleric-abilities.Item.5xJXXuqcNW3bpxQG
+      - level: 20
+        uuid: Compendium.legendary-classes-pf1e.legendary-cleric-abilities.Item.SQluMYxpg5aubtLG
   savingThrows:
     fort:
       value: high

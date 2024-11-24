@@ -1,0 +1,34 @@
+_id: 9QayhvHsk7hITlZF
+_key: '!items!9QayhvHsk7hITlZF'
+img: systems/pf1/icons/spells/horror-eerie-1.jpg
+name: Darkness Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  changes:
+    - _id: EigEUDyq
+      formula: '1'
+      target: bonusFeats
+      type: untyped
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You manipulate shadows and darkness.
+      In addition, you receive
+      @UUID[Compendium.pf1.feats.Item.pmAO1Sni8xx71pLF]{Blind-Fight} as a bonus
+      feat.</p><p><strong>Subdomains:</strong> Loss, Moon, Night,
+      Shadow</p><h3>Domain Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.I4GicG2Gu4CC5UtX]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.VsyjqAx1rqDWc73O]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.R89Njw33lTgVz0of]</p>
+          <h3>Doctrine of the Nocturnal</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.pFJEb5PVidohftCd]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.tPwezDqqTYJSnLpl]</p>
+          <h3>Doctrine of Fear</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.G6V659urkTU4Ojvc]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.FzMtj14NaOsSV4A2]</p><h3>Domain Spells</h3><ul><li>1st—</li><li>2nd—</li><li>3rd—deeper darkness</li><li>4th—shadow conjuration</li><li>5th—</li><li>6th—shadow walk</li><li>7th—greater shadow conjuration</li><li>8th—greater shadow evocation</li><li>9th—shades</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.feats.Item.pmAO1Sni8xx71pLF
+      - uuid: Compendium.pf1.class-abilities.Item.Le6qmKF8wkhVCPCz
+  subType: classFeat
+  tags:
+    - Darkness Domain
+    - Legendary Domain
+type: feat

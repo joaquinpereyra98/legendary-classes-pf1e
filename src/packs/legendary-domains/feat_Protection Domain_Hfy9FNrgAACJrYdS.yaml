@@ -1,0 +1,39 @@
+_id: Hfy9FNrgAACJrYdS
+_key: '!items!Hfy9FNrgAACJrYdS'
+img: systems/pf1/icons/skills/blue_18.jpg
+name: Protection Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  changes:
+    - _id: CbVbdg44
+      formula: 1 + floor(@class.level / 5)
+      target: allSavingThrows
+      type: resist
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> Your faith is your greatest source of
+      protection, and you can use that faith to defend others. In addition, you
+      receive a +1 resistance bonus on saving throws. This bonus increases by 1
+      for every 5 levels you possess.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.S7UVH8q3s6SNETrU]{Defense},
+      @UUID[Compendium.pf1.class-abilities.Item.IdmbX3dusso7BYbO]{Fortifications},
+      @UUID[Compendium.pf1.class-abilities.Item.2na2nqI5wxvd86kg]{Purity},
+      @UUID[Compendium.pf1.class-abilities.Item.rUtu6rTWk3yMAsB0]{Solitude}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EXSB5hSeDp8wQPMi]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.zg4Qk6RIAPz0yGTx]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.X8EuT2ljFH7ul98l]</p>
+          <h3>
+        Doctrine of the Disciplinarian
+      </h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.uZE3al9sSQG9rxVH]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vQWfP5EtQBp88caS]</p>
+          <h3>Doctrine of the Guardian</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vv1t3ZzJkF4ffjUh]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.LHBdR13ZoETOLUHy]</p><h3>Domain Spells</h3><ul><li>1st—shield</li><li>2nd—barkskin</li><li>3rd—communal resist energy</li><li>4th—globe of invulnerability</li><li>5th—</li><li>6th—globe of invulnerability</li><li>7th—</li><li>8th—</li><li>9th—prismatic sphere</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.Bw3GiobZvSJb8dGI
+  subType: classFeat
+  tags:
+    - Protection Domain
+    - Legendary Domain
+type: feat

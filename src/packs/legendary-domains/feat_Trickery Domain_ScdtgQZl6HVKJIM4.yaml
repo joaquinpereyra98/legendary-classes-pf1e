@@ -1,0 +1,37 @@
+_id: ScdtgQZl6HVKJIM4
+_key: '!items!ScdtgQZl6HVKJIM4'
+img: systems/pf1/icons/skills/light_07.jpg
+name: Trickery Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  classSkills:
+    blf: true
+    dis: true
+    ste: true
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You are a master of illusions and
+      deceptions. Bluff, Disguise, and Stealth are class
+      skills.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.bqJOJF5OXJlOxjf3]{Ambush},
+      @UUID[Compendium.pf1.class-abilities.Item.V3Cp48XNxBVzWP8K]{Deception},
+      @UUID[Compendium.pf1.class-abilities.Item.rOSQZD57Jz4eNLt3]{Espionage},
+      @UUID[Compendium.pf1.class-abilities.Item.kgFOpFrVPIw9vfWf]{Greed},
+      @UUID[Compendium.pf1.class-abilities.Item.kCDtKTsnJekhb4lL]{Innuendo},
+      @UUID[Compendium.pf1.class-abilities.Item.IlHsGNP2P7U035Hk]{Thievery}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.M9NKHFmXAqHz7M9i]</p><h3>Domain
+      Spells</h3><ul><li>1st—silent
+      image</li><li>2nd—invisibility</li><li>3rd—</li><li>4th—invisibility</li><li>5th—false
+      vision</li><li>6th—veil</li><li>7th—project
+      image</li><li>8th—screen</li><li>9th—shapechange</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.hVrmBvlqeeLbwVxn
+  subType: classFeat
+  tags:
+    - Trickery Domain
+    - Legendary Domain
+type: feat

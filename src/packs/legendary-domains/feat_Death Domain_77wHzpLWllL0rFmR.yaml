@@ -1,0 +1,33 @@
+_id: 77wHzpLWllL0rFmR
+_key: '!items!77wHzpLWllL0rFmR'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Death Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You can cause the living to bleed at a
+      touch, and find comfort in the presence of the
+      dead.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.3FkaGJVcOYKsA7Lg]{Murder},
+      @UUID[Compendium.pf1.class-abilities.Item.DJu9WtuvbR1UkcvZ]{Plague},
+      @UUID[Compendium.pf1.class-abilities.Item.X8hwy7iMWx9yjJeM]{Psychopomp
+      (Death)},
+      @UUID[Compendium.pf1.class-abilities.Item.H5BScdULGUCOEt5L]{Shadow},
+      @UUID[Compendium.pf1.class-abilities.Item.og1N9lhODpNDQqEu]{Undead}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.YZiWs48io0rUJ49j]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.v7s6bAxe4jiAOXLW]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.6f65Nqzs65reDEkg]</p>
+          <h3>Doctrine of Balance</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.YESqxyygpEyagMvw]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.3h5vWG02QCxXcb3F]</p>
+          <h3>Doctrine of Cycles</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.V1pr4LgVkwGObrAq]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.YcSQyRSqFq0hl4cQ]</p><h3>Domain Spells</h3><ul><li>1st—ray of enfeeblement</li><li>2nd—spectral hand</li><li>3rd—vampiric touch</li><li>4th—enervation</li><li>5th—suffocation</li><li>6th—circle of death</li><li>7th—finger of death</li><li>8th—</li><li>9th—wail of the banshee</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.u5LefrXZxQgLqmyJ
+  subType: classFeat
+  tags:
+    - Death Domain
+    - Legendary Domain
+type: feat

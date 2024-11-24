@@ -1,0 +1,43 @@
+_id: AMTDmNVPHoCWxZSQ
+_key: '!items!AMTDmNVPHoCWxZSQ'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: Knowledge Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  classSkills:
+    kar: true
+    kdu: true
+    ken: true
+    kge: true
+    khi: true
+    klo: true
+    kna: true
+    kno: true
+    kpl: true
+    kre: true
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You are a scholar and a sage of
+      legends. In addition, you treat all Knowledge skills as class
+      skills.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.KWGUqoIm1WTcohBG]{Aeon},
+      @UUID[Compendium.pf1.class-abilities.Item.cILuW33UDhe2DYsk]{Education},
+      @UUID[Compendium.pf1.class-abilities.Item.rOSQZD57Jz4eNLt3]{Espionage},
+      @UUID[Compendium.pf1.class-abilities.Item.52sdtdkBoRICEFaU]{Memory},
+      @UUID[Compendium.pf1.class-abilities.Item.4eIRlzM1ODGr9aDq]{Thought}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UtZzueBV1Dj85rAN]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.iOTu5Qua5pql1asw]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Dtx3du1REKnQPO5K]</p>
+          <h3>Doctrine of the Scholar</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ksbS5jNChOsnAUTH]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.yEqRUR2u4BLhBDyb]</p>
+          <h3>Doctrine of the Teacher</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UOAcVumUc4x0oliL]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Vx7U8hYkacStNTX2]</p><h3>Domain Spells</h3><ul><li>1st—identify</li><li>2nd—bestow insight</li><li>3rd—</li><li>4th—scrying</li><li>5th—contact other plane</li><li>6th—</li><li>7th—vision</li><li>8th—moment of prescience</li><li>9th—foresight</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.iv3eNHISB84mHLox
+  subType: classFeat
+  tags:
+    - Knowledge Domain
+    - Legendary Domain
+type: feat

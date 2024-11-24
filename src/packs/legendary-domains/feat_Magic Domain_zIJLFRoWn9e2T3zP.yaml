@@ -1,0 +1,31 @@
+_id: zIJLFRoWn9e2T3zP
+_key: '!items!zIJLFRoWn9e2T3zP'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Magic Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You are a true student of all things
+      mystical, and see divinity in the purity of
+      magic.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.9lMpmvKhps8DBPG5]{Alchemy},
+      @UUID[Compendium.pf1.class-abilities.Item.cwenReAVnI9Dtp4R]{Arcane},
+      @UUID[Compendium.pf1.class-abilities.Item.ldjn3XcCkF7CqmNH]{Divine},
+      @UUID[Compendium.pf1.class-abilities.Item.gOMQuX8vUnNclNXT]{Rites}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.9xMpCsFegkD5Vcgj]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.veShWdIjrQz9tVMm]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.T122QnqywpkYPEd7]</p>
+          <h3>Doctrine of Superiority</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.1oAD14ikWDE3s5oR]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.exRYw6u8ZFur0agt]</p>
+          <h3>Doctrine of Flexibility</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Y7UYzBGoXQf2JLit]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.FGjcuibdw9eKeOnC]</p><h3>Domain Spells</h3><ul><li>1st—magic aura</li><li>2nd—magic mouth</li><li>3rd—</li><li>4th—</li><li>5th—permanency</li><li>6th—</li><li>7th—spell turning</li><li>8th—</li><li>9th—</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.01m5lHnOP2E2FS5B
+  subType: classFeat
+  tags:
+    - Magic Domain
+    - Legendary Domain
+type: feat

@@ -1,0 +1,33 @@
+_id: 6cnUvqrioCtjzkSk
+_key: '!items!6cnUvqrioCtjzkSk'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Glory Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You are infused with the glory of the
+      divine, and are a true foe of the undead. In addition, when you channel
+      positive energy to harm undead creatures, the save DC to halve the damage
+      is increased by 2.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.GoOZGKSbOmodZHqF]{Chivalry},
+      @UUID[Compendium.pf1.class-abilities.Item.OIC39qE2PPdjPuNk]{Heroism},
+      @UUID[Compendium.pf1.class-abilities.Item.BwDN5DEhxdzLrPLZ]{Honor},
+      @UUID[Compendium.pf1.class-abilities.Item.S3e7NaopczIYCfO8]{Hubris},
+      @UUID[Compendium.pf1.class-abilities.Item.51FDels17DGl7Yq9]{Legend}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.cWblJvRPDj65o04f]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EQ0F5ueVVrR8dz6F]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IWOCZ2jMFy50mJBK]</p>
+          <h3>Doctrine of Heroism</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.fZMywJ3cGrgmj9RS]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.88Vvm4VJEpgFRWBE]</p>
+          <h3>Doctrine of Victory</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.sJyfOuGgh9rNeoaW]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.BQ6jk3rM0xASKbZP]</p><h3>Domain Spells</h3><ul><li>1st—timely inspiration</li><li>2nd—lock gaze</li><li>3rd—heroism</li><li>4th—righteous vigor</li><li>5th—feeblemind</li><li>6th—greater heroism</li><li>7th—holy sword</li><li>8th—</li><li>9th—overwhelming presence</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.0BFuaPpChxXneJwF
+  subType: classFeat
+  tags:
+    - Glory Domain
+    - Legendary Domain
+type: feat

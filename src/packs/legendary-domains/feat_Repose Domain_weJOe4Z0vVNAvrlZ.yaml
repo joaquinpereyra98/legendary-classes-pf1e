@@ -1,0 +1,32 @@
+_id: weJOe4Z0vVNAvrlZ
+_key: '!items!weJOe4Z0vVNAvrlZ'
+img: systems/pf1/icons/skills/affliction_05.jpg
+name: Repose Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You see death not as something to be
+      feared, but as a final rest and reward for a life well spent. The taint of
+      undeath is a mockery of what you hold
+      dear.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.95GjZ4XzJdKJJTWY]{Ancestors},
+      @UUID[Compendium.pf1.class-abilities.Item.X8hwy7iMWx9yjJeM]{Psychopomp
+      (Repose)},
+      @UUID[Compendium.pf1.class-abilities.Item.GsblgyzYht907slf]{Souls}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.YcSQyRSqFq0hl4cQ]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.QoBlE9TPDPujkD78]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.null]</p>
+          <h3>Doctrine of the Grave</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.mieNUUjy0429r2cM]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.CCjsUjUmfD73y7fd]</p>
+          <h3>Doctrine of Rest</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KugQwJ206z0UtfGc]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.TN6C9GOTvaDb2JgL]</p><h3>Domain Spells</h3><ul><li>1st—whispering lore</li><li>2nd—magic mouth</li><li>3rd—</li><li>4th—</li><li>5th—secret chest</li><li>6th—</li><li>7th—sequester</li><li>8th—trap the soul</li><li>9th—imprisonment</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.mS7LSsQQkjVvKx9z
+  subType: classFeat
+  tags:
+    - Repose Domain
+    - Legendary Domain
+type: feat

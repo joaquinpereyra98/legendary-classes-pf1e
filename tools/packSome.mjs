@@ -3,12 +3,15 @@ import { promises as fs } from "fs";
 
 const somePack = [
   //"legendary-classes",
-  "legendary-alchemist-abilities",
-  "alchemist_discoveries",
-  "alchemical_disciplines",
-  "legendary-barbarian-abilities",
-  "rage-forms",
-  "rage-powers",
+  //"legendary-alchemist-abilities",
+  //"alchemist_discoveries",
+  //"alchemical_disciplines",
+  //"legendary-barbarian-abilities",
+  //"rage-forms",
+  //"rage-powers",
+  //"legendary-cleric-abilities",
+  "legendary-domains",
+  "legendary-domains-abilities",
 ];
 
 const MODULE_ID = process.cwd();

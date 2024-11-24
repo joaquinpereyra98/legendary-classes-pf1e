@@ -1,0 +1,27 @@
+_id: qlU7pX1F5J1Uce1z
+_key: '!items!qlU7pX1F5J1Uce1z'
+img: icons/magic/holy/prayer-hands-glowing-yellow.webp
+name: Faith
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> A cleric's power is drawn from their faith, a deep and powerful belief
+      in a greater power or meaning. This may take the form of a deity or
+      pantheon, spirits, ancestor worship, a deep reverence of nature, or any
+      other religious or spiritual belief. A cleric's alignment must be
+      appropriate to their religion; if they worship a deity, their alignment
+      must be within one step of that deity's. Otherwise, they should choose an
+      alignment which reflects the values of their faith. </p> <p> At 1st level,
+      the cleric's faith manifests itself in a pool of points which fuel their
+      domain powers. The cleric's faith pool is equal to 1/2 their level plus
+      their Wisdom modifier (minimum 1). When casting a spell, they can expend 1
+      point of faith to increase their effective caster level by 1 or increase
+      the DC of the spell by 1. The cleric regains all expended faith when they
+      regain spells each day. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags: []
+type: feat

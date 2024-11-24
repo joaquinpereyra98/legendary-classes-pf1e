@@ -1,0 +1,31 @@
+_id: idHbJEMzbHG4jWPU
+_key: '!items!idHbJEMzbHG4jWPU'
+img: systems/pf1/icons/skills/green_20.jpg
+name: Plant Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You find solace in the green, can grow
+      defensive thorns, and can communicate with
+      plants.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.gcbkOtnZ09HTsFzb]{Decay},
+      @UUID[Compendium.pf1.class-abilities.Item.U14SmZ4MKr2UksTu]{Growth},
+      @UUID[Compendium.pf1.class-abilities.Item.9EGisgvR26lfHRbq]{Leshy},
+      @UUID[Compendium.pf1.class-abilities.Item.O2TI9qvCdf45jvBX]{Thorns}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.qGX8L7b5vxhEBqK2]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.SMsTdKeZw6nJPUXF]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ATBoyhAVZcBDr2Cs]</p>
+          <h3>Doctrine of Herbalism</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Mt4FJwPdZROSJbxc]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Tw9OnacqZhxDEc9d]</p>
+          <h3>Doctrine of Overgrowth</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.MKbB4CeHGPNPhNct]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bU1rKI5hgMa5hkAN]</p><h3>Domain Spells</h3><ul><li>1st—entangle</li><li>2nd—tree shape</li><li>3rd—plant growth</li><li>4th—command plants</li><li>5th—wall of thorns</li><li>6th—repel wood</li><li>7th—animate plants</li><li>8th—control plants</li><li>9th—</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.LY6y8GWhXzK8wDDZ
+  subType: classFeat
+  tags:
+    - Plant Domain
+    - Legendary Domain
+type: feat

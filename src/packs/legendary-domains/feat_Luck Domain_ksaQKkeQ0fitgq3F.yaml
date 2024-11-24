@@ -1,0 +1,29 @@
+_id: ksaQKkeQ0fitgq3F
+_key: '!items!ksaQKkeQ0fitgq3F'
+img: systems/pf1/icons/items/inventory/dice.jpg
+name: Luck Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You are infused with luck, and your
+      mere presence can spread good fortune.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.bCyOJTqkHjOCgPzx]{Curse},
+      @UUID[Compendium.pf1.class-abilities.Item.9CCh20rnR8xpYiEn]{Fate},
+      @UUID[Compendium.pf1.class-abilities.Item.mKu7cXOlntB043QS]{Imagination}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Y6R0Dv86J2f3RlTC]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.rN6qGdRwpUx6fnH2]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.M92PgV6SiJShPV3E]</p>
+          <h3>Doctrine of Fortune</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.eCNTxpathErRhEgX]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.C1xB7w1IFxrJjcp6]</p>
+          <h3>Doctrine of Misfortune</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.s4t5OagwmJDf4Brb]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.fOfiACG1TbYZKJ0L]</p><h3>Domain Spells</h3><ul><li>1st—true strike</li><li>2nd—blur</li><li>3rd—borrow fortune</li><li>4th—confusion</li><li>5th—foe to friend</li><li>6th—contingency</li><li>7th—limited wish</li><li>8th—moment of prescience</li><li>9th—wish</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.FcJawJG5igJPDHnQ
+  subType: classFeat
+  tags:
+    - Luck Domain
+    - Legendary Domain
+type: feat

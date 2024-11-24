@@ -59,6 +59,16 @@
                         "rage-forms",
                         "rage-powers"
                     ]
+                },
+                {
+                    "name": "Cleric Class Abilities",
+                    "sorting": "m",
+                    "color": "#0d98ba",
+                    "packs": [
+                        "legendary-cleric-abilities",
+                        "legendary-domains",
+                        "legendary-domains-abilities"
+                    ]
                 }
             ],
             "color": "#996300"
@@ -134,6 +144,39 @@
             "name": "rage-powers",
             "label": "Rage Powers",
             "path": "packs/rage-powers",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "legendary-cleric-abilities",
+            "label": "Legendary Cleric Abilities",
+            "path": "packs/legendary-cleric-abilities",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "legendary-domains",
+            "label": "Legendary Domains",
+            "path": "packs/legendary-domains",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf1"
+        },
+        {
+            "name": "legendary-domains-abilities",
+            "label": "Legendary Domains Abilities",
+            "path": "packs/legendary-domains-abilities",
             "type": "Item",
             "ownership": {
                 "PLAYER": "OBSERVER",

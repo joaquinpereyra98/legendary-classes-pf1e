@@ -1,0 +1,31 @@
+_id: avwnYrgARnepqpuv
+_key: '!items!avwnYrgARnepqpuv'
+img: systems/pf1/icons/skills/red_26.jpg
+name: Nobility Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You are a great leader, an inspiration
+      to all who follow the teachings of your
+      faith.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.j4uzXCLo91dJszhU]{Aristocracy},
+      @UUID[Compendium.pf1.class-abilities.Item.S3e7NaopczIYCfO8]{Hubris},
+      @UUID[Compendium.pf1.class-abilities.Item.Nc629yyeBE0UeG2n]{Leadership},
+      @UUID[Compendium.pf1.class-abilities.Item.Rfib6GcSF86xCZZu]{Martyr}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bbUwqgG3A0VwppCg]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Jq3cvPZA2hCmd2Ox]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.nUmimBDq2eZqwBx2]</p>
+          <h3>Doctrine of Rulership</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.wICEUtp8UQlBTODK]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.4jxPx8QVrmAbOyh9]</p>
+          <h3>Doctrine of Chivalry</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.rYKejMIzbXD4Xz39]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.t9PtFYJaW9TTsfxB]</p><h3>Domain Spells</h3><ul><li>1st—word of resolve</li><li>2nd—paladin’s</li><li>3rd—</li><li>4th—good hope</li><li>5th—hold monster</li><li>6th—sacrificial oath</li><li>7th—brilliant inspiration</li><li>8th—demand</li><li>9th—mass hold monster</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.8hVa9HwekAWpgHid
+  subType: classFeat
+  tags:
+    - Nobility Domain
+    - Legendary Domain
+type: feat

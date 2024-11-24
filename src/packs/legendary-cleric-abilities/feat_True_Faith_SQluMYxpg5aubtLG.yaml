@@ -1,0 +1,18 @@
+_id: SQluMYxpg5aubtLG
+_key: '!items!SQluMYxpg5aubtLG'
+img: icons/magic/holy/prayer-hands-glowing-yellow-white.webp
+name: True Faith
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 20th level, the cleric chooses a third domain. They gain the
+      benefits of all domain powers offered by all of their domains as if they
+      had selected them as primary domains, although they only gain the benefit
+      of one doctrine per domain. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags: []
+type: feat

@@ -1,0 +1,21 @@
+_id: FArCCfsqnSmAiohg
+_key: '!items!FArCCfsqnSmAiohg'
+img: icons/magic/holy/prayer-hands-glowing-yellow.webp
+name: Knowledge of the Faith
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> A cleric automatically gains a number of ranks in Knowledge (religion)
+      equal to their class level and may use Wisdom in place of Intelligence for
+      Knowledge (religion) checks. In addition, they automatically succeed at
+      any Knowledge check related to their faith, though if it isn't about their
+      faith specifically (for instance, a story about a different deity that
+      theirs is involved in), they only know the parts that involve their faith.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags: []
+type: feat

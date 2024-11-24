@@ -1,0 +1,16 @@
+_id: 5xJXXuqcNW3bpxQG
+_key: '!items!5xJXXuqcNW3bpxQG'
+img: icons/sundries/books/book-worn-teal.webp
+name: Devoted Skill
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> At 5th level, the cleric gains the skill unlocks for Knowledge
+      (religion) and for their first domain's divine skill. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags: []
+type: feat

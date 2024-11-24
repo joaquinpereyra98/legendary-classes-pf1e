@@ -1,0 +1,36 @@
+_id: 0qswWeY7JoEgLZaD
+_key: '!items!0qswWeY7JoEgLZaD'
+img: systems/pf1/icons/spells/runes-blue-1.jpg
+name: Rune Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  changes:
+    - _id: y6JszQtJ
+      formula: '1'
+      target: bonusFeats
+      type: untyped
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> In strange and eldritch runes you find
+      potent magic. You gain
+      @UUID[Compendium.pf1.feats.Item.tlRu8SYjzA7WCHN7]{Scribe Scroll} as a
+      bonus feat.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.Lb3YISPq7wexIalZ]{Language},
+      @UUID[Compendium.pf1.class-abilities.Item.mO0pMgYsKx98oiHg]{Legislation},
+      @UUID[Compendium.pf1.class-abilities.Item.63vMiCfBi4PWsZQo]{Wards}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.msAoQEvxdLt3SXdc]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.9r6rDUcCtCnVIXar]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.AiNvGnrlszlhjzPq]</p>
+          <h3>Doctrine of Languages</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vQ3WRfYuYYGJH4Mb]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.qlyzhRdVOmAaS4Dw]</p>
+          <h3>Doctrine of Engravings</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.muuZaCPThvmqOxHM]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.AiNvGnrlszlhjzPq]</p><h3>Domain Spells</h3><ul><li>1st—erase</li><li>2nd—secret page</li><li>3rd—explosive runes</li><li>4th—mnemonic enhancer</li><li>5th—</li><li>6th—</li><li>7th—instant summons</li><li>8th—</li><li>9th—teleportation circle</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.feats.Item.tlRu8SYjzA7WCHN7
+  subType: classFeat
+  tags:
+    - Rune Domain
+    - Legendary Domain
+type: feat

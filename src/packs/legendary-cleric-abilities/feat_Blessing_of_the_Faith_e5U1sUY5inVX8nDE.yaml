@@ -1,0 +1,37 @@
+_id: e5U1sUY5inVX8nDE
+_key: '!items!e5U1sUY5inVX8nDE'
+img: icons/magic/holy/prayer-hands-glowing-yellow.webp
+name: Blessing of the Faith
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Each domain has one spell at each spell level. A cleric can channel
+      stored spell energy to cast these spells any time. The cleric can "lose"
+      any prepared spell that is not an orison in order to cast any domain spell
+      of the same spell level or lower. </p> <p> <b>Blessing of the Faith
+      (Su):</b> At 2nd level, the cleric gains one of the following feats as a
+      bonus feat: Celestial Obedience, Deific Obedience,  Fey Obedience,
+      Fiendish Obedience, Monitor Obedience. They need not meet the skill
+      prerequisites but must worship the requisite entity. At 6th level (or 8th
+      level if they select a feat other than Deific Obedience), they gain the
+      benefits of the first boon offered by their faith, selecting between the
+      Evangelist, Exalted, and Sentinel boons at this level (these determine all
+      other boons the cleric receives). At 10th level (or 12th level if they
+      select a feat other than Deific Obedience), they gain the benefits of the
+      second boon, and at 14th level (or 16th level if they select a feat other
+      than Deific Obedience) they gain the third boon. </p> <p> If the cleric
+      does not worship an entity or worships an entity without listed bonuses
+      for one of these feats (or if they don't like any of the presented options
+      for their deity), they may instead choose to receive a +1 sacred bonus to
+      skill checks with a single skill at 2nd level. This bonus improves by 1 at
+      6th level and every 4 levels thereafter. At 6th level, 10th level, and
+      14th level, the cleric chooses one of the following types of rolls for
+      this sacred bonus to also apply to: attack rolls, concentration checks,
+      caster level checks, or skill checks with a different skill. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags: []
+type: feat

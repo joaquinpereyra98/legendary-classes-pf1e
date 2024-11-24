@@ -1,0 +1,31 @@
+_id: 0ROe6pXrDW3pKViN
+_key: '!items!0ROe6pXrDW3pKViN'
+img: systems/pf1/icons/spells/light-royal-3.jpg
+name: Sun Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You see truth in the pure and burning
+      light of the sun, and can call upon its blessing or wrath to work great
+      deeds.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.7HBmv5FWqBF1bJ4D]{Day},
+      @UUID[Compendium.pf1.class-abilities.Item.U0EqUtAbofuADisW]{Light},
+      @UUID[Compendium.pf1.class-abilities.Item.yPoebbIxW5vyKOZN]{Revelation},
+      @UUID[Compendium.pf1.class-abilities.Item.LIb8sgvAtUL7r11Q]{Thirst}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.mVzWt1Tklw8i7FXS]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.3DgHeyvUho2O4U5i]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ROokKwF0FYDeQhL7]</p>
+          <h3>Doctrine of Heat</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Lllw48VVqPYcHnYi]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.73AIPcMBkoEbyhSS]</p>
+          <h3>Doctrine of Light</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.xiTaUNKd95dmstTC]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.oMbly1KFJKlxnS7S]</p><h3>Domain Spells</h3><ul><li>1st—faerie fire</li><li>2nd—campfire wall</li><li>3rd—</li><li>4th—wandering star motes</li><li>5th—mirage arcana</li><li>6th—</li><li>7th—sunbeam</li><li>8th—sunburst</li><li>9th—fiery body</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.Dre4YCOxboyBbIjg
+  subType: classFeat
+  tags:
+    - Sun Domain
+    - Legendary Domain
+type: feat

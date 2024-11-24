@@ -1,0 +1,38 @@
+_id: sL5nVZxZuTPOUxNH
+_key: '!items!sL5nVZxZuTPOUxNH'
+img: systems/pf1/icons/spells/air-burst-sky-1.jpg
+name: Air Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You can manipulate lightning, mist,
+      and wind, traffic with air creatures, and are resistant to electricity
+      damage.</p><p><strong>Subdomains:</strong> 
+      @UUID[Compendium.pf1.class-abilities.Item.fsDZNtCRYiKuPETc]{Cloud},
+      @UUID[Compendium.pf1.class-abilities.Item.0K8W2ltmbiO71iXY]{Lightning},
+      @UUID[Compendium.pf1.class-abilities.Item.Jjo1BND4tvEJnO1I]{Wind}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IkvzvAnQWqmX26CW]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Vcr18FaHsAOmeiAV]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.f1HMr84HyzvXmoTS]</p>
+      <h3>Domain
+      Spells</h3><ul><li>1st—@UUID[Compendium.pf1.spells.Item.68m9du7zw2di7ew6]{Feather Fall}</li><li>2nd—@UUID[Compendium.pf1.spells.Item.cnuin981hdq7ryit]{Gust of Wind}</li><li>3rd—@UUID[Compendium.pf1.spells.Item.fe8jy0h1l3su2322]{Cloak of Winds}</li><li>4th—@UUID[Compendium.pf1.spells.Item.4gxx3bodf76e63en]{River of Wind}</li><li>5th—@UUID[Compendium.pf1.spells.Item.g9koefk7x9szoheo]{Control Winds}</li><li>6th—@UUID[Compendium.pf1.spells.Item.nk37t5em8q4v1djs]{Sirocco}</li><li>7th—@UUID[Compendium.pf1.spells.Item.m6nj8x0gd1cugw6g]{Fly, Mass}</li><li>8th— @UUID[Compendium.pf1.spells.Item.i9greyz3c0ap32vi]{Whirlwind}</li><li>9th— @UUID[Compendium.pf1.spells.Item.6yeorbvt5ysym3nh]{Suffocation, Mass}</li></ul>
+      <h3>Doctrine of Sky</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.T2DCoTvdlDTPfwc6]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.xxPEElBN5AJYUbhZ]
+      <h3>Doctrine of Storm</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.F4A4mIEKO7E0LIB3]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.RmZH5daHO9S9rIWi]
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.o8rxNsQ7P7Yjlvvu
+  subType: classFeat
+  classSkills: 
+    - fly: true
+  tags:
+    - Air Domain
+    - Legendary Domain
+type: feat

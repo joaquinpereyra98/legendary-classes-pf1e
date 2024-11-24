@@ -1,0 +1,36 @@
+_id: MG6CxXtcsttWwm98
+_key: '!items!MG6CxXtcsttWwm98'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Void Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You can call upon the cold darkness
+      between the stars to gain flight, travel to other worlds, or summon
+      monsters from beyond to do your
+      bidding.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.QJi75fvhCPwa2e5U]{Dark
+      Tapestry},
+      @UUID[Compendium.pf1.class-abilities.Item.lSQOZL8w9pzbDMj0]{Isolation},
+      @UUID[Compendium.pf1.class-abilities.Item.KZ4dIav1Qcto78xO]{Stars}</p><h3>Domain
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.csGg2HTnVppeiP6c]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.cuVYKA9ItPFmxHTQ]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.gWHvrrlhVesop6zc]</p>
+          <h3>Doctrine of Oblivion</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.SSqvGy4rWnAzbBKl]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.OYLoJZRknSRW1Ai9]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Uw38gCYwD58IPcvJ]</p>
+          <h3>Doctrine of Deceit</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.a1AgzUQ8ph9P35a9]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KtQy4erRISVjbfWA]</p>
+          <h3>Doctrine of Illusion</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.APElbiBbpjcqhIw6]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.evlSR5H0Q0KMxPHL]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.b80jGa8c8kLqGTTL]</p>
+          <h3>Doctrine of Infinity</h3>
+          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.hVNnfJbOLvu9sSTd]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.AzzEG1FcCv9WJEb9]</p><h3>Domain Spells</h3><ul><li>1st—feather fall</li><li>2nd—levitate</li><li>3rd—fly</li><li>4th—</li><li>5th—wall of force</li><li>6th—forceful hand</li><li>7th—</li><li>8th—telekinetic sphere</li><li>9th—time stop</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.pf1.class-abilities.Item.QkHDkpopJ7P8g14c
+  subType: classFeat
+  tags:
+    - Void Domain
+    - Legendary Domain
+type: feat
