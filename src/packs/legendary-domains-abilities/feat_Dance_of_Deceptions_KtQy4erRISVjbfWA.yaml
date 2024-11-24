@@ -1,0 +1,19 @@
+_id: KtQy4erRISVjbfWA
+_key: '!items!KtQy4erRISVjbfWA'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Dance of Deceptions
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, creatures which have failed a Sense Motive check to
+      discern one of your lies or a Perception check to see through one of your
+      disguises within the last 24 hours take a -4 penalty on saving throws
+      against you cleric spells. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Trickery Domain
+type: feat

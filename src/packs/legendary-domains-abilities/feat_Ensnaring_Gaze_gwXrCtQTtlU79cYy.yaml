@@ -1,0 +1,19 @@
+_id: gwXrCtQTtlU79cYy
+_key: '!items!gwXrCtQTtlU79cYy'
+img: systems/pf1/icons/skills/blue_17.jpg
+name: Ensnaring Gaze
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level, your fascinating gaze lasts a number of rounds
+      equal to your Wisdom modifier. In addition, you can damage the target of
+      your fascinating gaze without breaking their fascination; damage from
+      other creatures still ends the fascination. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Scalykind Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: q1i9zEgYYo1FWPih
+_key: '!items!q1i9zEgYYo1FWPih'
+img: systems/pf1/icons/skills/ice_05.jpg
+name: Buffering Waters
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, whenever you affect a willing creature with a spell, you
+      may spend a faith point to grant that creature temporary hit points equal
+      to your cleric level. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Water Domain
+type: feat

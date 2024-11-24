@@ -1,0 +1,19 @@
+_id: v7s6bAxe4jiAOXLW
+_key: '!items!v7s6bAxe4jiAOXLW'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Reaper’s Grace
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level as an immediate action you can spend 1 point of faith to
+      grant allies within 30 feet of you a sacred bonus equal to your Wisdom
+      modifier on saving throws against death effects, negative levels and
+      disease for one round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Death Domain
+type: feat

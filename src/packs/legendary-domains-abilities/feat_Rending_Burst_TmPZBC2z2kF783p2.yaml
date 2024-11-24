@@ -1,0 +1,21 @@
+_id: TmPZBC2z2kF783p2
+_key: '!items!TmPZBC2z2kF783p2'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Rending Burst
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The radius of your explosive strike increases to 15 feet. When you use
+      your explosive strike, you may make a single sunder attempt against one
+      item of your choice per two cleric levels within the explosion. You may
+      use your cleric level in place of your BAB and your Wisdom modifier in
+      place of Strength when calculating your CMB for such maneuvers. If you
+      succeed, that item also takes the damage from explosive strike. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

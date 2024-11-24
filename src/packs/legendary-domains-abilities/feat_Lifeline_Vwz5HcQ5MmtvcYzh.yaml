@@ -1,0 +1,23 @@
+_id: Vwz5HcQ5MmtvcYzh
+_key: '!items!Vwz5HcQ5MmtvcYzh'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Lifeline
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level, if a creature that was life linked to you
+      dies, you can spend 3 points of faith as an immediate action to tether
+      their soul to their body. They fall unconscious but remain alive for three
+      rounds. If their hit point total is increased to a negative amount less
+      than their Constitution score or higher and any other negative effects
+      responsible for their death are removed, they do not die. If they were
+      killed by a death effect that instantly killed them, that effect can be
+      removed with dispel magic or similar effects. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Life Domain
+type: feat

@@ -1,0 +1,21 @@
+_id: bDuBa5ACwn9lrdnX
+_key: '!items!bDuBa5ACwn9lrdnX'
+img: systems/pf1/icons/skills/blue_26.jpg
+name: Aura of Domestication
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, most animals are automatically friendly to you. Animals
+      allied with or owned by your enemies and magical beasts are indifferent to
+      you. In either case, they will not attack you or your allies without
+      provocation, even if ordered to. As a standard action, you can make a
+      Handle Animal check against any animal or magical beast to perform a task
+      or trick, even if you aren’t its trainer. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - 'Animal Domain'
+type: feat

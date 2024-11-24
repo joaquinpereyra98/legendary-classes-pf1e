@@ -1,0 +1,18 @@
+_id: GNVWqpX9PpWyFM6q
+_key: '!items!GNVWqpX9PpWyFM6q'
+img: systems/pf1/icons/spells/wind-grasp-air-1.jpg
+name: Agile Feet
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> By spending a faith point as a free action, you may allow yourself and
+      all allies within 30 feet to ignore all difficult terrain and not take any
+      penalties for moving through it for 1 round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Travel Domain
+type: feat

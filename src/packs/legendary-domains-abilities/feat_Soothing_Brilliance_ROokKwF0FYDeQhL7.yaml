@@ -1,0 +1,18 @@
+_id: ROokKwF0FYDeQhL7
+_key: '!items!ROokKwF0FYDeQhL7'
+img: systems/pf1/icons/spells/light-royal-3.jpg
+name: Soothing Brilliance
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, whenever you cast a light spell, you may spend a faith
+      point to allow any allies within the area to make a saving throw against
+      one effect on them. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Sun Domain
+type: feat

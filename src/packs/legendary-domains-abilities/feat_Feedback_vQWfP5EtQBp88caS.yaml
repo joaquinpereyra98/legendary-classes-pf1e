@@ -1,0 +1,21 @@
+_id: vQWfP5EtQBp88caS
+_key: '!items!vQWfP5EtQBp88caS'
+img: systems/pf1/icons/skills/blue_18.jpg
+name: Feedback
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you can harness the excess energy from your healing and
+      turn it volatile instead of protective. Whenever you cast a spell of the
+      healing subdomain or channel to heal, you can spend 1 point of faith to
+      convert all healing in excess of the targets’ maximum hp into damage.
+      Enemies within 30 feet of you take this damage (maximum 5 points per
+      cleric level, Will save for half ). </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Protection Domain
+type: feat

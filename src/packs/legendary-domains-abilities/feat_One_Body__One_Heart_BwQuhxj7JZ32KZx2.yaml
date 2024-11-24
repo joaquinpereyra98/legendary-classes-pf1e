@@ -1,0 +1,22 @@
+_id: BwQuhxj7JZ32KZx2
+_key: '!items!BwQuhxj7JZ32KZx2'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: One Body, One Heart
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you can connect the life forces of yourself and your
+      allies to share all of your burdens. As a swift action you can spend 3
+      points of faith. For one minute, whenever you or a creature you are life
+      linked to would take damage, that damage is evenly distributed to that
+      creature, yourself, and all other creatures you are life linked to. A
+      creature under your life link can dismiss the effect as a free action
+      before damage is calculated. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Life Domain
+type: feat

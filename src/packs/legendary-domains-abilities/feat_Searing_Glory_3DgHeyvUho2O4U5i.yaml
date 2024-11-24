@@ -1,0 +1,19 @@
+_id: 3DgHeyvUho2O4U5i
+_key: '!items!3DgHeyvUho2O4U5i'
+img: systems/pf1/icons/spells/light-royal-3.jpg
+name: Searing Glory
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, whenever you cast a spell with the light descriptor, you
+      may spend a faith point to deal fire damage equal to your cleric level to
+      any creatures you choose in the area of the light’s effects in addition to
+      the normal effects of the spell. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Sun Domain
+type: feat

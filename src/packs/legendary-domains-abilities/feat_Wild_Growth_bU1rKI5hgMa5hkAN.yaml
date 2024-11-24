@@ -1,0 +1,21 @@
+_id: bU1rKI5hgMa5hkAN
+_key: '!items!bU1rKI5hgMa5hkAN'
+img: systems/pf1/icons/skills/green_20.jpg
+name: Wild Growth
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, the plants you conjure become thorny or brambly. When
+      you cast a plant domain spell, you can spend 1 point of faith to grow
+      these thorns and brambles to deadly size and sharpness. Creatures that
+      begin their turn in the radius of these spells take 1d6 points of damage
+      per spell level. A creature affected by your woodland aura does not take
+      this damage. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Plant Domain
+type: feat

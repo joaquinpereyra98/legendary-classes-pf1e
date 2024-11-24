@@ -1,0 +1,22 @@
+_id: Vcr18FaHsAOmeiAV
+_key: '!items!Vcr18FaHsAOmeiAV'
+img: systems/pf1/icons/spells/air-burst-sky-1.jpg
+name: Protective Wind
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p>At 4th level, you become surrounded by swirling winds that batter away
+      blows. All ranged attacks made with physical weapons suffer a 20% miss
+      chance against you, except for attacks from massive weapons such as a
+      giant’s thrown boulder or a ballista. This ability has no effect on ray
+      attacks. You may activate this ability for 1 minute as a free action by
+      spending a faith point and may spend a faith point whenever the duration
+      would expire to continue the effect for an additional minute.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Air Domain
+type: feat

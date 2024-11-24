@@ -1,0 +1,18 @@
+_id: gc8TD5UdLRIFDPAD
+_key: '!items!gc8TD5UdLRIFDPAD'
+img: systems/pf1/icons/skills/blue_26.jpg
+name: Wild Shape
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level you gain the wild shape ability, as a druid of your
+      cleric level. You can only use this ability to turn into animals or
+      magical beasts. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - 'Animal Domain'
+type: feat

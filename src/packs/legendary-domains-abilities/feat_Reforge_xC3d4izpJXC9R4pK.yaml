@@ -1,0 +1,24 @@
+_id: xC3d4izpJXC9R4pK
+_key: '!items!xC3d4izpJXC9R4pK'
+img: systems/pf1/icons/items/inventory/badge-hammer.jpg
+name: Reforge
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, the enhancement bonus from sharpen increases to +3. In
+      addition, when you use sharpen on a weapon or suit of armor, you can
+      reallocate its existing enhancement bonus and special abilities so long as
+      the item’s total effective enhancement bonus is not changed. For instance,
+      the cleric could change the bane ability on a +4 evil outsider bane
+      longsword to ghost touch but could not change the weapon to a +4 flaming
+      burst longsword. This effect lasts for the duration of sharpen, although
+      you may spend 1 hour outside of combat to permanently reallocate an item’s
+      enhancement bonus and special abilities. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Artifice Domain
+type: feat

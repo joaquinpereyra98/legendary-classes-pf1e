@@ -1,0 +1,20 @@
+_id: 88Vvm4VJEpgFRWBE
+_key: '!items!88Vvm4VJEpgFRWBE'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Awesome Presence
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, your visage becomes so impressive that it roots people
+      to the ground. When you successfully demoralize a shaken enemy, you can
+      spend 1 point of faith to make them staggered instead for the same
+      duration. When you successfully demoralize a staggered enemy, you can
+      spend 1 point of faith to make them paralyzed for one round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Glory Domain
+type: feat

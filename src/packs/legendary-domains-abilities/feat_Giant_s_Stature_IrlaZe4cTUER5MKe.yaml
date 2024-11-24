@@ -1,0 +1,20 @@
+_id: IrlaZe4cTUER5MKe
+_key: '!items!IrlaZe4cTUER5MKe'
+img: systems/pf1/icons/feats/athletic.jpg
+name: Giant’s Stature
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As a swift action, you can spend 1 point of faith to grow one size
+      category, as enlarge person. This effect lasts for 1 minute. Whenever you
+      cast a spell which would increase your size, you may spend 1 point of
+      faith to increase your size by one additional size category, increasing
+      any size bonuses you receive to Strength or Constitution by 2. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Strength Domain
+type: feat

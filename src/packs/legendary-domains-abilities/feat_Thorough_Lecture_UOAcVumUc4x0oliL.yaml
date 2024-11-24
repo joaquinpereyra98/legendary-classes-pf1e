@@ -1,0 +1,17 @@
+_id: UOAcVumUc4x0oliL
+_key: '!items!UOAcVumUc4x0oliL'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: Thorough Lecture
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The bonus from your identify weakness ability also applies to AC and
+      saving throws against the appropriate creatures. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Knowledge Domain
+type: feat

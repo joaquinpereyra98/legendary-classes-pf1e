@@ -26,6 +26,12 @@ system:
       @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.D2gVPyTKNuMn1JsS]{Master of the Craft(ex)}
       @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.iayntdwzd4XDtZ61]{Sharpen(su)}
       </p>
+      <h3>Doctrine of Creation</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Q1jxAEgtNXeE7tPH]{Rapid Crafter(ex)}
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.8S1z6I5Cal8FUpFn]{Efficient Crafter(ex)}
+      <h3>Doctrine of Improvement</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.orL4tOACXcQAhuAk]{Improved Sharpen(su)}
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.xC3d4izpJXC9R4pK]{Reforge(su)}
       <h3>Domain Spells</h3>
       <ul>
       <li>1st—@Compendium[pf1.spells.7k5ypftnzy9r7mzz]{Animate Rope}</li>
@@ -38,15 +44,9 @@ system:
       <li>8th—@Compendium[pf1.spells.o6vh3lrmi1hsdzmm]{Instant Summons}</li>
       <li>9th—@Compendium[pf1.spells.lxxliyxfw9uvbxmt]{Prismatic Sphere}</li>
       </ul>
-      <h3>Doctrine of Creation</h3>
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Q1jxAEgtNXeE7tPH]{Rapid Crafter(ex)}
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.8S1z6I5Cal8FUpFn]{Efficient Crafter(ex)}
-      <h3>Doctrine of Improvement</h3>
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.orL4tOACXcQAhuAk]{Improved Sharpen(su)}
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.xC3d4izpJXC9R4pK]{Reforge(su)}
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.zeLaBkwTp9wlzZJv
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.fEgXJjiHz03J5wHR
   subType: classFeat
   tags:
     - Artifice Domain

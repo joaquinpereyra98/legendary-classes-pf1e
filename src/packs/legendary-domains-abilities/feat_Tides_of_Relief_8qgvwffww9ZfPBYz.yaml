@@ -1,0 +1,18 @@
+_id: 8qgvwffww9ZfPBYz
+_key: '!items!8qgvwffww9ZfPBYz'
+img: systems/pf1/icons/skills/ice_05.jpg
+name: Tides of Relief
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, so long as you are in contact with at least a gallon of
+      water outside of your own body, you gain fast healing equal to half your
+      cleric level. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Water Domain
+type: feat

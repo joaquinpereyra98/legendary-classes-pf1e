@@ -1,0 +1,18 @@
+_id: AzzEG1FcCv9WJEb9
+_key: '!items!AzzEG1FcCv9WJEb9'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Open to Eternity
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you become immune to mind-affecting effects, although
+      you may still allow mind-affecting effects to affect you if you so wish.
+      Any bonus granted from fortified mind increases by 2. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Void Domain
+type: feat

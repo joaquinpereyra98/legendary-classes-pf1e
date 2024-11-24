@@ -21,14 +21,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.mO0pMgYsKx98oiHg]{Legislation},
       @UUID[Compendium.pf1.class-abilities.Item.63vMiCfBi4PWsZQo]{Wards}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.msAoQEvxdLt3SXdc]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.9r6rDUcCtCnVIXar]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.AiNvGnrlszlhjzPq]</p>
-          <h3>Doctrine of Languages</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vQ3WRfYuYYGJH4Mb]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.qlyzhRdVOmAaS4Dw]</p>
-          <h3>Doctrine of Engravings</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.muuZaCPThvmqOxHM]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.AiNvGnrlszlhjzPq]</p><h3>Domain Spells</h3><ul><li>1st—erase</li><li>2nd—secret page</li><li>3rd—explosive runes</li><li>4th—mnemonic enhancer</li><li>5th—</li><li>6th—</li><li>7th—instant summons</li><li>8th—</li><li>9th—teleportation circle</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.msAoQEvxdLt3SXdc]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.9r6rDUcCtCnVIXar]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.AiNvGnrlszlhjzPq]</p>
+      <h3>Doctrine of Languages</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vQ3WRfYuYYGJH4Mb]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.qlyzhRdVOmAaS4Dw]</p>
+      <h3>Doctrine of Engravings</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.muuZaCPThvmqOxHM]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.AiNvGnrlszlhjzPq]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.qvpzcjm5lmtn389j]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.6klw6f8yrhu9z9mn]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.o4ywdvsm1oty8blq]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.kcfcpgou5foy19gw]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.cnfj79kxb1hz6kj9]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.7b04vuc86ivh51tr]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.o6vh3lrmi1hsdzmm]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.34jyuvdflia4goib]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.if867t28tu6zxaei]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.feats.Item.tlRu8SYjzA7WCHN7
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.msAoQEvxdLt3SXdc
   subType: classFeat
   tags:
     - Rune Domain

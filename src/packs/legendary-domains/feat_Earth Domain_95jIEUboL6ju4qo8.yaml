@@ -1,0 +1,45 @@
+_id: 95jIEUboL6ju4qo8
+_key: '!items!95jIEUboL6ju4qo8'
+img: systems/pf1/icons/skills/yellow_05.jpg
+name: Earth Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p><strong>Granted Powers:</strong> You have mastery over earth, metal,
+      and stone, can fire darts of acid, and command earth
+      creatures.</p><p><strong>Subdomains:</strong>
+      @UUID[Compendium.pf1.class-abilities.Item.cJ0PUlm41aroXQa8]{Caves},
+      @UUID[Compendium.pf1.class-abilities.Item.hFHJ4B9hwrGll8o4]{Metal},
+      @UUID[Compendium.pf1.class-abilities.Item.p9yDKj9mQz1bBiJp]{Petrification},
+      @UUID[Compendium.pf1.class-abilities.Item.LwwjHf6ORZKi0tTa]{Radiation}</p>
+      Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.x5pk4An6ZX5hiocJ]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Fa7nYT4BVg34LX97]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.0cJzt1Q2zs1gL56t]</p>
+      <h3>Doctrine of Roots</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.3I0nFgHJWXQXRTi3]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UXC8Pb7EWXfwJwNt]</p>
+      <h3>Doctrine of Stone</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.2Vdxff3ZbOZeipbA]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.1erTjv1FKXBRS5y5]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.3v1k7qnzd13s5dj3]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.gqtg9ruv8kkd0knf]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.gfpijdqnckv9i34s]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.knyako6zopc1chrv]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.y2byo50vj2hrltl4]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.ukuyfbufbglbzfco]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.8nnswcde15poheci]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.oeemcnfjod9zd7my]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.o8jhvddxgunzx94i]</li></ul>
+  links:
+    supplements:
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.x5pk4An6ZX5hiocJ
+  subType: classFeat
+  tags:
+    - Destruction Domain
+    - Legendary Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: Fsp3OOnMLUO63hIy
+_key: '!items!Fsp3OOnMLUO63hIy'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Destructive Aura
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As a standard action you can spend 1 point of faith to emit a 30-foot
+      aura of destruction for a number of rounds equal to your cleric level. All
+      attacks made against targets in this aura (including you) gain a sacred
+      bonus on damage equal to ½ your cleric level and all critical threats are
+      automatically confirmed. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

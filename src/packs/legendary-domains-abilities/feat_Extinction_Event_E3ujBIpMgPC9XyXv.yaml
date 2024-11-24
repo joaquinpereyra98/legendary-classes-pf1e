@@ -1,0 +1,19 @@
+_id: E3ujBIpMgPC9XyXv
+_key: '!items!E3ujBIpMgPC9XyXv'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Extinction Event
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you may spend 3 faith points when using your explosive
+      strike to forgo the damage from the ability, turning the explosive energy
+      into pure negative energy. All creatures in the burst except for you must
+      make a Fortitude save or instantly die. This is a death effect. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

@@ -18,17 +18,26 @@ system:
       <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IkvzvAnQWqmX26CW]</p>
       <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Vcr18FaHsAOmeiAV]</p>
       <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.f1HMr84HyzvXmoTS]</p>
-      <h3>Domain
-      Spells</h3><ul><li>1st—@UUID[Compendium.pf1.spells.Item.68m9du7zw2di7ew6]{Feather Fall}</li><li>2nd—@UUID[Compendium.pf1.spells.Item.cnuin981hdq7ryit]{Gust of Wind}</li><li>3rd—@UUID[Compendium.pf1.spells.Item.fe8jy0h1l3su2322]{Cloak of Winds}</li><li>4th—@UUID[Compendium.pf1.spells.Item.4gxx3bodf76e63en]{River of Wind}</li><li>5th—@UUID[Compendium.pf1.spells.Item.g9koefk7x9szoheo]{Control Winds}</li><li>6th—@UUID[Compendium.pf1.spells.Item.nk37t5em8q4v1djs]{Sirocco}</li><li>7th—@UUID[Compendium.pf1.spells.Item.m6nj8x0gd1cugw6g]{Fly, Mass}</li><li>8th— @UUID[Compendium.pf1.spells.Item.i9greyz3c0ap32vi]{Whirlwind}</li><li>9th— @UUID[Compendium.pf1.spells.Item.6yeorbvt5ysym3nh]{Suffocation, Mass}</li></ul>
       <h3>Doctrine of Sky</h3>
       @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.T2DCoTvdlDTPfwc6]
       @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.xxPEElBN5AJYUbhZ]
       <h3>Doctrine of Storm</h3>
       @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.F4A4mIEKO7E0LIB3]
       @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.RmZH5daHO9S9rIWi]
+      <h3>Domain
+      Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.68m9du7zw2di7ew6]{Feather Fall}</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.cnuin981hdq7ryit]{Gust of Wind}</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.fe8jy0h1l3su2322]{Cloak of Winds}</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.4gxx3bodf76e63en]{River of Wind}</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.g9koefk7x9szoheo]{Control Winds}</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.nk37t5em8q4v1djs]{Sirocco}</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.m6nj8x0gd1cugw6g]{Fly, Mass}</li>
+      <li>8th— @UUID[Compendium.pf1.spells.Item.i9greyz3c0ap32vi]{Whirlwind}</li>
+      <li>9th— @UUID[Compendium.pf1.spells.Item.6yeorbvt5ysym3nh]{Suffocation, Mass}</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.o8rxNsQ7P7Yjlvvu
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IkvzvAnQWqmX26CW
   subType: classFeat
   classSkills: 
     - fly: true

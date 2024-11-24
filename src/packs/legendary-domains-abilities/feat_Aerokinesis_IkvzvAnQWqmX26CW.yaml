@@ -1,0 +1,21 @@
+_id: IkvzvAnQWqmX26CW
+_key: '!items!IkvzvAnQWqmX26CW'
+img: systems/pf1/icons/spells/air-burst-sky-1.jpg
+name: Aerokinesis
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p>You gain the air blast wild talent and the kinetic blast class feature,
+      treating half your cleric level as your kineticist level (minimum 1) and
+      your Wisdom modifier as your Constitution modifier. You also gain the
+      basic aerokinesis utility wild talent. You can spend 1 point of faith as a
+      free action to treat your cleric level as your kineticist level for one
+      round instead.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Air Domain
+type: feat

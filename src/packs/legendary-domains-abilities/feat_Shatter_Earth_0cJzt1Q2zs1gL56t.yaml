@@ -1,0 +1,19 @@
+_id: 0cJzt1Q2zs1gL56t
+_key: '!items!0cJzt1Q2zs1gL56t'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Shatter Earth
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level as a swift action, you can spend 1 point of faith to turn
+      a 10 foot square of dirt or stone within 50 feet of you into difficult
+      terrain. You can instead use this ability to turn a 10 foot square of
+      difficult terrain into normal terrain if it is made of dirt or stone. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

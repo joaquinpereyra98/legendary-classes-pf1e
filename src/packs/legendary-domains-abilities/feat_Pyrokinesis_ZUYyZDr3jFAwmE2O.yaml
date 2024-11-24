@@ -1,0 +1,21 @@
+_id: ZUYyZDr3jFAwmE2O
+_key: '!items!ZUYyZDr3jFAwmE2O'
+img: systems/pf1/icons/skills/fire_10.jpg
+name: Pyrokinesis
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain the fire blast wild talentOA and the kinetic blast class
+      feature, treating half your cleric level as your kineticist level (minimum
+      1) and your Wisdom modifier as your Constitution modifier. You also gain
+      the basic pyrokinesis utility wild talent. You can spend 1 point of faith
+      as a free action to treat your cleric level as your kineticist level for
+      one round instead. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Fire Domain
+type: feat

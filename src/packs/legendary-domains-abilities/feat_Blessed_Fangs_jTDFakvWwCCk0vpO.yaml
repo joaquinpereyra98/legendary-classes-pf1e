@@ -1,0 +1,21 @@
+_id: jTDFakvWwCCk0vpO
+_key: '!items!jTDFakvWwCCk0vpO'
+img: systems/pf1/icons/skills/blue_26.jpg
+name: Blessed Fangs
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your natural attacks from call of the wild are infused with the power
+      of your faith. If you chose a bite, you gain your choice of the trip or
+      grab ability on your bite. If you chose a gore, you gain the powerful
+      charge ability, dealing 2d8 + double your Strength modifier. If you chose
+      claws, your claws gain an 18-20 critical range. These effects apply while
+      in wild shape as well, but only to the selected natural attack. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - 'Animal Domain'
+type: feat

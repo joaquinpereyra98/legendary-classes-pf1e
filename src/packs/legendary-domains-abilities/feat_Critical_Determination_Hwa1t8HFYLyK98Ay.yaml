@@ -1,0 +1,18 @@
+_id: Hwa1t8HFYLyK98Ay
+_key: '!items!Hwa1t8HFYLyK98Ay'
+img: systems/pf1/icons/skills/weapon_02.jpg
+name: Critical Determination
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> At 16th level, you gain a single critical feat as a bonus feat.
+      Whenever you threaten a critical hit, you may spend a faith point to
+      automatically confirm the critical hit. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - War Domain
+type: feat

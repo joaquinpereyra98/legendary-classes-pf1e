@@ -1,0 +1,21 @@
+_id: C1xB7w1IFxrJjcp6
+_key: '!items!C1xB7w1IFxrJjcp6'
+img: systems/pf1/icons/items/inventory/dice.jpg
+name: Lucky Surge
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level, you can spend 1 point of faith as an immediate
+      action to double the bonuses granted by your aura of luck for one round.
+      You can use this ability after an ally fails an attack roll or saving
+      throw, potentially changing the results of that check. After this ability
+      ends, your aura of luck ends, and you cannot use it again for one minute.
+      This does not stack with other abilities which double luck bonuses. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Luck Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: bbUwqgG3A0VwppCg
+_key: '!items!bbUwqgG3A0VwppCg'
+img: systems/pf1/icons/skills/red_26.jpg
+name: Inspiring Command
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As a standard action, you can spend 1 point of faith to issue an
+      inspiring command to your allies within 30 feet. Affected allies gain a +2
+      sacred bonus on attack rolls, AC, combat maneuver defense, saving throws
+      and skill checks for 1 round. This is a language-dependent mind-affecting
+      effect. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Nobility Domain
+type: feat

@@ -1,0 +1,17 @@
+_id: uGHWivrfdBORr40k
+_key: '!items!uGHWivrfdBORr40k'
+img: systems/pf1/icons/skills/ice_05.jpg
+name: Seatouched
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, you gain a swim speed equal to your base land speed and
+      can breathe underwater as well as on land. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Water Domain
+type: feat

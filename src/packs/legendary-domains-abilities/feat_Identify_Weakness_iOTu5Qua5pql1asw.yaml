@@ -1,0 +1,20 @@
+_id: iOTu5Qua5pql1asw
+_key: '!items!iOTu5Qua5pql1asw'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: Identify Weakness
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 4th level, when you successfully identify a creature you
+      can spend 1 point of faith as a swift action to grant allies who can hear
+      you a +1 sacred bonus on attack and damage rolls against creatures of that
+      type for one minute. These bonuses increase by 1 for every 4 levels you
+      possess beyond 4th level. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Knowledge Domain
+type: feat

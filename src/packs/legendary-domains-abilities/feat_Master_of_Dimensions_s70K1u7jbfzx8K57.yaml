@@ -1,0 +1,19 @@
+_id: s70K1u7jbfzx8K57
+_key: '!items!s70K1u7jbfzx8K57'
+img: systems/pf1/icons/spells/wind-grasp-air-1.jpg
+name: Master of Dimensions
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you do not expend distance for using dimensional hop to
+      teleport less than 60 feet. In addition, you may spend 20 feet of movement
+      from dimensional hop to transport a willing creature between planes (as
+      per plane shift) instead of teleporting it. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Travel Domain
+type: feat

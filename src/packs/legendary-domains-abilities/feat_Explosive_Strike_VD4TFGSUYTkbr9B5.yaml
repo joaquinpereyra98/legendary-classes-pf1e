@@ -1,0 +1,20 @@
+_id: VD4TFGSUYTkbr9B5
+_key: '!items!VD4TFGSUYTkbr9B5'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Explosive Strike
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 4th level when you successfully make a melee attack, you
+      can spend 1 point of faith as a swift action to create an explosion. This
+      deals force damage equal to 1d8 + your Wisdom modifier to all creatures
+      (including yourself ) in a 10-foot radius. This damage increases by 1d8 at
+      4th level and every 3 levels thereafter. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

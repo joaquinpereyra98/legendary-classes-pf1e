@@ -1,0 +1,19 @@
+_id: Mt4FJwPdZROSJbxc
+_key: '!items!Mt4FJwPdZROSJbxc'
+img: systems/pf1/icons/skills/green_20.jpg
+name: Amazing Herbs
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Whenever you use natural medicine, you can attempt to dispel a curse,
+      disease, or other long term effect as though using dispel magic, remove
+      disease or neutralize poison, treating your cleric level as your caster
+      level. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Plant Domain
+type: feat

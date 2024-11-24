@@ -1,0 +1,19 @@
+_id: Lu1nwo33zrDTsINV
+_key: '!items!Lu1nwo33zrDTsINV'
+img: systems/pf1/icons/skills/weapon_02.jpg
+name: Martial Mastery
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> You gain either Armor Training or Weapon Training as a fighter of your
+      cleric level, whichever option you did not select with martial aptitude.
+      In addition, you gain a single Advanced Armor Training or Advanced Weapon
+      Training of your choice. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - War Domain
+type: feat

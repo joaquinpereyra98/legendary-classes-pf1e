@@ -1,0 +1,19 @@
+_id: LGkICngBvCRkJ9Qc
+_key: '!items!LGkICngBvCRkJ9Qc'
+img: systems/pf1/icons/skills/weapon_02.jpg
+name: Warrior-Disciple
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> You are proficient with all martial weapons and treat your base attack
+      bonus from your cleric level as equal to your cleric level for the purpose
+      of meeting prerequisites. In addition, your levels in cleric count as
+      levels in fighter for the purpose of meeting prerequisites. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - War Domain
+type: feat

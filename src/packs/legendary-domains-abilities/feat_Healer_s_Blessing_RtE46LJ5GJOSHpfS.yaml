@@ -1,0 +1,19 @@
+_id: RtE46LJ5GJOSHpfS
+_key: '!items!RtE46LJ5GJOSHpfS'
+img: systems/pf1/icons/spells/light-blue-2.jpg
+name: Healer’s Blessing
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, all of your spells with the healing subdomain are
+      treated as if they were empowered, increasing the amount by half (+50%).
+      This does not apply to damage dealt to undead with such a spell. This does
+      not stack with the Empower Spell metamagic feat. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Healing Domain
+type: feat

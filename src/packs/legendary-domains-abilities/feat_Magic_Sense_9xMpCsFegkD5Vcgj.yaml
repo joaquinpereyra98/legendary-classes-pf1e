@@ -1,0 +1,19 @@
+_id: 9xMpCsFegkD5Vcgj
+_key: '!items!9xMpCsFegkD5Vcgj'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Magic Sense
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> You constantly benefit from detect magic. You can exclude the presence
+      of magical auras you already know the presence and location of, such as
+      your allies’ magic items. At 10th level, this effect becomes arcane sight
+      instead. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Magic Domain
+type: feat

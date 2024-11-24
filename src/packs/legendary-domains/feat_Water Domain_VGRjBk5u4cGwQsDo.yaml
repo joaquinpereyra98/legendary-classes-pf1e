@@ -17,14 +17,27 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.uFSLnLZkYJycxB6b]{Oceans},
       @UUID[Compendium.pf1.class-abilities.Item.9L6D7WcLuGX58Wc6]{Rivers}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.hd2PQTuRhSOpMdAX]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.uGHWivrfdBORr40k]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.q1i9zEgYYo1FWPih]</p>
-          <h3>Doctrine of Soothing</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.r5kojY88aBVgJOiS]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.8qgvwffww9ZfPBYz]</p>
-          <h3>Doctrine of Surges</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.pdA1ZhoFBoGLs7Dj]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IqQuGtYlHHddi7Ip]</p><h3>Domain Spells</h3><ul><li>1st—hydraulic push</li><li>2nd—slipstream</li><li>3rd—hydraulic torrent</li><li>4th—aqueous orb</li><li>5th—geyser</li><li>7th—vortex</li><li>8th—seamantle</li><li>9th—tsunami</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.hd2PQTuRhSOpMdAX]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.uGHWivrfdBORr40k]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.q1i9zEgYYo1FWPih]</p>
+      <h3>Doctrine of Soothing</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.r5kojY88aBVgJOiS]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.8qgvwffww9ZfPBYz]</p>
+      <h3>Doctrine of Surges</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.pdA1ZhoFBoGLs7Dj]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IqQuGtYlHHddi7Ip]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.ohy0ty2dawfaaqwd]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.7fvsn0gbv6ynlp63]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.478jgozgfbt20u0q]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.a4z9yazsd7ez1p0h]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.nll8ip8348eti0ff]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.tpid8izzs2rrfxv3]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.o4rwtizvdj7216qd]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.ltda70etgwje43x6]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.ructcpEg6rejcpYQ
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.hd2PQTuRhSOpMdAX
   subType: classFeat
   tags:
     - Water Domain

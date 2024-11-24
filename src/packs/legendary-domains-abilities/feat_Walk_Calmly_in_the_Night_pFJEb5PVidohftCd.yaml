@@ -1,0 +1,19 @@
+_id: pFJEb5PVidohftCd
+_key: '!items!pFJEb5PVidohftCd'
+img: systems/pf1/icons/spells/horror-eerie-1.jpg
+name: Walk Calmly in the Night
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You constantly benefit from the see in darkness universal monster
+      ability. While benefitting from your night vision ability, your allies
+      gain a +2 sacred bonus on saving throws whenever they are in darkness.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Darkness Domain
+type: feat

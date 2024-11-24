@@ -1,0 +1,24 @@
+_id: G6V659urkTU4Ojvc
+_key: '!items!G6V659urkTU4Ojvc'
+img: systems/pf1/icons/spells/horror-eerie-1.jpg
+name: Nyctophobia
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You can spend 1 point of faith when casting a spell that creates
+      darkness. If you do, it gains the [fear] descriptor. While in an area of
+      magical darkness created by a spell cast this way, all creatures without
+      darkvision must make a Will save against the DC of the spell or become
+      shaken for as long as they are in the darkness. If they were already
+      shaken or would become shaken from any other source while suffering this
+      effect, they become frightened instead. In addition, you treat the level
+      of any darkness spell as one spell level higher when determining its
+      interaction with spells that create light. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Darkness Domain
+type: feat

@@ -1,0 +1,17 @@
+_id: bsyPDLELL8kSphaQ
+_key: '!items!bsyPDLELL8kSphaQ'
+img: systems/pf1/icons/skills/light_07.jpg
+name: Loving Kindness
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> A PC or helpful NPC benefiting from your inspiring kindness also gains
+      half its sacred bonus to attack rolls for the spell’s duration. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Charm Domain
+type: feat

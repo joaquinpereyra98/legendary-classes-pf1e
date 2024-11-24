@@ -12,14 +12,28 @@ system:
       and your healing magic is particularly vital and
       potent.</p><p><strong>Subdomains:</strong> Medicine, Restoration,
       Resurrection</p><h3>Domain Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.V1pr4LgVkwGObrAq]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.OzZDTwhdkguCtCYq]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.RtE46LJ5GJOSHpfS]</p>
-          <h3>Doctrine of Restoration</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KmwMsN4JUBdS2Wka]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.yq4IIrNqKBAfFNqS]</p>
-          <h3>Doctrine of Recovery</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EIsnw57XEAPsk04P]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.6D0f9d0QyeBE2AHS]</p><h3>Domain Spells</h3><ul><li>1st—cure light wounds</li><li>2nd—lesser restoration</li><li>3rd—remove disease</li><li>4th—restoration</li><li>5th—breath of life</li><li>6th—heal</li><li>7th—greater restoration</li><li>8th—mass cure critical wounds</li><li>9th—mass heal</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.V1pr4LgVkwGObrAq]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.OzZDTwhdkguCtCYq]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.RtE46LJ5GJOSHpfS]</p>
+      <h3>Doctrine of Restoration</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KmwMsN4JUBdS2Wka]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.yq4IIrNqKBAfFNqS]</p>
+      <h3>Doctrine of Recovery</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EIsnw57XEAPsk04P]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.6D0f9d0QyeBE2AHS]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.xoc3vhg3btmfjauq]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.fxz69pwpqt9b6uss]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.ocbjt6z7amc3yn8w]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.anya5qwdjhdfyk8u]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.qiiis9ekgy3syu7j]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.4re1j2w8wkvsvnsi]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.igmb8lisqcnsxd2d]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.6346rs0f4sra9gt4]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.klcvk9ct1l7mhjwp]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.8iWGEKKdoKTHsDy5
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.V1pr4LgVkwGObrAq
   subType: classFeat
   tags:
     - Healing Domain

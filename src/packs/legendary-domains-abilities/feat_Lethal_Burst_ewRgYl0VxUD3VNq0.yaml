@@ -1,0 +1,20 @@
+_id: ewRgYl0VxUD3VNq0
+_key: '!items!ewRgYl0VxUD3VNq0'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Lethal Burst
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The damage dice of your explosive strike increase to d10s. When you
+      use your explosive strike, all creatures damaged by it must make a
+      Fortitude save or gain a negative level. Regardless of their saving throw,
+      the target of your attack takes an additional negative level on top of
+      this. This is a death effect. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: yEqRUR2u4BLhBDyb
+_key: '!items!yEqRUR2u4BLhBDyb'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: I Read About It In…
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> Starting at 16th level, the breadth of your research and information
+      becomes staggering. When presented with a Knowledge check, you can spend 1
+      minute going through your own notes, rereading the books you carry with
+      you, or searching through your memory to take 20 on the check without
+      expending a use of your lore master ability. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Knowledge Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: IqQuGtYlHHddi7Ip
+_key: '!items!IqQuGtYlHHddi7Ip'
+img: systems/pf1/icons/skills/ice_05.jpg
+name: Incarnate Storm
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you gain a +10 bonus to any CMB checks made as part of
+      a kinetic blast or spell with the water descriptor and may increase the
+      Swim DC to move through any water effect you create by 10. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Water Domain
+type: feat

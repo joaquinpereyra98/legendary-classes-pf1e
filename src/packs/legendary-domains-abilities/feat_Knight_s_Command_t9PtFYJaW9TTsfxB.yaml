@@ -1,0 +1,19 @@
+_id: t9PtFYJaW9TTsfxB
+_key: '!items!t9PtFYJaW9TTsfxB'
+img: systems/pf1/icons/skills/red_26.jpg
+name: Knight’s Command
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level, your knightly presence inspires others to
+      break free of their shackles. Whenever you use your inspiring command, all
+      affected creatures gain a new save against all negative effects affecting
+      them. A creature can only benefit from this ability once per minute. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Nobility Domain
+type: feat

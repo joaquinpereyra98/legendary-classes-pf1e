@@ -1,0 +1,18 @@
+_id: oMbly1KFJKlxnS7S
+_key: '!items!oMbly1KFJKlxnS7S'
+img: systems/pf1/icons/spells/light-royal-3.jpg
+name: Luminous Relief
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, so long as you or your allies are within the area of
+      one of your light spells, they receive fast healing equal to the spell’s
+      level (minimum 0). </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Sun Domain
+type: feat

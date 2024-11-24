@@ -1,0 +1,19 @@
+_id: SSqvGy4rWnAzbBKl
+_key: '!items!SSqvGy4rWnAzbBKl'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: All-Consuming Expanse
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Whenever you use part the veil, you may affect a number of creatures
+      up to half your cleric level. In addition, rather than confused, you may
+      choose to have targets that fail their Will save become frightened for the
+      duration they would be confused or stunned for 1 round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Void Domain
+type: feat

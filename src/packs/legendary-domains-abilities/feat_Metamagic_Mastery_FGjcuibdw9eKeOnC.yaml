@@ -1,0 +1,20 @@
+_id: FGjcuibdw9eKeOnC
+_key: '!items!FGjcuibdw9eKeOnC'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Metamagic Mastery
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, your abilities with metamagic become second to none.
+      Whenever you cast a spell, you can increase the casting time by 1 step to
+      apply any metamagics you know as though you were a spontaneous caster.
+      When you do so you can spend faith to reduce the spell level adjustment
+      with your augment spells ability. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Magic Domain
+type: feat

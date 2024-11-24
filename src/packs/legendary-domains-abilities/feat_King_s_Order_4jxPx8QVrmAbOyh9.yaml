@@ -1,0 +1,19 @@
+_id: 4jxPx8QVrmAbOyh9
+_key: '!items!4jxPx8QVrmAbOyh9'
+img: systems/pf1/icons/skills/red_26.jpg
+name: King’s Order
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level your command is great enough to stir others to
+      action past their own limits. As a swift action, you can spend 1 point of
+      faith to command a willing target. The target can take any move action or
+      the attack action as an immediate action. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Nobility Domain
+type: feat

@@ -1,0 +1,21 @@
+_id: KugQwJ206z0UtfGc
+_key: '!items!KugQwJ206z0UtfGc'
+img: systems/pf1/icons/skills/affliction_05.jpg
+name: Peaceful Rest
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You become permanently under the effects of death ward. As a standard
+      action, you can spend 1 point of faith to extend this effect into an aura
+      affecting allies within 30 feet for a number of minutes equal to your
+      Wisdom modifier. A creature who dies under this effect does not rise as an
+      undead, even if an effect such as ghoul fever or create spawn would cause
+      them to. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Repose Domain
+type: feat

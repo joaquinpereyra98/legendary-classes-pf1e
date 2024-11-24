@@ -1,0 +1,22 @@
+_id: d9GU4prS1yUFvoaV
+_key: '!items!d9GU4prS1yUFvoaV'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Shed Body
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you may become incorporeal as a move action and remain
+      incorporeal as long as you wish. You may choose to have your equipment
+      become incorporeal with you. Unlike other incorporeal creatures, you do
+      not gain a deflection bonus to Armor Class from your Charisma modifier.
+      During this time, your body fades into an immaterial form that retains
+      your basic likeness. While incorporeal, you gain a fly speed equal to your
+      land speed (perfect maneuverability). </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Freedom Domain
+type: feat

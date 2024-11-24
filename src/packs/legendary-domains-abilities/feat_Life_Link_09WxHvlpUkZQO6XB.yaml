@@ -1,0 +1,19 @@
+_id: 09WxHvlpUkZQO6XB
+_key: '!items!09WxHvlpUkZQO6XB'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Life Link
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain the life link ability, as an oracle of your cleric level. You
+      can spend 1 point of faith to cast a harmless spell on a creature you have
+      a life link to, increasing the range of the spell by 1 step (touch to
+      close, close to medium, medium to long). </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Life Domain
+type: feat

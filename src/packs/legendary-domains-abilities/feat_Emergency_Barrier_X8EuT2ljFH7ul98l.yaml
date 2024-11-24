@@ -1,0 +1,20 @@
+_id: X8EuT2ljFH7ul98l
+_key: '!items!X8EuT2ljFH7ul98l'
+img: systems/pf1/icons/skills/blue_18.jpg
+name: Emergency Barrier
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, you can quickly respond to your allies in danger. As an
+      immediate action when an ally would be hit by an attack, you can spend 1
+      point of faith to grant them a +2 sacred bonus to armor class and
+      temporary hp equal to your level + your Wisdom modifier for one round. If
+      the attack would miss their new armor class, it is negated. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Protection Domain
+type: feat

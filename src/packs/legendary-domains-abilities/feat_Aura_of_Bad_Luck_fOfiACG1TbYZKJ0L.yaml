@@ -1,0 +1,18 @@
+_id: fOfiACG1TbYZKJ0L
+_key: '!items!fOfiACG1TbYZKJ0L'
+img: systems/pf1/icons/items/inventory/dice.jpg
+name: Aura of Bad Luck
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, your aura of luck applies a penalty to the attack rolls
+      and saving throws of enemies in the area. This penalty is equal the bonus
+      granted to allies. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Luck Domain
+type: feat

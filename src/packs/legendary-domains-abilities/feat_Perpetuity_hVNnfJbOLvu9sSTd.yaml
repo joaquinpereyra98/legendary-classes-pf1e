@@ -1,0 +1,17 @@
+_id: hVNnfJbOLvu9sSTd
+_key: '!items!hVNnfJbOLvu9sSTd'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Perpetuity
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Whenever you cast a spell, you may spend a faith point to double its
+      duration as the Extend Spell feat. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Void Domain
+type: feat

@@ -1,0 +1,21 @@
+_id: KmwMsN4JUBdS2Wka
+_key: '!items!KmwMsN4JUBdS2Wka'
+img: systems/pf1/icons/spells/light-blue-2.jpg
+name: Restorative Channel
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you channel or cast a spell with the healing subdomain, you can
+      spend 2 points of faith to apply all 3rd and 6th level paladin mercies to
+      the targets of the effect, instead of just one. For each 3rd and 6th level
+      mercy you chose with merciful healer, you can choose a new mercy that you
+      meet the prerequisites for, and are treated as having all 3rd and 6th
+      level mercies for prerequisites. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Healing Domain
+type: feat

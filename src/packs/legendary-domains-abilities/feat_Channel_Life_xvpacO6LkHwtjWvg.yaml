@@ -1,0 +1,18 @@
+_id: xvpacO6LkHwtjWvg
+_key: '!items!xvpacO6LkHwtjWvg'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Channel Life
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When a creature fails a saving throw against a spell you cast, you can
+      spend 1 point of faith as a swift action to affect them with death’s touch
+      with no save for half damage. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Death Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: zg4Qk6RIAPz0yGTx
+_key: '!items!zg4Qk6RIAPz0yGTx'
+img: systems/pf1/icons/skills/blue_18.jpg
+name: Overzealous Healing
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, healing energy in excess of what you need can be
+      converted into a barrier to protect your allies. You can spend 1 point of
+      faith when casting a spell of the healing subdomain or channeling to heal;
+      any healing in excess of their maximum hp becomes temporary hp that lasts
+      for 1 hour. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Protection Domain
+type: feat

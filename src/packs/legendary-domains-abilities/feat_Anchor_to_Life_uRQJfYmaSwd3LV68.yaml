@@ -1,0 +1,20 @@
+_id: uRQJfYmaSwd3LV68
+_key: '!items!uRQJfYmaSwd3LV68'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Anchor to Life
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 4th level, allies within 30 feet of you add your Wisdom
+      score to their Constitution score for the purpose of determining when they
+      die of hit point damage or Constitution damage. Allies within this aura
+      also ignore an amount of ability score damage to each of their ability
+      scores equal to your Wisdom modifier. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Life Domain
+type: feat

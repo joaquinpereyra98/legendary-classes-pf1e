@@ -1,0 +1,23 @@
+_id: 3d1Wlv0yIUbuU18z
+_key: '!items!3d1Wlv0yIUbuU18z'
+img: systems/pf1/icons/skills/light_07.jpg
+name: Aura of Warmth
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you gain an aura that soothes allies and prevents
+      bloodshed. Allies within 30 feet of you roll twice and take the higher
+      result on saving throws against emotion effects. Enemies within 30 feet
+      must make a Will save with a DC equal to 10 + ½ your cleric level + your
+      Wisdom modifier or be affected by calm emotions. This effect lasts until
+      another creature takes a hostile action at them. Regardless of whether
+      they save, they cannot be affected by this ability again for 24 hours.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Charm Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: ksbS5jNChOsnAUTH
+_key: '!items!ksbS5jNChOsnAUTH'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: Divine Inspiration
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> After failing a Knowledge check, you can spend 1 point of faith to
+      reroll the check. You can continue spending faith to reroll until you
+      succeed. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Knowledge Domain
+type: feat

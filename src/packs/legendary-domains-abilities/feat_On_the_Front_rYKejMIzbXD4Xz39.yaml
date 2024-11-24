@@ -1,0 +1,19 @@
+_id: rYKejMIzbXD4Xz39
+_key: '!items!rYKejMIzbXD4Xz39'
+img: systems/pf1/icons/skills/red_26.jpg
+name: On the Front
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You join your comrades in the thick of battle, inspiring them with
+      your willingness to fight alongside them. On any turn in which you make a
+      melee attack against an enemy, you can use your inspiring command as a
+      swift action. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Nobility Domain
+type: feat

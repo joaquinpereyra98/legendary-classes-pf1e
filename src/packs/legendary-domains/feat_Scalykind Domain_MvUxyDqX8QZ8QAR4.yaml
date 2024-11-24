@@ -15,14 +15,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.Q29rN7LtWcTWgtuZ]{Saurian},
       @UUID[Compendium.pf1.class-abilities.Item.dkcWJ80XYWvnM1h7]{Venom}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.oB2PpOKiRihvOW9M]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UalygTY7IIpj05uq]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.uttPFE64vFxGDif3]</p>
-          <h3>Doctrine of Dragonkind</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.6u7ggMhbjon5YLFT]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.7JgVa76686M1UbA7]</p>
-          <h3>Doctrine of Serpentkind</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.pC1WxhMIRXlFV5Mw]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.gwXrCtQTtlU79cYy]</p><h3>Domain Spells</h3><ul><li>1st—magic fang</li><li>2nd—pernicious poison</li><li>3rd—draconic reservoir</li><li>4th—</li><li>5th—baleful polymorph</li><li>6th—</li><li>7th—</li><li>8th—</li><li>9th—shapechange</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.oB2PpOKiRihvOW9M]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UalygTY7IIpj05uq]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.uttPFE64vFxGDif3]</p>
+      <h3>Doctrine of Dragonkind</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.6u7ggMhbjon5YLFT]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.7JgVa76686M1UbA7]</p>
+      <h3>Doctrine of Serpentkind</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.pC1WxhMIRXlFV5Mw]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.gwXrCtQTtlU79cYy]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.cfzk3vkv1c7ncaug]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.6gbb0vdil1e8mhou]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.mjxpdh9jlmr92f1q]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.cdedzw5d9ui73ua7]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.t8ei2mrmqg7252vw]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.iqcjiyi9leldfzxt]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.5icj4nasrlgqojqm]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.6qpg42rj70oi4css]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.n3lp01euzcdmtbw5]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.vDsgDSlIerRm7ISE
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.oB2PpOKiRihvOW9M
   subType: classFeat
   tags:
     - Scalykind Domain

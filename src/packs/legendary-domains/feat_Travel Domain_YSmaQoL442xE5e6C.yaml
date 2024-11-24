@@ -21,14 +21,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.ER2tTsoeC0AWtRYn]{Portal},
       @UUID[Compendium.pf1.class-abilities.Item.q059IbvYqYLncBTM]{Trade}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.GNVWqpX9PpWyFM6q]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.LVh57mrMcj2osXcA]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IG5Nwmri3QtwvudY]</p>
-          <h3>Doctrine of Gateways</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.nI5xHwPKNeG4Rapn]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.s70K1u7jbfzx8K57]</p>
-          <h3>Doctrine of Roads</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.wviWJEsy2JhNl2XA]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.QN6V9sLSsSPtsR3q]</p><h3>Domain Spells</h3><ul><li>1st—longstrider</li><li>2nd—knock</li><li>3rd—haste</li><li>4th—</li><li>5th—teleport</li><li>6th—getaway</li><li>7th—greater teleport</li><li>8th—phase door</li><li>9th—</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.GNVWqpX9PpWyFM6q]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.LVh57mrMcj2osXcA]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IG5Nwmri3QtwvudY]</p>
+      <h3>Doctrine of Gateways</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.nI5xHwPKNeG4Rapn]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.s70K1u7jbfzx8K57]</p>
+      <h3>Doctrine of Roads</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.wviWJEsy2JhNl2XA]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.QN6V9sLSsSPtsR3q]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.hosf489xyoexmp57]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.2o9tacbz7tbrlhvv]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.s9amdo5398alb5p0]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.ojwg1ki98tq8xyh9]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.ptqu8gtrujxsvwy1]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.q5432hyeds4pncxn]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.5cdmojmydhwowzy1]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.nq4txj4d0dtzscu2]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.4qriqew7d2ot7wr5]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.Rjh7zvCZr2BEgioo
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.GNVWqpX9PpWyFM6q
   subType: classFeat
   tags:
     - Travel Domain

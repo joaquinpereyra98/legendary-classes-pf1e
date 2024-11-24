@@ -1,0 +1,20 @@
+_id: exRYw6u8ZFur0agt
+_key: '!items!exRYw6u8ZFur0agt'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Spell Turn
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you become so adept at controlling enemy magic, you can
+      turn it back on them. When you successfully counterspell, you may spend 1
+      additional point of faith to instead redirect the spell. If the spell
+      targets specific creatures, it only affects the original caster, and if it
+      affects an area it is centered on the caster’s square. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Magic Domain
+type: feat

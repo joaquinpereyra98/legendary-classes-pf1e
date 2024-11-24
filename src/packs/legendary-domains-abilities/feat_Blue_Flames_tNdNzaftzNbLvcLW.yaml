@@ -1,0 +1,20 @@
+_id: tNdNzaftzNbLvcLW
+_key: '!items!tNdNzaftzNbLvcLW'
+img: systems/pf1/icons/skills/fire_10.jpg
+name: Blue Flames
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 8th level, whenever you cast a spell that deals fire
+      damage or use your fire blast, you can spend 1 point of faith as a swift
+      action to treat the fire resistance of any affected creature as 10 lower.
+      If an affected creature is immune to fire, they are instead treated as
+      though they had fire resistance 30. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Fire Domain
+type: feat

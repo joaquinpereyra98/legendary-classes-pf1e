@@ -1,0 +1,23 @@
+_id: oB2PpOKiRihvOW9M
+_key: '!items!oB2PpOKiRihvOW9M'
+img: systems/pf1/icons/skills/blue_17.jpg
+name: Leather Skin
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your skin doesn’t bear the scales of your venerated creatures but is
+      naturally tougher than most. You gain a +1 natural armor bonus to your
+      armor class. This bonus increases by +1 at 5th level and every 4 levels
+      thereafter, to a maximum of +5 at 17th level. As an immediate action you
+      can spend 1 point of faith to double this bonus for 1 round, your skin
+      turning to a facsimile of real scales. If the bonus is already doubled,
+      you may spend a faith point as a free action to extend the duration for an
+      additional round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Scalykind Domain
+type: feat

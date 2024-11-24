@@ -1,0 +1,20 @@
+_id: krYayidprcK86uur
+_key: '!items!krYayidprcK86uur'
+img: systems/pf1/icons/skills/weapon_02.jpg
+name: Coordination
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, you gain a single teamwork feat as a bonus feat.
+      Whenever you cast a spell on a willing target, you may grant one of them a
+      single teamwork feat that you possess for one minute. If you spend a faith
+      point, you may grant the teamwork feat to all willing creatures affected
+      by the spell. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - War Domain
+type: feat

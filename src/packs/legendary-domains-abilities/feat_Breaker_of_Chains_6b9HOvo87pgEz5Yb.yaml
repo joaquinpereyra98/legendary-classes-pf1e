@@ -1,0 +1,20 @@
+_id: 6b9HOvo87pgEz5Yb
+_key: '!items!6b9HOvo87pgEz5Yb'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Breaker of Chains
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> By spending a faith point as an immediate action, you may grant an
+      ally within 30 feet a sacred bonus to Acrobatics checks, Escape Artist
+      checks, CMD, and saving throws against effects which would restrict their
+      movement for 1 round. This bonus is equal to half your cleric level
+      (minimum 2). </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Freedom Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: EIsnw57XEAPsk04P
+_key: '!items!EIsnw57XEAPsk04P'
+img: systems/pf1/icons/spells/light-blue-2.jpg
+name: Quickened Recovery
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you spontaneously cast a spell with the healing subtype from your
+      domains, you can spend 1 point of faith to reduce its casting time by one
+      step. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Healing Domain
+type: feat

@@ -1,0 +1,45 @@
+_id: IuBrOkedxyehTrjX
+_key: '!items!IuBrOkedxyehTrjX'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Freedom Domain (Legendary)
+system:
+  associations:
+    classes:
+      - Legendary Cleric
+  description:
+    value: >-
+      <p>
+        The domain of life is built on compassion, resilience, and the value of life. As a legendary cleric of the life domain, you may be a healer, a caregiver, or a protector in times of crisis. You may be a modest figure or an influential leader in your community, but in either case you are quite active in supporting those around you.
+      </p>
+      <h3>Domain Powers</h3>
+      <p>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.6b9HOvo87pgEz5Yb]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.0JGLavp68pDrtuBR]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.wjmNBBwhIXwN0g29]
+      </p>
+      <h3>Doctrine of Liberation</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.W97EfpGz1GjidxIH]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.hnv0mnKzDrYLyxKg]
+      <h3>Doctrine of Transcendence</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.IuBrOkedxyehTrjX]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.d9GU4prS1yUFvoaV]
+      <h3>Domain Spells</h3>
+      <ul>
+      <li>1st—@Compendium[pf1.spells.bdbg2jxc1t4tht7o]</li>
+      <li>2nd—@Compendium[pf1.spells.q2z1tw7ehj8684yw]</li>
+      <li>3rd—@Compendium[pf1.spells.mqdoexj35atgqafn]</li>
+      <li>4th—@Compendium[pf1.spells.fz6q0s2jzgwfdsa2]</li>
+      <li>5th—@Compendium[pf1.spells.myg2b9ww43nnlbr2]</li>
+      <li>6th—@Compendium[pf1.spells.q5432hyeds4pncxn]</li>
+      <li>7th—@Compendium[pf1.spells.btccs4sjo2nog1a0]</li>
+      <li>8th—@Compendium[pf1.spells.0kppkhsencd6tzvh]</li>
+      <li>9th—@Compendium[pf1.spells.kdzx88z16gs8l392]</li>
+      </ul>
+  links:
+    supplements:
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.09WxHvlpUkZQO6XB
+  subType: classFeat
+  tags:
+    - Freedom Domain
+    - Legendary Domain
+type: feat

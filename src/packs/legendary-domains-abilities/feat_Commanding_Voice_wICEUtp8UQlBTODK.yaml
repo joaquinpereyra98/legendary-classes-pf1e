@@ -1,0 +1,18 @@
+_id: wICEUtp8UQlBTODK
+_key: '!items!wICEUtp8UQlBTODK'
+img: systems/pf1/icons/skills/red_26.jpg
+name: Commanding Voice
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your voice itself becomes layered with power. Whenever you cast a
+      spell that has a verbal component, you can spend 2 points of faith to use
+      your inspiring command as a free action. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Nobility Domain
+type: feat

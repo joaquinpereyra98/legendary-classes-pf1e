@@ -1,0 +1,20 @@
+_id: Tw9OnacqZhxDEc9d
+_key: '!items!Tw9OnacqZhxDEc9d'
+img: systems/pf1/icons/skills/green_20.jpg
+name: Bloom
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, the plants you conjure all bloom with delicate flowers
+      that release a soothing scent. When you cast a plant domain spell, you can
+      spend 1 point of faith to infuse these flowers with healing energy. Allies
+      within the radius of the spell gain fast healing equal to your Wisdom
+      modifier for the duration of the spell. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Plant Domain
+type: feat

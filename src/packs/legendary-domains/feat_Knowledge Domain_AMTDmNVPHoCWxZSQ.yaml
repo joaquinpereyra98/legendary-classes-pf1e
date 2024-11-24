@@ -28,14 +28,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.52sdtdkBoRICEFaU]{Memory},
       @UUID[Compendium.pf1.class-abilities.Item.4eIRlzM1ODGr9aDq]{Thought}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UtZzueBV1Dj85rAN]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.iOTu5Qua5pql1asw]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Dtx3du1REKnQPO5K]</p>
-          <h3>Doctrine of the Scholar</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ksbS5jNChOsnAUTH]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.yEqRUR2u4BLhBDyb]</p>
-          <h3>Doctrine of the Teacher</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UOAcVumUc4x0oliL]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Vx7U8hYkacStNTX2]</p><h3>Domain Spells</h3><ul><li>1st—identify</li><li>2nd—bestow insight</li><li>3rd—</li><li>4th—scrying</li><li>5th—contact other plane</li><li>6th—</li><li>7th—vision</li><li>8th—moment of prescience</li><li>9th—foresight</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UtZzueBV1Dj85rAN]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.iOTu5Qua5pql1asw]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Dtx3du1REKnQPO5K]</p>
+      <h3>Doctrine of the Scholar</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ksbS5jNChOsnAUTH]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.yEqRUR2u4BLhBDyb]</p>
+      <h3>Doctrine of the Teacher</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UOAcVumUc4x0oliL]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Vx7U8hYkacStNTX2]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.llxrra87kbofmyhl]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.ftdyhjze9zqhk7oe]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.s7jujnadsgd9sroc]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.g66w32kdup1f43bp]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.68ngvzmzvadhf6vs]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.b5mz8voksps5g4yq]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.aqeaxoaozlv9vg35]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.2vb5orfcy57lrfmc]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.vl7yer8k1leyuxld]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.iv3eNHISB84mHLox
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UtZzueBV1Dj85rAN
   subType: classFeat
   tags:
     - Knowledge Domain

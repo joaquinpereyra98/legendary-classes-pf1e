@@ -1,0 +1,19 @@
+_id: mieNUUjy0429r2cM
+_key: '!items!mieNUUjy0429r2cM'
+img: systems/pf1/icons/skills/affliction_05.jpg
+name: Fearsome Channel
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you channel to harm undead, you can spend 1 point of faith.
+      Creatures who fail their save against this channel are also affected by
+      Turn Undead. You may affect living creatures with Turn Undead as if they
+      were undead. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Repose Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: pdA1ZhoFBoGLs7Dj
+_key: '!items!pdA1ZhoFBoGLs7Dj'
+img: systems/pf1/icons/skills/ice_05.jpg
+name: Crashing Tempest
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Whenever you create or manipulate water, you may spend a faith point
+      to have any creatures in the area of the water take 1d6 points of
+      bludgeoning or cold damage (your choice) per 2 cleric levels. A successful
+      fortitude save halves this damage. You are immune to damage from your own
+      uses of this ability. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Water Domain
+type: feat

@@ -1,0 +1,23 @@
+_id: YZiWs48io0rUJ49j
+_key: '!items!YZiWs48io0rUJ49j'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Death’s Touch
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As a standard action, you can spend 1 point of faith to draw on the
+      power of death and decay to remind others of their mortality. You deal
+      negative energy damage to a target within 30 feet equal to 1d6 + your
+      Wisdom modifier and make them shaken for one round. A Fortitude save
+      halves this damage and negates the shaken condition. At 4th level, and
+      every 3 levels thereafter this damage increases by 1d6. This effect
+      damages undead and creatures with negative energy affinity rather than
+      healing them. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Death Domain
+type: feat

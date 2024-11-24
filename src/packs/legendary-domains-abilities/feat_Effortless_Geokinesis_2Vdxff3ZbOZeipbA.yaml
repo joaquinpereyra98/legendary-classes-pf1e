@@ -1,0 +1,19 @@
+_id: 2Vdxff3ZbOZeipbA
+_key: '!items!2Vdxff3ZbOZeipbA'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Effortless Geokinesis
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You can use your basic geokinesis and stone wall abilities as a swift
+      action. In addition, as a swift action you can spend 1 point of faith to
+      dig deep pits. This functions as create pit, but deals no damage to
+      creatures in the area of the pit when you use this ability. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

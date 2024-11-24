@@ -1,0 +1,21 @@
+_id: ATBoyhAVZcBDr2Cs
+_key: '!items!ATBoyhAVZcBDr2Cs'
+img: systems/pf1/icons/skills/green_20.jpg
+name: Woodland Aura
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 8th level, you and allies within 30 feet of you can move
+      through any sort of natural undergrowth (such as thorns, briars, overgrown
+      areas, and similar terrain) at your normal speed and without taking damage
+      or suffering any other impairment. At a swift action, you can spend 1
+      point of faith to make this aura effect magically created or manipulated
+      undergrowth as well. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Plant Domain
+type: feat

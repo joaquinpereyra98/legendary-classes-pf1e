@@ -1,0 +1,22 @@
+_id: Uw38gCYwD58IPcvJ
+_key: '!items!Uw38gCYwD58IPcvJ'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Subtle Caster
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, you gain Conceal Spell and Improved Conceal Spell as
+      bonus feats even if you do not meet the prerequisites. You may use your
+      cleric level in place of your ranks in Bluff, Disguise, or Sleight of Hand
+      and your Wisdom modifier in place of your Charisma or Dexterity modifier
+      to set the DC of the Conceal Spell feat, and may spend a faith point as
+      part of using Conceal Spell to increase the DC by 5 for that particular
+      casting. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Void Domain
+type: feat

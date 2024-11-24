@@ -1,0 +1,17 @@
+_id: wjmNBBwhIXwN0g29
+_key: '!items!wjmNBBwhIXwN0g29'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Forever Unbound
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p>At 8th level, you constantly benefit from the freedom of movement
+      spell</p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Freedom Domain
+type: feat

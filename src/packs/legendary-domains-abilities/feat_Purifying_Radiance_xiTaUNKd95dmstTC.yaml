@@ -1,0 +1,17 @@
+_id: xiTaUNKd95dmstTC
+_key: '!items!xiTaUNKd95dmstTC'
+img: systems/pf1/icons/spells/light-royal-3.jpg
+name: Purifying Radiance
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Allies within the area of your light spells receive a +2 sacred bonus
+      to all saving throws. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Sun Domain
+type: feat

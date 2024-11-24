@@ -1,0 +1,20 @@
+_id: UtZzueBV1Dj85rAN
+_key: '!items!UtZzueBV1Dj85rAN'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: Divine Scholar
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> All Knowledge skills are class skills for you. You add your Wisdom
+      modifier in place of your Intelligence modifier to all Knowledge skills
+      and can roll Knowledge checks untrained. Before rolling a Knowledge check,
+      you can spend 1 point of faith to add a sacred bonus to the check equal to
+      ½ your cleric level. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Knowledge Domain
+type: feat

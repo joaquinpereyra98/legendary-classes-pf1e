@@ -1,0 +1,20 @@
+_id: UXC8Pb7EWXfwJwNt
+_key: '!items!UXC8Pb7EWXfwJwNt'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Roots of the World
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> All people are connected through the soil beneath their feet, and you
+      can see those connections with ease. At 16th level, while standing on
+      earth you can spend 5 points of faith to locate any creature you
+      personally know anywhere in the world, as locate creature. This has no
+      effect if the target is airborne. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

@@ -1,0 +1,21 @@
+_id: M92PgV6SiJShPV3E
+_key: '!items!M92PgV6SiJShPV3E'
+img: systems/pf1/icons/items/inventory/dice.jpg
+name: Aura of Luck
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As a standard action, you can spend 1 point of faith to exude an aura
+      of good luck. All allies within a 30’ radius gain a +1 luck bonus on
+      attack rolls and saving throws for one round. At 13th level and 18th level
+      this bonus increases by +1, to a maximum of +3. This aura can be
+      maintained each round as a free action, but costs 1 point of faith each
+      round. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Luck Domain
+type: feat

@@ -17,14 +17,28 @@ system:
       (Repose)},
       @UUID[Compendium.pf1.class-abilities.Item.GsblgyzYht907slf]{Souls}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.YcSQyRSqFq0hl4cQ]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.QoBlE9TPDPujkD78]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.null]</p>
-          <h3>Doctrine of the Grave</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.mieNUUjy0429r2cM]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.CCjsUjUmfD73y7fd]</p>
-          <h3>Doctrine of Rest</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KugQwJ206z0UtfGc]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.TN6C9GOTvaDb2JgL]</p><h3>Domain Spells</h3><ul><li>1st—whispering lore</li><li>2nd—magic mouth</li><li>3rd—</li><li>4th—</li><li>5th—secret chest</li><li>6th—</li><li>7th—sequester</li><li>8th—trap the soul</li><li>9th—imprisonment</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.YcSQyRSqFq0hl4cQ]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.QoBlE9TPDPujkD78]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.null]</p>
+      <h3>Doctrine of the Grave</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.mieNUUjy0429r2cM]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.CCjsUjUmfD73y7fd]</p>
+      <h3>Doctrine of Rest</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KugQwJ206z0UtfGc]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.TN6C9GOTvaDb2JgL]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.53xzqcqwd66x85bf]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.7vamkma4y88ek4q6]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.l8xwrepcmkdgb2wf]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.7vdlcav97p98hgy5]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.d6lfhyonb3ewpjt4]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.kf49g6yde78osa6b]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.c3qqu6l3vdcfaoh7]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.xmkvpl56appk20cl]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.esia6azb5g68tfs7]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.mS7LSsQQkjVvKx9z
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.YcSQyRSqFq0hl4cQ
   subType: classFeat
   tags:
     - Repose Domain

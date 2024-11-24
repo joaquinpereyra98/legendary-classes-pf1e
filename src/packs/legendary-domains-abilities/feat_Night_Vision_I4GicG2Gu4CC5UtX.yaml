@@ -1,0 +1,20 @@
+_id: I4GicG2Gu4CC5UtX
+_key: '!items!I4GicG2Gu4CC5UtX'
+img: systems/pf1/icons/spells/horror-eerie-1.jpg
+name: Night Vision
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain darkvision to a range of 60 feet. If you already have
+      darkvision, you instead increase its range by 60 feet. Darkvision gained
+      from this ability does not work in magical darkness except from your cloak
+      of shadows ability. As a swift action, you can spend a point of faith to
+      grant this ability to your allies within 30 feet for one minute. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Darkness Domain
+type: feat

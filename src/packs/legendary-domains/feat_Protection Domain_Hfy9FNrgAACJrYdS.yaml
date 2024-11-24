@@ -22,16 +22,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.2na2nqI5wxvd86kg]{Purity},
       @UUID[Compendium.pf1.class-abilities.Item.rUtu6rTWk3yMAsB0]{Solitude}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EXSB5hSeDp8wQPMi]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.zg4Qk6RIAPz0yGTx]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.X8EuT2ljFH7ul98l]</p>
-          <h3>
-        Doctrine of the Disciplinarian
-      </h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.uZE3al9sSQG9rxVH]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vQWfP5EtQBp88caS]</p>
-          <h3>Doctrine of the Guardian</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vv1t3ZzJkF4ffjUh]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.LHBdR13ZoETOLUHy]</p><h3>Domain Spells</h3><ul><li>1st—shield</li><li>2nd—barkskin</li><li>3rd—communal resist energy</li><li>4th—globe of invulnerability</li><li>5th—</li><li>6th—globe of invulnerability</li><li>7th—</li><li>8th—</li><li>9th—prismatic sphere</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EXSB5hSeDp8wQPMi]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.zg4Qk6RIAPz0yGTx]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.X8EuT2ljFH7ul98l]</p>
+      <h3>Doctrine of the Disciplinarian</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.uZE3al9sSQG9rxVH]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vQWfP5EtQBp88caS]</p>
+      <h3>Doctrine of the Guardian</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.vv1t3ZzJkF4ffjUh]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.LHBdR13ZoETOLUHy]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.sz7j540uypmqqvti]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.la7kuehewu85ybnt]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.ay8nnkkegcb1zfb0]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.exwa9xra4u82j0sx]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.ymn35wwseihya15d]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.w6ttezzz9rt4qnh7]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.oldkskjzzxe6383i]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.blvetbc929cfx4m8]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.lxxliyxfw9uvbxmt]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.Bw3GiobZvSJb8dGI
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EXSB5hSeDp8wQPMi
   subType: classFeat
   tags:
     - Protection Domain

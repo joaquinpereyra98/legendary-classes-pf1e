@@ -1,0 +1,21 @@
+_id: qGX8L7b5vxhEBqK2
+_key: '!items!qGX8L7b5vxhEBqK2'
+img: systems/pf1/icons/skills/green_20.jpg
+name: Phytokinesis
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> You gain the wood blast wild talent and the kinetic blast class
+      feature, treating half your cleric level as your kineticist level (minimum
+      1) and your Wisdom modifier as your Constitution modifier. You also gain
+      the basic phytokinesis utility wild talent. You can spend 1 point of faith
+      as a free action to treat your cleric level as your kineticist level for
+      one round instead. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Plant Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: T122QnqywpkYPEd7
+_key: '!items!T122QnqywpkYPEd7'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Divine Counterspell
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level you gain Improved Counterspell as a bonus feat. You may
+      spend 2 points of faith when counterspelling. If you do, you do not expend
+      the prepared spell used to counterspell. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Magic Domain
+type: feat

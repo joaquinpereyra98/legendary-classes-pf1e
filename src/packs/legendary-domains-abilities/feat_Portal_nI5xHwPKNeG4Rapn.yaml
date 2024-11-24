@@ -1,0 +1,22 @@
+_id: nI5xHwPKNeG4Rapn
+_key: '!items!nI5xHwPKNeG4Rapn'
+img: systems/pf1/icons/spells/wind-grasp-air-1.jpg
+name: Portal
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When using dimensional hop, you may spend a faith point to create two
+      5-foot diameter portals, one in the space you teleported from and one in
+      your current space. These portals persist until the end of your next turn,
+      and creatures of any size can step move through either, using 5 feet of
+      movement to exit from the other portal. At the end of your next turn, you
+      can spend an additional faith point as a free action to extend the
+      portals’ duration by 1 round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Travel Domain
+type: feat

@@ -1,0 +1,21 @@
+_id: AiNvGnrlszlhjzPq
+_key: '!items!AiNvGnrlszlhjzPq'
+img: systems/pf1/icons/spells/runes-blue-1.jpg
+name: Runic Warding
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, when you cast a spell that affects a specific area, you
+      can spend 1 point of faith and increase the casting time by 10 minutes to
+      engrave a rune scheme into the environment, making the duration permanent.
+      Spells cast in this way cannot be tied to a rune using your runestone
+      ability. The spell can be disabled by a Disable Device or Spellcraft check
+      with a DC equal to the spell’s DC + 10. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Rune Domain
+type: feat

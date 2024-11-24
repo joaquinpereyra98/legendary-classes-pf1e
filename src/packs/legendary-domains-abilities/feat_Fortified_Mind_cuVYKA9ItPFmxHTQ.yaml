@@ -1,0 +1,19 @@
+_id: cuVYKA9ItPFmxHTQ
+_key: '!items!cuVYKA9ItPFmxHTQ'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Fortified Mind
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, you and all allies within 10 feet of you gain a +2 bonus
+      on saving throws against mind-affecting effects. You may spend a faith
+      point as an immediate action to increase this bonus to half your cleric
+      level (minimum +3) for 1 round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Void Domain
+type: feat

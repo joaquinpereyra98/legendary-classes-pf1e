@@ -1,0 +1,19 @@
+_id: 1FVZORzumMIjheeO
+_key: '!items!1FVZORzumMIjheeO'
+img: systems/pf1/icons/feats/athletic.jpg
+name: Powerful Presence
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your muscular physique makes you more impressive to others, for better
+      or for worse. At 8th level, you can spend 1 point of faith when making a
+      Diplomacy or Intimidate check to add your Strength modifier to the check.
+      In addition, the DC to Intimidate you increases by 4. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Strength Domain
+type: feat

@@ -1,0 +1,21 @@
+_id: MKbB4CeHGPNPhNct
+_key: '!items!MKbB4CeHGPNPhNct'
+img: systems/pf1/icons/skills/green_20.jpg
+name: Entangling Roots
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Whenever you cast a plant domain spell or use wood blast, you may
+      spend a faith point to cause any affected creatures to become entangled
+      for a number of rounds equal to your Wisdom modifier. Any creature who
+      succeeds at their saving throw against the effect negates the entangled
+      condition, while creatures hit by your wood blast are allowed a Reflex
+      saving throw to negate this entanglement. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Plant Domain
+type: feat

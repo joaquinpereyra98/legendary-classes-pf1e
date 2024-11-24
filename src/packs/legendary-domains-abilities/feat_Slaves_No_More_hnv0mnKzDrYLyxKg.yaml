@@ -1,0 +1,18 @@
+_id: hnv0mnKzDrYLyxKg
+_key: '!items!hnv0mnKzDrYLyxKg'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Slaves No More
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, your freedom’s call aura is a constant effect and
+      extends out to 60 feet. All allies in the aura benefit from freedom of
+      movement. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Freedom Domain
+type: feat

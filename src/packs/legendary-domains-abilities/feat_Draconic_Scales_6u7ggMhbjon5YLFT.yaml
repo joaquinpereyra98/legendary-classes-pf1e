@@ -1,0 +1,24 @@
+_id: 6u7ggMhbjon5YLFT
+_key: '!items!6u7ggMhbjon5YLFT'
+img: systems/pf1/icons/skills/blue_17.jpg
+name: Draconic Scales
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You dedicate yourself to the power of dragons and are rewarded with
+      greater resilience. Choose one of the chromatic or metallic dragon types.
+      When you spend faith to double your natural armor bonus, your skin turns
+      the color of the dragon you chose, and you gain immunity to its associated
+      energy type for the duration of the effect (acid for black, green and
+      copper, cold for white and silver, electricity for blue and bronze, and
+      fire for red, brass and gold) and the duration of the benefit extends to 1
+      minute. In this state, you also grow wings and gain a fly speed with good
+      maneuverability equal to twice your land speed. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Scalykind Domain
+type: feat

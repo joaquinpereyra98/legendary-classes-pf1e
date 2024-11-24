@@ -1,0 +1,18 @@
+_id: W97EfpGz1GjidxIH
+_key: '!items!W97EfpGz1GjidxIH'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Beacon of Freedom
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you use breaker of chains, you may affect a number of targets up
+      to half your cleric level. In addition, the bonus from breaker of chains
+      also applies to saving throws against mind-affecting effects. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Freedom Domain
+type: feat

@@ -1,0 +1,21 @@
+_id: Vx7U8hYkacStNTX2
+_key: '!items!Vx7U8hYkacStNTX2'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: Communal Education
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The greatest teachers don’t simply tell others the answers but teach
+      them to find the answers themselves. At 16th level, when you successfully
+      roll a Knowledge check, you can spend 1 point of faith to allow all of
+      your allies to make the same check, even if they are untrained. For every
+      result which equals or exceeds 10, you gain a +2 bonus to your check. This
+      can increase the bonus from identify weakness as normal. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Knowledge Domain
+type: feat

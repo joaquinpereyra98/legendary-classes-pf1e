@@ -1,0 +1,19 @@
+_id: pC1WxhMIRXlFV5Mw
+_key: '!items!pC1WxhMIRXlFV5Mw'
+img: systems/pf1/icons/skills/blue_17.jpg
+name: Venomous Fangs
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your fangs become magically infused with venom. When you hit a
+      creature with your bite attack, you may spend 1 point of faith to add
+      poison to the attack. Bite – injury; save Fort; frequency 1/round for 6
+      rounds; effect 1d3 Con damage; cure 1 save. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Scalykind Domain
+type: feat

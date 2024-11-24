@@ -1,0 +1,17 @@
+_id: Dtx3du1REKnQPO5K
+_key: '!items!Dtx3du1REKnQPO5K'
+img: systems/pf1/icons/items/inventory/book-purple.jpg
+name: Lore Master
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p>At 8th level, you gain the lore master ability, as a bard of your
+      level.</p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Knowledge Domain
+type: feat

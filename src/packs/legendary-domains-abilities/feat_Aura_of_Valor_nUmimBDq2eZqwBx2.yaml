@@ -1,0 +1,20 @@
+_id: nUmimBDq2eZqwBx2
+_key: '!items!nUmimBDq2eZqwBx2'
+img: systems/pf1/icons/skills/red_26.jpg
+name: Aura of Valor
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, you gain an aura that inspires others. Allies within 30
+      feet of you gain a +2 morale bonus on saves against fear and compulsion
+      effects. You can spend 1 point of faith as a standard action to grant
+      immunity to those effects for 1 minute but allies already under such an
+      effect do not gain this immunity. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Nobility Domain
+type: feat

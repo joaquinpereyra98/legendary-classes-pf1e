@@ -1,0 +1,23 @@
+_id: EB62JKWWzNUlua9K
+_key: '!items!EB62JKWWzNUlua9K'
+img: systems/pf1/icons/skills/blue_26.jpg
+name: Animal Ally
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You become aware of all animals within a 100-foot radius of you at all
+      times. As a full round action, you can spend 3 points of faith to call a
+      nearby animal to aid you. This animal becomes an animal companion to you,
+      using your level as your druid level to determine their statistics but
+      gaining no feats for their hit dice. Available companions vary based on
+      your environment. The companion will only stay with you for the duration
+      of the task you have for it, although this task can be as open ended as
+      “accompany me through this dungeon.” </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - 'Animal Domain'
+type: feat

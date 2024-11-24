@@ -1,0 +1,19 @@
+_id: veShWdIjrQz9tVMm
+_key: '!items!veShWdIjrQz9tVMm'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Augment Spells
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, you gain a metamagic feat you qualify for as a bonus
+      feat. When you prepare spells each day, you can spend 1 point of faith for
+      each spell you modify with a metamagic feat to reduce the spell level
+      adjustment on that spell by 1. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Magic Domain
+type: feat

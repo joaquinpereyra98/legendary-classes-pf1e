@@ -1,0 +1,20 @@
+_id: LHBdR13ZoETOLUHy
+_key: '!items!LHBdR13ZoETOLUHy'
+img: systems/pf1/icons/skills/blue_18.jpg
+name: Emergency Force Field
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you use your emergency barrier ability, you can spend 1
+      additional point of faith to instead create a solid shield of energy
+      between your target and their attacker. This functions as wall of force,
+      but only affects one edge of a single 5-foot square and lasts until the
+      start of the target’s next turn. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Protection Domain
+type: feat

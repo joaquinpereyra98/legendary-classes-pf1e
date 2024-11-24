@@ -1,0 +1,18 @@
+_id: 1oAD14ikWDE3s5oR
+_key: '!items!1oAD14ikWDE3s5oR'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Magical Collapse
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When another creature is affected by a spell you cast, you can spend 1
+      point of faith as a free action to attempt to dispel a single spell on
+      them, as though by dispel magic. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Magic Domain
+type: feat

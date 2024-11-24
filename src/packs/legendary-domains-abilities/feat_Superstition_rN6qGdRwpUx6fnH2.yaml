@@ -1,0 +1,19 @@
+_id: rN6qGdRwpUx6fnH2
+_key: '!items!rN6qGdRwpUx6fnH2'
+img: systems/pf1/icons/items/inventory/dice.jpg
+name: Superstition
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level whenever you fail a saving throw or skill check, you can
+      spend 1 point of faith as a free action to affect your own luck with an
+      act, such as throwing salt over your shoulder or knocking on wood. Reroll
+      the failed check. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Luck Domain
+type: feat

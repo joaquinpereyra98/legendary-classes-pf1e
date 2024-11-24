@@ -1,0 +1,20 @@
+_id: nVw5b4ksAfy60E7X
+_key: '!items!nVw5b4ksAfy60E7X'
+img: systems/pf1/icons/skills/blue_26.jpg
+name: Call of the Wild
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you first gain this domain, choose from a 1d6 bite, a 1d6 gore,
+      or two 1d4 claws. As a swift action, you can spend 1 point of faith to
+      gain the natural attack(s) you chose for one minute per cleric level. You
+      can only gain them while in your natural form. In addition, you are
+      permanently under the effects of speak with animals. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - 'Animal Domain'
+type: feat

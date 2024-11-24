@@ -16,14 +16,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.ldjn3XcCkF7CqmNH]{Divine},
       @UUID[Compendium.pf1.class-abilities.Item.gOMQuX8vUnNclNXT]{Rites}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.9xMpCsFegkD5Vcgj]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.veShWdIjrQz9tVMm]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.T122QnqywpkYPEd7]</p>
-          <h3>Doctrine of Superiority</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.1oAD14ikWDE3s5oR]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.exRYw6u8ZFur0agt]</p>
-          <h3>Doctrine of Flexibility</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Y7UYzBGoXQf2JLit]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.FGjcuibdw9eKeOnC]</p><h3>Domain Spells</h3><ul><li>1st—magic aura</li><li>2nd—magic mouth</li><li>3rd—</li><li>4th—</li><li>5th—permanency</li><li>6th—</li><li>7th—spell turning</li><li>8th—</li><li>9th—</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.9xMpCsFegkD5Vcgj]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.veShWdIjrQz9tVMm]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.T122QnqywpkYPEd7]</p>
+      <h3>Doctrine of Superiority</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.1oAD14ikWDE3s5oR]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.exRYw6u8ZFur0agt]</p>
+      <h3>Doctrine of Flexibility</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Y7UYzBGoXQf2JLit]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.FGjcuibdw9eKeOnC]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.l01ajd0m4xgwq3fd]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.7vamkma4y88ek4q6]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.2dc7e9wby8qpi6m0]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.3anuql2qioluspuv]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.nsxngq65mbrzgwnm]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.f2awecndqcmhavq7]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.uyn64zazmaydnk7o]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.wyyqladj16hv7nny]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.19p4nr8rsvt42lmn]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.01m5lHnOP2E2FS5B
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.9xMpCsFegkD5Vcgj
   subType: classFeat
   tags:
     - Magic Domain

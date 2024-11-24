@@ -1,0 +1,19 @@
+_id: Y7UYzBGoXQf2JLit
+_key: '!items!Y7UYzBGoXQf2JLit'
+img: systems/pf1/icons/misc/magic-swirl.png
+name: Improved Augment Spells
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain an additional metamagic feat as a bonus feat. When you reduce
+      the spell level adjustment of a metamagic feat using augment spells you
+      can spend any number of points of faith to reduce the adjustment by the
+      same amount. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Magic Domain
+type: feat

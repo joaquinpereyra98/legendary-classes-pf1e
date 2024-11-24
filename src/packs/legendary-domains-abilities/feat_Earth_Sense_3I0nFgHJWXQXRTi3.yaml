@@ -1,0 +1,17 @@
+_id: 3I0nFgHJWXQXRTi3
+_key: '!items!3I0nFgHJWXQXRTi3'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Earth Sense
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain tremorsense to a range of 60 feet. This ability does not work
+      through ground that is not stone, metal, or other forms of earth. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

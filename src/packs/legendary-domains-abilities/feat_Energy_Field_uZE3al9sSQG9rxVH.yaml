@@ -1,0 +1,19 @@
+_id: uZE3al9sSQG9rxVH
+_key: '!items!uZE3al9sSQG9rxVH'
+img: systems/pf1/icons/skills/blue_18.jpg
+name: Energy Field
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you cast a spell that deals damage, you can spend 1 point of
+      faith to convert some of the energy of that spell into a barrier for your
+      allies. Reduce the damage of the spell by 20%, and grant allies within 30
+      feet of you temporary hp equal to the reduction. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Protection Domain
+type: feat

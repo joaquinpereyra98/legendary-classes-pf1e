@@ -1,0 +1,18 @@
+_id: s4t5OagwmJDf4Brb
+_key: '!items!s4t5OagwmJDf4Brb'
+img: systems/pf1/icons/items/inventory/dice.jpg
+name: Accident
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As a swift action, you can spend 1 point of faith to curse an enemy
+      with bad luck. That target must roll twice and take the worse result on
+      all d20 rolls for one round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Luck Domain
+type: feat

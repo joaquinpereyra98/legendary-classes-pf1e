@@ -1,0 +1,17 @@
+_id: a1AgzUQ8ph9P35a9
+_key: '!items!a1AgzUQ8ph9P35a9'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Deep-Seeded Treachery
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You become immune to any magical effect that would detect that you are
+      lying or would prevent you from lying (such as a zone of truth) </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Trickery Domain
+type: feat

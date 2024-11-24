@@ -16,20 +16,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.8aFTPx0YF8gKMOYN]{Rage},
       @UUID[Compendium.pf1.class-abilities.Item.AW8RWHDiMKhwglcQ]{Torture}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.m3o6CKQqmnAd2FBI]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.VD4TFGSUYTkbr9B5]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Fsp3OOnMLUO63hIy]</p>
-          <h3>Doctrine of Devastation</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.TmPZBC2z2kF783p2]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.zpfhvlseFcxDjXWe]</p>
-          <h3>Doctrine of Extermination</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ewRgYl0VxUD3VNq0]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.E3ujBIpMgPC9XyXv]</p>
-          <h3>Doctrine of Earth</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.x5pk4An6ZX5hiocJ]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Fa7nYT4BVg34LX97]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.0cJzt1Q2zs1gL56t]</p>
-          <h3>Doctrine of Roots</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.3I0nFgHJWXQXRTi3]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.UXC8Pb7EWXfwJwNt]</p>
-          <h3>Doctrine of Stone</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.2Vdxff3ZbOZeipbA]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.1erTjv1FKXBRS5y5]</p><h3>Domain Spells</h3><ul><li>1st—magic missile</li><li>2nd—</li><li>3rd—</li><li>4th—shout</li><li>5th—</li><li>6th—disintegrate</li><li>7th—</li><li>8th—greater shout</li><li>9th—world wave</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.m3o6CKQqmnAd2FBI]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.VD4TFGSUYTkbr9B5]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Fsp3OOnMLUO63hIy]</p>
+      <h3>Doctrine of Devastation</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.TmPZBC2z2kF783p2]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.zpfhvlseFcxDjXWe]</p>
+      <h3>Doctrine of Extermination</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ewRgYl0VxUD3VNq0]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.E3ujBIpMgPC9XyXv]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.49yc9dpr4kvgki2s]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.4yfd85igzmvu154c]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.lmst00dtapf4xhya]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.bacuzpculp9tld48]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.x6jifucvoih1b7sz]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.sxyiwj0z95piv96i]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.tl732ncb8487p4yh]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.5if5rln4qlsccrbn]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.refg1teqkrdtxllg]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.T4q7Ib0ED01PNDyT
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.m3o6CKQqmnAd2FBI
   subType: classFeat
   tags:
     - Destruction Domain

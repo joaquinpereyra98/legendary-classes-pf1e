@@ -1,0 +1,18 @@
+_id: QN6V9sLSsSPtsR3q
+_key: '!items!QN6V9sLSsSPtsR3q'
+img: systems/pf1/icons/spells/wind-grasp-air-1.jpg
+name: Make Your Way
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, any ally which starts their turn benefiting from your
+      pathforger ability may spend a swift action to move up to their speed once
+      per round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Travel Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: 73AIPcMBkoEbyhSS
+_key: '!items!73AIPcMBkoEbyhSS'
+img: systems/pf1/icons/spells/light-royal-3.jpg
+name: Solar Flare
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, whenever you use searing glory, you may spend an
+      additional faith point to irradiate any creatures you choose within the
+      area of effect. Irradiated creatures must succeed at a Fortitude save or
+      become exposed to Severe Radiation. This effect uses the DC of your domain
+      abilities, not the normal DC of severe radiation. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Sun Domain
+type: feat

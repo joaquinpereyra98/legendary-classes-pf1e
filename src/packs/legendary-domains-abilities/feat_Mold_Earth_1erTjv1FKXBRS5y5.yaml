@@ -1,0 +1,17 @@
+_id: 1erTjv1FKXBRS5y5
+_key: '!items!1erTjv1FKXBRS5y5'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Mold Earth
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> At 16th level, the earth bends entirely at your whims. You can cast
+      stone shape as a swift action by spending a point of faith. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

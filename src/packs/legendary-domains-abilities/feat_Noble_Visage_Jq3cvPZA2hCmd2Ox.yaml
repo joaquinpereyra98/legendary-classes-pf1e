@@ -1,0 +1,21 @@
+_id: Jq3cvPZA2hCmd2Ox
+_key: '!items!Jq3cvPZA2hCmd2Ox'
+img: systems/pf1/icons/skills/red_26.jpg
+name: Noble Visage
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, you gain a natural aura of nobility that makes you seem
+      more impressive to others. You gain a +2 bonus on Diplomacy, Bluff and
+      Intimidate skill checks. This bonus increases by 1 at 9th level and every
+      4 levels thereafter, to a maximum of +5 at 17th level. As a standard
+      action, you can spend 1 point of faith to touch an ally and grant them
+      this bonus for a number of minutes equal to your Wisdom modifier. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Nobility Domain
+type: feat

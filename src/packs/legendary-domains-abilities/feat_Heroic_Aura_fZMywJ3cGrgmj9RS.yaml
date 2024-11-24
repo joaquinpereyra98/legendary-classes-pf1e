@@ -1,0 +1,18 @@
+_id: fZMywJ3cGrgmj9RS
+_key: '!items!fZMywJ3cGrgmj9RS'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Heroic Aura
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As a swift action, you can spend 1 point of faith to double all morale
+      bonuses allies within 30 feet of you are benefitting from for one round.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Glory Domain
+type: feat

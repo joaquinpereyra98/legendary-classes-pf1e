@@ -1,0 +1,24 @@
+_id: gWHvrrlhVesop6zc
+_key: '!items!gWHvrrlhVesop6zc'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Part the Veil
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, you can lace spells you cast or kinetic blasts you use
+      with the sublime by spending a faith point. If the target is struck by the
+      effect or fails their saving throw against the effect, they must succeed
+      at a Will save or become confused for a number of rounds equal to half
+      your cleric level. The victim must succeed at a new saving throw each
+      round to end the effect—these additional saving throws apply only to the
+      additional confusion effect and not to the original spell effect. Part the
+      veil is a mind-affecting effect. You may only affect one target with this
+      ability per use. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Trickery Domain
+type: feat

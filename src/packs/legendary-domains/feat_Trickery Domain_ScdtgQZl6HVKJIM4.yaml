@@ -20,16 +20,30 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.rOSQZD57Jz4eNLt3]{Espionage},
       @UUID[Compendium.pf1.class-abilities.Item.kgFOpFrVPIw9vfWf]{Greed},
       @UUID[Compendium.pf1.class-abilities.Item.kCDtKTsnJekhb4lL]{Innuendo},
-      @UUID[Compendium.pf1.class-abilities.Item.IlHsGNP2P7U035Hk]{Thievery}</p><h3>Domain
-      Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.M9NKHFmXAqHz7M9i]</p><h3>Domain
-      Spells</h3><ul><li>1st—silent
-      image</li><li>2nd—invisibility</li><li>3rd—</li><li>4th—invisibility</li><li>5th—false
-      vision</li><li>6th—veil</li><li>7th—project
-      image</li><li>8th—screen</li><li>9th—shapechange</li></ul>
+      @UUID[Compendium.pf1.class-abilities.Item.IlHsGNP2P7U035Hk]{Thievery}</p>
+      <h3>Domain Powers</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.M9NKHFmXAqHz7M9i]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.OYLoJZRknSRW1Ai9]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Uw38gCYwD58IPcvJ]</p>
+      <h3>Doctrine of Illusion</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.APElbiBbpjcqhIw6]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.evlSR5H0Q0KMxPHL]</p>
+      <h3>Doctrine of Deceit</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.a1AgzUQ8ph9P35a9]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.KtQy4erRISVjbfWA]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.kq916lznxo0ig68v]</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.oylikodnyku2zewu]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.7rx66m98dwo18fy8]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.cxgi0ub77t6aink1]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.gk8fqfvj99d46p2h]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.fxwycv6d7xwzua4t]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.0w3hvcp3gb2bhtv5]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.dsondqy4ngf1yzf3]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.n3lp01euzcdmtbw5]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.hVrmBvlqeeLbwVxn
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.M9NKHFmXAqHz7M9i
   subType: classFeat
   tags:
     - Trickery Domain

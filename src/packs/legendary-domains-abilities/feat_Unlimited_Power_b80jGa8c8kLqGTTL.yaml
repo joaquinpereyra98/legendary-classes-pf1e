@@ -1,0 +1,19 @@
+_id: b80jGa8c8kLqGTTL
+_key: '!items!b80jGa8c8kLqGTTL'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Unlimited Power
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, whenever you cast a spell, you may spend a faith point
+      to not consume the spell slot used for the spell. If you do, you become
+      confused for 1 round. This ignores any immunity to confusion you may
+      possess. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Void Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: kgPaSJzmq8YdfrvL
+_key: '!items!kgPaSJzmq8YdfrvL'
+img: systems/pf1/icons/skills/weapon_02.jpg
+name: Follow My Lead
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain an additional teamwork feat as a bonus feat plus a third
+      teamwork feat at 20th level. When you use Coordination, you share all
+      teamwork feats you possess rather than just one. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - War Domain
+type: feat

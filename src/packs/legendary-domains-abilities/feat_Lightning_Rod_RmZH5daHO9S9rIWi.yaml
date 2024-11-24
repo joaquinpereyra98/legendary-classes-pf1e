@@ -1,0 +1,21 @@
+_id: RmZH5daHO9S9rIWi
+_key: '!items!RmZH5daHO9S9rIWi'
+img: systems/pf1/icons/spells/air-burst-sky-1.jpg
+name: Lightning Rod
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p>At 16th level, lightning is drawn to you like a moth to the flame. You
+      become immune to electricity. As an immediate action while within 30 feet
+      of the target or center of a spell or ability that does electricity
+      damage, you can spend 1 point of faith to redirect all of the electricity
+      damage to yourself. This does not affect any other damage from the spell
+      or ability.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Air Domain
+type: feat

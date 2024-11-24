@@ -1,0 +1,18 @@
+_id: sJyfOuGgh9rNeoaW
+_key: '!items!sJyfOuGgh9rNeoaW'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Shared Victory
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your allies’ victory is just as much your own. The radius of your
+      victorious blow is doubled. In addition, you can use this ability when
+      your allies knock an enemy unconscious as well as yourself. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Glory Domain
+type: feat

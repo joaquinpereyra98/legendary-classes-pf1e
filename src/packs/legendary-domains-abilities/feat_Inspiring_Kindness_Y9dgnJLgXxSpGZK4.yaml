@@ -1,0 +1,22 @@
+_id: Y9dgnJLgXxSpGZK4
+_key: '!items!Y9dgnJLgXxSpGZK4'
+img: systems/pf1/icons/skills/light_07.jpg
+name: Inspiring Kindness
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, when you cast a harmless spell with a clearly beneficial
+      effect such as a healing spell on a willing NPC you can spend 1 point of
+      faith as a free action to increase their attitude by one step. You can
+      only benefit from this effect once per day per NPC. If the target is
+      already helpful, or is a PC, you instead give them a sacred bonus on saves
+      against mindaffecting effects equal to the spell’s level for its duration,
+      or for one minute if the duration is instantaneous. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Charm Domain
+type: feat

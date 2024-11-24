@@ -1,0 +1,20 @@
+_id: EQ0F5ueVVrR8dz6F
+_key: '!items!EQ0F5ueVVrR8dz6F'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Glorious Presence
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level you gain Dazzling Display as a bonus feat, even if you do
+      not meet the prerequisites. You can use Dazzling Display as a standard
+      action and demoralize an enemy as a swift action. You can also use your
+      Perform skill in place of Intimidate whenever you attempt to demoralize a
+      foe, including using Dazzling Display. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Glory Domain
+type: feat

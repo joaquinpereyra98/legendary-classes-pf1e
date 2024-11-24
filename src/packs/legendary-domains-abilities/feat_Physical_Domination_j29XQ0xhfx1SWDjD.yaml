@@ -1,0 +1,19 @@
+_id: j29XQ0xhfx1SWDjD
+_key: '!items!j29XQ0xhfx1SWDjD'
+img: systems/pf1/icons/feats/athletic.jpg
+name: Physical Domination
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain either Dirty Fighting or Power Attack as a bonus feat,
+      ignoring prerequisites. When you attempt a combat maneuver, you can spend
+      1 point of faith as a free action to add your Wisdom modifier to your CMB
+      and CMD for one round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Strength Domain
+type: feat

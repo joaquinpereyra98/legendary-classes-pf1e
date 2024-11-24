@@ -1,0 +1,18 @@
+_id: vQ3WRfYuYYGJH4Mb
+_key: '!items!vQ3WRfYuYYGJH4Mb'
+img: systems/pf1/icons/spells/runes-blue-1.jpg
+name: Polyglot
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> You become permanently under the effects of tongues. As a standard
+      action, you can spend 1 point of faith to grant your allies within 30 feet
+      the effects of tongues for 10 minutes. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Rune Domain
+type: feat

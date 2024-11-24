@@ -1,0 +1,20 @@
+_id: OzZDTwhdkguCtCYq
+_key: '!items!OzZDTwhdkguCtCYq'
+img: systems/pf1/icons/spells/light-blue-2.jpg
+name: Merciful Healer
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, choose a paladin mercy as though you were a paladin of
+      your cleric level. When you channel energy or cast a spell with the
+      healing subdomain, you can spend 1 point of faith to apply one mercy to
+      the effect. You can choose one additional mercy every 3 levels after you
+      gain this ability. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Healing Domain
+type: feat

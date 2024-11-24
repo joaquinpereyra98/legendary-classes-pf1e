@@ -1,0 +1,19 @@
+_id: kVqtoETCTvNm3yeV
+_key: '!items!kVqtoETCTvNm3yeV'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Transfer Affliction
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When an ally would gain a poison, disease, or curse effect, you can
+      spend 1 point of faith to negate the effect on that creature. If you do,
+      you suffer the effect in their place, ignoring any immunities you have.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Life Domain
+type: feat

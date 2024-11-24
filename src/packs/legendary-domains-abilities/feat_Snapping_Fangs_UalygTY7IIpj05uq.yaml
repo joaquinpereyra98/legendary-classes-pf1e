@@ -1,0 +1,20 @@
+_id: UalygTY7IIpj05uq
+_key: '!items!UalygTY7IIpj05uq'
+img: systems/pf1/icons/skills/blue_17.jpg
+name: Snapping Fangs
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 4th level, your canine teeth elongate, granting you a more
+      fearsome visage. You can intimidate to demoralize creatures as a move
+      action. As a swift action, you can spend 1 point of faith to grow your
+      fangs larger and widen your jaw, granting you a bite natural attack that
+      deals 1d6 points of damage for 1 minute. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Scalykind Domain
+type: feat

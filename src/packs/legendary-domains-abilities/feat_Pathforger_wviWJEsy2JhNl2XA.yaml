@@ -1,0 +1,17 @@
+_id: wviWJEsy2JhNl2XA
+_key: '!items!wviWJEsy2JhNl2XA'
+img: systems/pf1/icons/spells/wind-grasp-air-1.jpg
+name: Pathforger
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The benefits of blessed alacrity apply to all allies within 30 feet of
+      you. For yourself, the speed bonus improves from 10 feet to 30 feet </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Travel Domain
+type: feat

@@ -1,0 +1,19 @@
+_id: fEgXJjiHz03J5wHR
+_key: '!items!fEgXJjiHz03J5wHR'
+img: systems/pf1/icons/items/inventory/badge-hammer.jpg
+name: Crafter’s Eye
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> A skilled eye for detail replaces any need for magic in identifying
+      magic items. You can use Craft in place of Spellcraft to identify magic
+      items. By spending 1 point of faith you can do so at a glance, taking a
+      swift action rather than 3 rounds to identify a magic item. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Artifice Domain
+type: feat

@@ -1,0 +1,22 @@
+_id: r5kojY88aBVgJOiS
+_key: '!items!r5kojY88aBVgJOiS'
+img: systems/pf1/icons/skills/ice_05.jpg
+name: Cleansing Waves
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Any creature under the effects of buffering waters may immediately end
+      the effect to end one of the following conditions on themselves: blinded,
+      confused, cowering, dazed, dazzled, deafened, energy drained, exhausted,
+      fascinated, fatigued, frightened, helpless, nauseated, panicked,
+      paralyzed, petrified, shaken, sickened, staggered, or stunned.
+      Alternatively, they may make a saving throw against a poison or disease
+      they are suffering from, taking no ill effects on a failed save. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Water Domain
+type: feat

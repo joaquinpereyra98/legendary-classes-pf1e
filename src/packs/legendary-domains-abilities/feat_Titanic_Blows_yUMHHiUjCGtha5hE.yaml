@@ -1,0 +1,18 @@
+_id: yUMHHiUjCGtha5hE
+_key: '!items!yUMHHiUjCGtha5hE'
+img: systems/pf1/icons/feats/athletic.jpg
+name: Titanic Blows
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level, while you are under the effects of might of
+      the gods or giant’s stature, any creature struck by one of your melee
+      attacks must succeed at a Fortitude save or be stunned for one round. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Strength Domain
+type: feat

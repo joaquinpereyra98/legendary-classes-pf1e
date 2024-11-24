@@ -1,0 +1,19 @@
+_id: YESqxyygpEyagMvw
+_key: '!items!YESqxyygpEyagMvw'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Death’s Gift
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you use your death’s touch ability, you can not only take the
+      target’s vitality from them but give it to another. Choose an ally within
+      30 feet of you. They gain hit points equal to the damage you dealt with
+      death’s touch. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Death Domain
+type: feat

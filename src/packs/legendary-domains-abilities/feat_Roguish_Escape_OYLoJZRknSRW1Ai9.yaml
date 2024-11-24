@@ -1,0 +1,18 @@
+_id: OYLoJZRknSRW1Ai9
+_key: '!items!OYLoJZRknSRW1Ai9'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Roguish Escape
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 4th level, as an immediate action, after you are missed by
+      an attack or succeed at a saving throw, you can spend a faith point to
+      teleport up to 10 feet to a space that you can see. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Trickery Domain
+type: feat

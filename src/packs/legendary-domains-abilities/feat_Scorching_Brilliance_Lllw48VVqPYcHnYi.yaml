@@ -1,0 +1,19 @@
+_id: Lllw48VVqPYcHnYi
+_key: '!items!Lllw48VVqPYcHnYi'
+img: systems/pf1/icons/spells/light-royal-3.jpg
+name: Scorching Brilliance
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You may use your searing glory ability with spells of the fire and
+      healing descriptors as well as those of the light descriptor. Light spells
+      you cast count as true sunlight for all purposes and deal an additional
+      1d4 damage per cleric level to undead when used with searing glory. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Sun Domain
+type: feat

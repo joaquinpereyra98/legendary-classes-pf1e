@@ -1,0 +1,18 @@
+_id: EXSB5hSeDp8wQPMi
+_key: '!items!EXSB5hSeDp8wQPMi'
+img: systems/pf1/icons/skills/blue_18.jpg
+name: Guardian’s Aura
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You grant a +1 resistance bonus to all saving throws to allies within
+      30 feet of you. This bonus increases by 1 at 5th level, and every 4 levels
+      thereafter, to a maximum of +5 at 17th level. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Protection Domain
+type: feat

@@ -1,0 +1,17 @@
+_id: 7hRvAGnXet3cDfep
+_key: '!items!7hRvAGnXet3cDfep'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Restore Soul
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> If you have at least 10 points of faith remaining, you can spend all
+      of your remaining faith to cast raise dead as a spell-like ability. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Life Domain
+type: feat

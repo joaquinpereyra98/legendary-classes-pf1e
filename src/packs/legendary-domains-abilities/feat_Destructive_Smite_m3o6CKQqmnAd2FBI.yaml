@@ -1,0 +1,19 @@
+_id: m3o6CKQqmnAd2FBI
+_key: '!items!m3o6CKQqmnAd2FBI'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Destructive Smite
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your weapons carry more impact behind them, meant to obliterate
+      anything they come across. Once per round when you make a non-spell attack
+      and deal damage, you can spend 1 point of faith to add ½ your level to the
+      damage (minimum 1). </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

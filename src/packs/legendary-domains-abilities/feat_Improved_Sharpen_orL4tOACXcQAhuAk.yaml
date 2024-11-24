@@ -1,0 +1,18 @@
+_id: orL4tOACXcQAhuAk
+_key: '!items!orL4tOACXcQAhuAk'
+img: systems/pf1/icons/items/inventory/badge-hammer.jpg
+name: Improved Sharpen
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> The enhancement bonus from sharpen increases to +2. In addition, this
+      bonus can be used to add any weapon, shield, or armor special ability </p>
+      <p>the item does not already have.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Artifice Domain
+type: feat

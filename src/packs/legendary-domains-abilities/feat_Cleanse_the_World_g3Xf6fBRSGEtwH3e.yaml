@@ -1,0 +1,21 @@
+_id: g3Xf6fBRSGEtwH3e
+_key: '!items!g3Xf6fBRSGEtwH3e'
+img: systems/pf1/icons/skills/fire_10.jpg
+name: Cleanse the World
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level your fire transcends physical limitation and becomes
+      divine in nature. Any [fire] spell or blast you cast also gains the
+      descriptors for your alignment. Dragons, undead, and outsiders with an
+      opposite alignment component to yours take maximum damage from these
+      spells and blasts (as per Maximize Spell) and do not gain the benefits of
+      fire resistance or immunity against the damage. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Fire Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: qlyzhRdVOmAaS4Dw
+_key: '!items!qlyzhRdVOmAaS4Dw'
+img: systems/pf1/icons/spells/runes-blue-1.jpg
+name: Scrollmaster
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level, you gain a total mastery of scrolls. When you
+      cast a spell from a scroll, the spell uses your caster level and your
+      Wisdom modifier to determine its DCs and effects. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Rune Domain
+type: feat

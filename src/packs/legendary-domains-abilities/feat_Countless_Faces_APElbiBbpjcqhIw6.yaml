@@ -1,0 +1,18 @@
+_id: APElbiBbpjcqhIw6
+_key: '!items!APElbiBbpjcqhIw6'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: Countless Faces
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> You gain the ability to alter your appearance at-will, as per the veil
+      spell. This effect is permanent until dispelled, until you are slain, or
+      until you dismiss it. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Trickery Domain
+type: feat

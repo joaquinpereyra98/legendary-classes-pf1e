@@ -1,0 +1,19 @@
+_id: eCNTxpathErRhEgX
+_key: '!items!eCNTxpathErRhEgX'
+img: systems/pf1/icons/items/inventory/dice.jpg
+name: Bit of Luck
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As an immediate action before an ally within 30 feet makes an attack
+      roll, skill check or saving throw, you can spend 1 point of faith to
+      bestow a bit of luck on them. Until the start of their next turn, they
+      roll twice and take the better result on all d20 rolls. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Luck Domain
+type: feat

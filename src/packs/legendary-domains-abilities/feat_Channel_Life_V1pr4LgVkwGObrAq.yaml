@@ -1,0 +1,20 @@
+_id: V1pr4LgVkwGObrAq
+_key: '!items!V1pr4LgVkwGObrAq'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Channel Life
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> If you chose to channel negative energy at 1st level, you gain the
+      ability to channel positive energy as well. If you chose to channel
+      positive energy, you can channel energy as a move action instead of a
+      standard. If you do not have the channel energy class feature, you gain
+      it, but can only choose to channel positive energy. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Healing Domain
+type: feat

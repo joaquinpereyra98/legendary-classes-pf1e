@@ -1,0 +1,20 @@
+_id: Un7gisVszM3O42En
+_key: '!items!Un7gisVszM3O42En'
+img: systems/pf1/icons/skills/fire_10.jpg
+name: Radiant Fire
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you cast a spell that deals fire damage, you can expend spend 1
+      point of faith to soothe your allies, rather than harm them. A number of
+      creatures equal to your Wisdom modifier are not damaged by the spell,
+      healed for an amount equal to half the spell’s fire damage, and are
+      affected by any mercies you have selected. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Fire Domain
+type: feat

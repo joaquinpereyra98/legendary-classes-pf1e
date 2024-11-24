@@ -1,0 +1,20 @@
+_id: VsyjqAx1rqDWc73O
+_key: '!items!VsyjqAx1rqDWc73O'
+img: systems/pf1/icons/spells/horror-eerie-1.jpg
+name: Cloak of Shadow
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, light seems to fade around you, leaving you surrounded
+      by shadow. The light level within 10 feet of you is reduced by one step.
+      You can suppress or resume this aura as a standard action. You cannot use
+      concealment granted by this ability to enter stealth, as the aura reveals
+      your location. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Darkness Domain
+type: feat

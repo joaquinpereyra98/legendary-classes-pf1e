@@ -1,0 +1,19 @@
+_id: IWOCZ2jMFy50mJBK
+_key: '!items!IWOCZ2jMFy50mJBK'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Victorious Momentum
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, allies affected by your victorious strike ability also
+      gain a +2 morale bonus to attack and damage rolls for one round. If they
+      are already benefitting from a morale bonus to one of these rolls, that
+      bonus is instead increased by +1 for the same duration. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Glory Domain
+type: feat

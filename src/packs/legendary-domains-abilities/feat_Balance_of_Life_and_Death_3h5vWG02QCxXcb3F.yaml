@@ -1,0 +1,21 @@
+_id: 3h5vWG02QCxXcb3F
+_key: '!items!3h5vWG02QCxXcb3F'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Balance of Life and Death
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you can use the lingering life force of the recently
+      deceased to power your magic. While within 5 feet the body of a creature
+      that has died within the last round, you can spend two points of faith to
+      cast a single death domain spell with a spell level no greater than one
+      quarter the creature’s Hit Dice (rounded down) without expending a spell
+      slot. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Death Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: fhHLes5w3ypk3EOR
+_key: '!items!fhHLes5w3ypk3EOR'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Donate Life
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, you can give your allies a portion of your own life
+      force. As an immediate action, you can spend 1 point of faith and reduce
+      your hit points by any amount. You can then distribute an equal number of
+      hit points among allies you are life linked to, healing them for the
+      amount distributed to them. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Life Domain
+type: feat

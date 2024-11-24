@@ -1,0 +1,18 @@
+_id: 6D0f9d0QyeBE2AHS
+_key: '!items!6D0f9d0QyeBE2AHS'
+img: systems/pf1/icons/spells/light-blue-2.jpg
+name: Miraculous Healer
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level you can spend 3 points of faith as a standard
+      action to restore a single adjacent target to their maximum hit points. A
+      creature can only benefit from this ability once per day. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Healing Domain
+type: feat

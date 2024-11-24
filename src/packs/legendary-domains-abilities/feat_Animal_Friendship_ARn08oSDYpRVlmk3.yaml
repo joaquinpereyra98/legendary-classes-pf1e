@@ -1,0 +1,19 @@
+_id: ARn08oSDYpRVlmk3
+_key: '!items!ARn08oSDYpRVlmk3'
+img: systems/pf1/icons/skills/blue_26.jpg
+name: Animal Friendship
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level, animals are automatically indifferent to you, and will
+      not attack you without provocation. You can improve their attitude using
+      your Handle Animal skill in place of Diplomacy, even when speaking to them
+      normally. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - 'Animal Domain'
+type: feat

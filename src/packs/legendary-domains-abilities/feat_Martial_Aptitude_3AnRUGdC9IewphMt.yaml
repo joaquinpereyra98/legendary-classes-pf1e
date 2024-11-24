@@ -1,0 +1,19 @@
+_id: 3AnRUGdC9IewphMt
+_key: '!items!3AnRUGdC9IewphMt'
+img: systems/pf1/icons/skills/weapon_02.jpg
+name: Martial Aptitude
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> At 8th level, you gain either the Armor Training or Weapon Training
+      class feature of a fighter of your cleric level. If you select Weapon
+      Training, you select a single fighter weapon group and do not select
+      additional fighter weapon groups at higher levels. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - War Domain
+type: feat

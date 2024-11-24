@@ -1,0 +1,21 @@
+_id: F4A4mIEKO7E0LIB3
+_key: '!items!F4A4mIEKO7E0LIB3'
+img: systems/pf1/icons/spells/air-burst-sky-1.jpg
+name: Thunderstorm
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p>You can use the electric blast wild talent or the thunderstorm
+      composite blast. Instead of accepting burn, you must spend 1 point of
+      faith to use thunderstorm blast. When casting a spell with the electricity
+      descriptor or your lightning or thunderstorm blast, you can spend 1 point
+      of faith as a swift action to designate one creature within line of sight.
+      The spell or blast’s damage is increased by 50% against that target.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Air Domain
+type: feat

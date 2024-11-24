@@ -16,14 +16,28 @@ system:
       @UUID[Compendium.pf1.class-abilities.Item.Nc629yyeBE0UeG2n]{Leadership},
       @UUID[Compendium.pf1.class-abilities.Item.Rfib6GcSF86xCZZu]{Martyr}</p><h3>Domain
       Powers</h3>
-      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bbUwqgG3A0VwppCg]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Jq3cvPZA2hCmd2Ox]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.nUmimBDq2eZqwBx2]</p>
-          <h3>Doctrine of Rulership</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.wICEUtp8UQlBTODK]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.4jxPx8QVrmAbOyh9]</p>
-          <h3>Doctrine of Chivalry</h3>
-          <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.rYKejMIzbXD4Xz39]</p><p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.t9PtFYJaW9TTsfxB]</p><h3>Domain Spells</h3><ul><li>1st—word of resolve</li><li>2nd—paladin’s</li><li>3rd—</li><li>4th—good hope</li><li>5th—hold monster</li><li>6th—sacrificial oath</li><li>7th—brilliant inspiration</li><li>8th—demand</li><li>9th—mass hold monster</li></ul>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bbUwqgG3A0VwppCg]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.Jq3cvPZA2hCmd2Ox]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.nUmimBDq2eZqwBx2]</p>
+      <h3>Doctrine of Rulership</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.wICEUtp8UQlBTODK]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.4jxPx8QVrmAbOyh9]</p>
+      <h3>Doctrine of Chivalry</h3>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.rYKejMIzbXD4Xz39]</p>
+      <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.t9PtFYJaW9TTsfxB]</p>
+      <h3>Domain Spells</h3><ul>
+      <li>1st—@UUID[Compendium.pf1.spells.Item.cclnwi6pw4mewvd7]word of resolve</li>
+      <li>2nd—@UUID[Compendium.pf1.spells.Item.uo317ywjn95w316n]</li>
+      <li>3rd—@UUID[Compendium.pf1.spells.Item.rifw5peupd2hjtq9]</li>
+      <li>4th—@UUID[Compendium.pf1.spells.Item.rgd5v3llwoptwcdb]</li>
+      <li>5th—@UUID[Compendium.pf1.spells.Item.d8hypv6zdyan3rzr]</li>
+      <li>6th—@UUID[Compendium.pf1.spells.Item.z1i7h2b69qfztxf9]</li>
+      <li>7th—@UUID[Compendium.pf1.spells.Item.8mv7anloqgou2ps8]</li>
+      <li>8th—@UUID[Compendium.pf1.spells.Item.21r9ptvsjo99o3yw]</li>
+      <li>9th—@UUID[Compendium.pf1.spells.Item.d8hypv6zdyan3rzr]</li></ul>
   links:
     supplements:
-      - uuid: Compendium.pf1.class-abilities.Item.8hVa9HwekAWpgHid
+      - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bbUwqgG3A0VwppCg
   subType: classFeat
   tags:
     - Nobility Domain

@@ -1,0 +1,18 @@
+_id: f1HMr84HyzvXmoTS
+_key: '!items!f1HMr84HyzvXmoTS'
+img: systems/pf1/icons/spells/air-burst-sky-1.jpg
+name: Nimbus
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p>At 8th level, swirling mists surround your feet at all times. You can
+      spend 1 point of faith to solidify these mists, casting air walk as a
+      spell-like ability that lasts for a minute per caster level.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Air Domain
+type: feat

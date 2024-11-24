@@ -1,0 +1,18 @@
+_id: xxPEElBN5AJYUbhZ
+_key: '!items!xxPEElBN5AJYUbhZ'
+img: systems/pf1/icons/spells/air-burst-sky-1.jpg
+name: Freedom of the Sky
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p>At 16th level, you become light enough to ride the winds themselves.
+      When you use your nimbus ability, you gain a perfect fly speed of 60’ for
+      the duration.</p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Air Domain
+type: feat

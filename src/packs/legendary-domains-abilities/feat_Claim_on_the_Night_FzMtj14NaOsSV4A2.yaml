@@ -1,0 +1,20 @@
+_id: FzMtj14NaOsSV4A2
+_key: '!items!FzMtj14NaOsSV4A2'
+img: systems/pf1/icons/spells/horror-eerie-1.jpg
+name: Claim on the Night
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, your power over darkness trumps all others, innate or
+      otherwise. As a standard action, you can spend 1 point of faith to target
+      any number of creatures within 30 feet. These creatures must make a Will
+      save or lose any darkvision they have as well as the see in darkness
+      universal monster ability for one round per cleric level. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Darkness Domain
+type: feat

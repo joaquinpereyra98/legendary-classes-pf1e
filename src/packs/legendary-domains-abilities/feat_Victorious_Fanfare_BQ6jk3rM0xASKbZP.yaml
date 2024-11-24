@@ -1,0 +1,20 @@
+_id: BQ6jk3rM0xASKbZP
+_key: '!items!BQ6jk3rM0xASKbZP'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Victorious Fanfare
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Every fight you walk away from as the winner is a glorious one.
+      Starting at 16th level, when combat ends you can spend 3 points of faith
+      to immediately restore yourself and your allies within 60 feet to your
+      maximum hit points. You cannot use this ability if you are unconscious or
+      helpless. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Glory Domain
+type: feat

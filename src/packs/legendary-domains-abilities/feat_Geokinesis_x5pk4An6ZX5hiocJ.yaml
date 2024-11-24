@@ -1,0 +1,21 @@
+_id: x5pk4An6ZX5hiocJ
+_key: '!items!x5pk4An6ZX5hiocJ'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Geokinesis
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> You gain the earth blast wild talentOA and the kinetic blast class
+      feature, treating half your cleric level as your kineticist level (minimum
+      1) and your Wisdom modifier as your Constitution modifier. You also gain
+      the basic geokinesis utility wild talent. You can spend 1 point of faith
+      as a free action to treat your cleric level as your kineticist level for
+      one round instead. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

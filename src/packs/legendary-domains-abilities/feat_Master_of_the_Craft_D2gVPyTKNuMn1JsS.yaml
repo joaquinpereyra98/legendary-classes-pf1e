@@ -1,0 +1,20 @@
+_id: D2gVPyTKNuMn1JsS
+_key: '!items!D2gVPyTKNuMn1JsS'
+img: systems/pf1/icons/items/inventory/badge-hammer.jpg
+name: Master of the Craft
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> At 4th level you gain Master Craftsman as a bonus feat. You can craft
+      any magic item even if you do not have the feat required to do so,
+      although you must meet that feat’s prerequisites. If you do not have the
+      feat to craft the item, the cost of crafting the item is increased by 50%
+      (to 75% of the item’s normal market price). </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Artifice Domain
+type: feat

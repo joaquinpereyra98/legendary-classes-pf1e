@@ -1,0 +1,21 @@
+_id: m8ST42nO9AkEWatt
+_key: '!items!m8ST42nO9AkEWatt'
+img: systems/pf1/icons/skills/light_07.jpg
+name: Silver Tongue
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> When you make a request of someone and roll Diplomacy, you can spend 1
+      point of faith to infuse your voice with magic compelling them to do as
+      you wish. Instead of using your Diplomacy result against the regular DC,
+      they instead make a Will save with a DC equal to 10 + ½ your cleric level
+      + your Wisdom modifier + ¼ of the Diplomacy result. If they fail, they are
+      compelled to perform the task, as suggestion. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Charm Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: LVh57mrMcj2osXcA
+_key: '!items!LVh57mrMcj2osXcA'
+img: systems/pf1/icons/spells/wind-grasp-air-1.jpg
+name: Blessed Alacrity
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level, all of your movement speeds increase by 10 feet. You may
+      spend a faith point as a free action to double this bonus for one round.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Travel Domain
+type: feat

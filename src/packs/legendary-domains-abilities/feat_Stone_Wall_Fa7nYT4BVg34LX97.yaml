@@ -1,0 +1,21 @@
+_id: Fa7nYT4BVg34LX97
+_key: '!items!Fa7nYT4BVg34LX97'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Stone Wall
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level you can raise stone from the ground to create cover for
+      yourself and your allies. You can spend 1 point of faith to create stone
+      walls, as the kinetic coverOA wild talent. At 10th level, when you use
+      this ability you can raise two faces of any squares in range so long as
+      those faces touch. At 14th level this increases to three faces, and at
+      18th level it increases to four. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

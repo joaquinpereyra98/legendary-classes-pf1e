@@ -1,0 +1,19 @@
+_id: 8XMk8VL07A53Gsbu
+_key: '!items!8XMk8VL07A53Gsbu'
+img: systems/pf1/icons/skills/fire_10.jpg
+name: Ignition
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When a creature fails a Reflex save against a spell you cast that
+      deals fire damage, they catch on fire, taking damage equal to your kinetic
+      blast each round. At the end of their turn they gain a new Reflex save
+      against the spell’s DC to put themselves out. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Fire Domain
+type: feat

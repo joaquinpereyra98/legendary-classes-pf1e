@@ -1,0 +1,17 @@
+_id: 0Iej0q24ctizjw1h
+_key: '!items!0Iej0q24ctizjw1h'
+img: icons/magic/life/heart-cross-strong-flame-green.webp
+name: Free of Necessity
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> You no longer need to eat, drink, or breathe and become immune to
+      poisons and diseases. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Freedom Domain
+type: feat

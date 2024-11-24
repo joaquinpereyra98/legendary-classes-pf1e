@@ -1,0 +1,19 @@
+_id: u1rYGuab9P2ujmzF
+_key: '!items!u1rYGuab9P2ujmzF'
+img: systems/pf1/icons/feats/athletic.jpg
+name: Follow-Through
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you may perform a single combat maneuver as a free
+      action whenever you succeed at an attack roll or combat maneuver. You
+      cannot activate this ability from a combat maneuver you perform as a
+      result of this ability. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Strength Domain
+type: feat

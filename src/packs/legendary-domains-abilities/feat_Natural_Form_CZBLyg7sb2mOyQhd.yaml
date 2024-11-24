@@ -1,0 +1,21 @@
+_id: CZBLyg7sb2mOyQhd
+_key: '!items!CZBLyg7sb2mOyQhd'
+img: systems/pf1/icons/skills/blue_26.jpg
+name: Natural Form
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you shed the last anchors you have to humanity,
+      becoming truly one with the beast inside. You can use wild shape at will,
+      and the duration becomes permanent. In addition, while in a wild shape
+      form you can change to any form your wild shape would allow as a swift
+      action. You can dismiss your wild shape at any time as an immediate
+      action. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - 'Animal Domain'
+type: feat

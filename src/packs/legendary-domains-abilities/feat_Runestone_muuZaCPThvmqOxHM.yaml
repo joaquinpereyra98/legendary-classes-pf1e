@@ -1,0 +1,22 @@
+_id: muuZaCPThvmqOxHM
+_key: '!items!muuZaCPThvmqOxHM'
+img: systems/pf1/icons/spells/runes-blue-1.jpg
+name: Runestone
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> When you cast a spell that affects a specific area, such as
+      consecrate, you can spend 1 point of faith to bind the spell to a rune
+      instead of a location. This rune can be engraved on a stone, woven into
+      clothing, or tattooed into your skin. The area of the spell becomes
+      centered around the rune and moves with it. If the spell’s duration is
+      greater than a day, then you do not regain the faith you spent on this
+      ability until the spell’s duration ends. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Rune Domain
+type: feat

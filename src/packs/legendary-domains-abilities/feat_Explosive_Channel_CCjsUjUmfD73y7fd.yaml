@@ -1,0 +1,18 @@
+_id: CCjsUjUmfD73y7fd
+_key: '!items!CCjsUjUmfD73y7fd'
+img: systems/pf1/icons/skills/affliction_05.jpg
+name: Explosive Channel
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Starting at 16th level, when you channel to harm undead you can spend
+      1 point of faith. Unintelligent undead who fail their save against this
+      channel must succeed at a Fortitude save or be instantly destroyed. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Repose Domain
+type: feat

@@ -1,0 +1,18 @@
+_id: Q1jxAEgtNXeE7tPH
+_key: '!items!Q1jxAEgtNXeE7tPH'
+img: systems/pf1/icons/items/inventory/badge-hammer.jpg
+name: Rapid Crafter
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> You can craft with speed like no other. When crafting items, you
+      require only 4 hours of work per 1,000 gp of the item’s base price, or 2
+      hours per 1,000 gp if you increase the DC by 5. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Artifice Domain
+type: feat

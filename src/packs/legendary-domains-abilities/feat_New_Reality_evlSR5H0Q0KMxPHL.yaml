@@ -1,0 +1,25 @@
+_id: evlSR5H0Q0KMxPHL
+_key: '!items!evlSR5H0Q0KMxPHL'
+img: systems/pf1/icons/spells/rip-sky-1.jpg
+name: New Reality
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you may spend a faith point as part of casting a
+      (glamer) or (figment) spell to make any change quasi-real, like those
+      created by shadow conjuration. A creature that interacts with reshaped
+      reality may make a Will save to see through the semi-real illusion.
+      Terrain can provide concealment, and against foes who do not make the Will
+      save to see through the facade, reshaped reality can provide cover. For
+      disbelievers, quasi-real objects and terrain have only 20% normal hardness
+      and hit points, and break DCs are 10 lower than normal. Dangerous terrain
+      cannot exceed 5d6 points of damage per round (1d6 per round against
+      disbelievers). This ability cannot damage existing structures. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Trickery Domain
+type: feat

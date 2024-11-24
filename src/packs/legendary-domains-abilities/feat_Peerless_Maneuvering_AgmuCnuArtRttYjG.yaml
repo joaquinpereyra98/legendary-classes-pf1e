@@ -1,0 +1,20 @@
+_id: AgmuCnuArtRttYjG
+_key: '!items!AgmuCnuArtRttYjG'
+img: systems/pf1/icons/feats/athletic.jpg
+name: Peerless Maneuvering
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Your blessed might allows you to overcome even tremendous foes. You
+      may ignore any size bonuses to CMB or CMD that creatures possess and may
+      perform combat maneuvers on creatures regardless of their size. When you
+      succeed at a combat maneuver, you are treated as having succeeded by 5
+      more for the purpose of determining the maneuver’s effects. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Strength Domain
+type: feat

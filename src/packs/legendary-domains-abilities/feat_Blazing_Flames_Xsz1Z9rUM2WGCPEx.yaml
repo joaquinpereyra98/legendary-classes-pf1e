@@ -1,0 +1,21 @@
+_id: Xsz1Z9rUM2WGCPEx
+_key: '!items!Xsz1Z9rUM2WGCPEx'
+img: systems/pf1/icons/skills/fire_10.jpg
+name: Blazing Flames
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, your fire becomes incredibly intense. When you cast a
+      spell that deals fire damage you can spend 1 point of faith to increase
+      its maximum number of damage dice by 5 levels (only for the fire damage),
+      and its damage is increased by 50%. </p> <p> This ability stacks with the
+      Intensify Spell metamagic feat and the Empower Spell metamagic feat
+      (additively, increasing the damage by 100% instead of 50%). </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Fire Domain
+type: feat

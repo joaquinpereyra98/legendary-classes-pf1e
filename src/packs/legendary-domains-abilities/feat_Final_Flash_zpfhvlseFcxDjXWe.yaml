@@ -1,0 +1,21 @@
+_id: zpfhvlseFcxDjXWe
+_key: '!items!zpfhvlseFcxDjXWe'
+img: systems/pf1/icons/skills/blood_11.jpg
+name: Final Flash
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, as a standard action you can spend 3 points of faith to
+      create a massive, powerful explosion that tears through everything in its
+      path. This deals force damage equal to 20d12 + your cleric level + double
+      your Wisdom modifier to every creature and object within a 60 foot radius,
+      including yourself. Creatures more than 30 feet away can attempt a Reflex
+      save for half damage. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Destruction Domain
+type: feat

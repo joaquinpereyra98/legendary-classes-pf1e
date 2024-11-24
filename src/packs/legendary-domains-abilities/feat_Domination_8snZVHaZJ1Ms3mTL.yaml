@@ -1,0 +1,23 @@
+_id: 8snZVHaZJ1Ms3mTL
+_key: '!items!8snZVHaZJ1Ms3mTL'
+img: systems/pf1/icons/skills/light_07.jpg
+name: Domination
+system:
+  abilityType: sp
+  description:
+    value: >-
+      <p> At 16th level, your words can completely bend someone to your will. As
+      a standard action, you can spend 1 point of faith to control a creature
+      within close range as per dominate person, save that it affects them
+      regardless of creature type. This is a mind-affecting effect and the
+      target is allowed a Will saving throw to resist it. The effect lasts only
+      one minute per cleric level you possess. You cannot affect more than one
+      target at a time, and regardless of whether they save they cannot be
+      affected by this ability again for 24 hours. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Charm Domain
+type: feat

@@ -1,0 +1,23 @@
+_id: 6f65Nqzs65reDEkg
+_key: '!items!6f65Nqzs65reDEkg'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Negative Surgery
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 8th level your healing spells draw on negative as well as positive
+      energy, targeting unwelcome pathogens, jolting the target’s nervous system
+      or even directly affecting magic. When casting a spell with the (healing)
+      subtype, you can spend 1 point of faith to additionally attempt to remove
+      a disease, poison, or negative status effect on the target. Make a caster
+      level check against the save DC of the effect. If you are successful, the
+      effect is removed from the target. If your spell targets multiple
+      creatures, roll once against the same effect on each of them. </p> <p></p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Death Domain
+type: feat

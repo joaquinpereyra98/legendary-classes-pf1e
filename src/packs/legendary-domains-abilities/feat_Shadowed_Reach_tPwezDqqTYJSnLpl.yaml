@@ -1,0 +1,19 @@
+_id: tPwezDqqTYJSnLpl
+_key: '!items!tPwezDqqTYJSnLpl'
+img: systems/pf1/icons/spells/horror-eerie-1.jpg
+name: Shadowed Reach
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, you treat the shadows as an extension of your own body.
+      Spells you cast with a range of touch gain a range of close, but only
+      against targets to whom you are connected by a contiguous patch of
+      darkness. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Darkness Domain
+type: feat

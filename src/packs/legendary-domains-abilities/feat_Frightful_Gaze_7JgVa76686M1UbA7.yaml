@@ -1,0 +1,19 @@
+_id: 7JgVa76686M1UbA7
+_key: '!items!7JgVa76686M1UbA7'
+img: systems/pf1/icons/skills/blue_17.jpg
+name: Frightful Gaze
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, when you use your hypnotic gaze, the target instead
+      becomes shaken. If they were already shaken they become frightened, and if
+      they were already frightened they instead become panicked. A successful
+      Will save negates any of these effects. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Scalykind Domain
+type: feat

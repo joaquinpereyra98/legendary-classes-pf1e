@@ -1,0 +1,19 @@
+_id: YcSQyRSqFq0hl4cQ
+_key: '!items!YcSQyRSqFq0hl4cQ'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Lay to Rest
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 16th level, when you channel negative energy, you can spend 1 point
+      of faith to heal living creatures and harm undead creatures instead of the
+      normal effect. In addition, when you choose creatures to exclude you can
+      instead harm them as though they were undead. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Repose Domain
+type: feat

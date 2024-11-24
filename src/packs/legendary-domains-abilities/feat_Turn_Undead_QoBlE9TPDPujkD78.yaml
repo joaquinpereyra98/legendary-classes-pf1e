@@ -1,0 +1,23 @@
+_id: QoBlE9TPDPujkD78
+_key: '!items!QoBlE9TPDPujkD78'
+img: systems/pf1/icons/skills/affliction_05.jpg
+name: Turn Undead
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> At 4th level you gain Turn Undead as a bonus feat, using your Wisdom
+      modifier in place of your Charisma modifier. You can spend uses of channel
+      negative energy or 1 point of faith to use this ability. Volatile Channel
+      (Su): At 8th level, you can spend 1 point of faith when you channel to
+      harm undead or cast a spell that affects undead. If they fail their save
+      against the channel or spell, they are staggered for 1 round. If the spell
+      does not give them a save, they can make a Will save against this effect.
+      </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Repose Domain
+type: feat

@@ -1,0 +1,20 @@
+_id: OufA0dWS83BBad1k
+_key: '!items!OufA0dWS83BBad1k'
+img: systems/pf1/icons/skills/affliction_08.jpg
+name: Lay to Rest
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> Undead do not gain channel resistance against your channels. If you
+      channel positive energy, you can spend 1 point of faith when you channel
+      to harm to increase the damage by your cleric level. If you channel
+      negative energy, you can spend 1 point of faith when you channel to harm
+      to damage undead and not affect living creatures. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Death Domain
+type: feat

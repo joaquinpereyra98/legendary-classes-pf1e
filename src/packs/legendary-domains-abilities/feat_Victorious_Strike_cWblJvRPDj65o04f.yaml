@@ -1,0 +1,22 @@
+_id: cWblJvRPDj65o04f
+_key: '!items!cWblJvRPDj65o04f'
+img: systems/pf1/icons/skills/yellow_13.jpg
+name: Victorious Strike
+system:
+  abilityType: su
+  description:
+    value: >-
+      <p> As an immediate action when you reduce a creature below 0 hit points,
+      you can spend 1 point of faith to release a burst of celebratory healing.
+      All allies within 30 feet are healed as though you had just channeled to
+      heal, even if they would normally be unaffected (for instance, if they
+      were living creatures and you channel negative energy). This ability has
+      no effect if the triggering creature was helpless, unaware, or had fewer
+      Hit Dice than half your character level. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Glory Domain
+type: feat

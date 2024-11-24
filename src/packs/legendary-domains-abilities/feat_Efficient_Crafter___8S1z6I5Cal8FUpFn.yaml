@@ -1,0 +1,20 @@
+_id: 8S1z6I5Cal8FUpFn
+_key: '!items!8S1z6I5Cal8FUpFn'
+img: systems/pf1/icons/items/inventory/badge-hammer.jpg
+name: Efficient Crafter
+system:
+  abilityType: ex
+  description:
+    value: >-
+      <p> At 16th level, you’ve found countless tricks and techniques that let
+      you cut costs without cutting quality. When crafting magic items, reduce
+      the cost by 50% (to 25% of the item’s normal market price) if you have the
+      appropriate feat. If you do not have the requisite item creation feats,
+      you no longer increase the cost of crafting. </p>
+  subType: classFeat
+  associations:
+    classes:
+      - Legendary Cleric
+  tags:
+    - Artifice Domain
+type: feat

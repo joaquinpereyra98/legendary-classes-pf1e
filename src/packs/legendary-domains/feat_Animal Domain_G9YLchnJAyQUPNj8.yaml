@@ -20,7 +20,13 @@ system:
       <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.nVw5b4ksAfy60E7X]</p>
       <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.gc8TD5UdLRIFDPAD]</p>
       <p>@UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.ARn08oSDYpRVlmk3]</p>
-      <h3>Domain
+      <h3>Doctrine of Wild</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.jTDFakvWwCCk0vpO]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.CZBLyg7sb2mOyQhd]
+      <h3>Doctrine of Domestication</h3>
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EB62JKWWzNUlua9K]
+      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bDuBa5ACwn9lrdnX]
+       <h3>Domain
       Spells</h3><ul><li>1st-@Compendium[pf1.spells.5s4e2iifhflglr1t]</li>
       <li>2nd-@Compendium[pf1.spells.yyzf346hiq8ixt0u]</li>
       <li>3rd-@Compendium[pf1.spells.io2yjhr42chvcfb4]</li>
@@ -30,12 +36,6 @@ system:
       <li>7th-@Compendium[pf1.spells.3ah9mmg0odateh8l]</li>
       <li>8th-@Compendium[pf1.spells.k4gr2kbnbyeuoql7]</li>
       <li>9th-@Compendium[pf1.spells.n3lp01euzcdmtbw5]</li></ul>
-      <h3>Doctrine of Wild</h3>
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.jTDFakvWwCCk0vpO]
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.CZBLyg7sb2mOyQhd]
-      <h3>Doctrine of Domestication</h3>
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.EB62JKWWzNUlua9K]
-      @UUID[Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.bDuBa5ACwn9lrdnX]
   links:
     supplements:
       - uuid: Compendium.legendary-classes-pf1e.legendary-domains-abilities.Item.nVw5b4ksAfy60E7X
