@@ -1,7 +1,7 @@
 export default {
-    input: "./etheria-prompt.mjs",
+    input: "./legendary-classes-pf1e.mjs",
     output: {
-      file: './public/etheria-prompt.mjs',
+      file: './public/legendary-classes-pf1e.mjs',
       format: 'esm',
     },
   };
