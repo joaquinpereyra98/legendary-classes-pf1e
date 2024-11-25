@@ -185,7 +185,5 @@
             "system": "pf1"
         }
     ],
-    "esmodules": [
-        "legendary-classes-pf1e.mjs"
-    ]
+    "esmodules": []
 }
