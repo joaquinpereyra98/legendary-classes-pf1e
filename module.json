@@ -4,7 +4,7 @@
     "description": "",
     "version": "#{VERSION}#",
     "compatibility": {
-        "minimun": "11",
+        "minimum": "11",
         "verified": "11"
     },
     "authors": [
@@ -18,7 +18,6 @@
     "url": "#{URL}#",
     "download": "#{DOWNLOAD}#",
     "manifest": "#{MANIFEST}#",
-    "socket": true,
     "readme": "README.md",
     "relationships": {
         "systems": [
