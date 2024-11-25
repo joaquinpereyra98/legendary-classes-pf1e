@@ -2,7 +2,7 @@
     "id": "legendary-classes-pf1e",
     "title": "Legendary Classes for PF1e",
     "description": "",
-    "version": "1.0.0",
+    "version": "#{VERSION}",
     "compatibility": {
         "minimun": "11",
         "verified": "11"
@@ -15,9 +15,9 @@
             "discord": "joaquinp98"
         }
     ],
-    "url": "",
-    "download": "",
-    "manifest": "",
+    "url": "#{URL}#",
+    "download": "#{DOWNLOAD}#",
+    "manifest": "#{MANIFEST}#",
     "socket": true,
     "readme": "README.md",
     "relationships": {
