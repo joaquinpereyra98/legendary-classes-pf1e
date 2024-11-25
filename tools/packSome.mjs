@@ -10,12 +10,12 @@ const somePack = [
   //"rage-forms",
   //"rage-powers",
   //"legendary-cleric-abilities",
-  "legendary-domains",
-  "legendary-domains-abilities",
+  //"legendary-domains",
+  //"legendary-domains-abilities",
 ];
 
 const MODULE_ID = process.cwd();
-const yaml = true;
+const yaml = true;s
 
 const packs = await fs.readdir("./src/packs");
 let fileTotal = 0;
