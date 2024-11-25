@@ -2,7 +2,7 @@
     "id": "legendary-classes-pf1e",
     "title": "Legendary Classes for PF1e",
     "description": "",
-    "version": "#{VERSION}",
+    "version": "#{VERSION}#",
     "compatibility": {
         "minimun": "11",
         "verified": "11"
